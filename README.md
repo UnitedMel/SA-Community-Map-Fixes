@@ -1,7 +1,7 @@
 # [SA] Community Map Fixes
 #### A community driven project aimed at fixing bugs and inconsistencies in the GTA San Andreas map. Plus improvements and detaling.
 
-## Latest Pre-Release - 11-01-2021
+## Latest Version
 [Download](https://github.com/UnitedMel/-SA-Community-Map-Fixes/archive/main.zip)
 
 ## INSTALLATION:
@@ -76,3 +76,4 @@ GTA SA - Script Fixes: https://gtaforums.com/topic/937827-gta-sa-script-fixes-fi
 - Unofficial Patch: Kurtis / Sleepy93HUN
 - cluckinbell1_las2.dff, laelasruff201.dff, n_bit_20.dff, venice_alpha.dff, gen_roadsign2.dff, vineblock1_lawn.dff, lawn_holbuild21.dff, offvensp03_law.dff, law_vengrnd.dff, melblok05_lawn.dff: UnitedMel
 - Map Fixes: JohnnyK(Aztecas_5)
+- Easter Basin Water Materials: Inadequate
