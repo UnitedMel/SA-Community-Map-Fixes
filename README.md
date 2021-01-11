@@ -4,15 +4,17 @@ Community driven project aimed on fixing bugs and incosistencies in GTA San Andr
 Instructions:
 
 1.Copy the folder "Community Map Fixes" to your Modloader folder.
+
 2.Replace LodLights.dat in your scripts folder (Install Project2DFX first).
 
 OPTIONAL: Original img's with mip-maps applied (except hud/radar textures).
 For downgraded GTASA version 1.0.
 
 gta3.img: https://drive.google.com/file/d/1BjBkC_beDPWc5G1CN-Hcti1HstN-jHGr/view?usp=sharing
-gta_int.img: https://drive.google.com/file/d/1MiX2sY_EOEso615KUmItDTRGT4SDLxs1/view?usp=sharing
-cutscene.img: https://drive.google.com/file/d/1VbSiXcIA9yqXT3ilAoIe1yY6AAT2dtf9/view?usp=sharing
 
+gta_int.img: https://drive.google.com/file/d/1MiX2sY_EOEso615KUmItDTRGT4SDLxs1/view?usp=sharing
+
+cutscene.img: https://drive.google.com/file/d/1VbSiXcIA9yqXT3ilAoIe1yY6AAT2dtf9/view?usp=sharing
 
 GTA SA - Script Fixes: https://gtaforums.com/topic/937827-gta-sa-script-fixes-finding-and-fixing-script-glitches/
 
