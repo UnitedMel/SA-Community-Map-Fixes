@@ -10,7 +10,7 @@
 
 2. Replace LodLights.dat in your scripts folder (Install Project2DFX first: https://github.com/ThirteenAG/III.VC.SA.IV.Project2DFX/releases/tag/gtasa).
 
-3. Replace your img's with mip-mapapped orignals. (For downgraded SA v1.0):
+3. (Optional) Replace your img's with mip-mapapped originals. Don't forget to make backup. (For downgraded SA v1.0):
 
 gta3.img: https://drive.google.com/file/d/1BjBkC_beDPWc5G1CN-Hcti1HstN-jHGr/view?usp=sharing
 
