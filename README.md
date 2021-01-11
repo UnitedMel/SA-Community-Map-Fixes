@@ -3,7 +3,7 @@ Community driven project aimed on fixing bugs and incosistencies in GTA San Andr
 
 Instructions:
 
-Copy the folder "Community Map Patch" to your Modloader folder.
+Copy the folder "Community Map Fixes" to your Modloader folder.
 Replace LodLights.dat in your scripts folder (Install Project2DFX first).
 
 Modloader is required: https://www.mixmods.com.br/2015/01/SA-Modloader.html
