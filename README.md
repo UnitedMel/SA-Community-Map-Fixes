@@ -1,6 +1,5 @@
 # [SA] Community Map Fixes
-## A community driven project aimed at fixing bugs and inconsistencies in the GTA San Andreas map.
-## Plus improvements and detaling.
+#### A community driven project aimed at fixing bugs and inconsistencies in the GTA San Andreas map. Plus improvements and detaling.
 
 # Latest Pre-Release - 11-01-2021
 [Download](https://github.com/UnitedMel/-SA-Community-Map-Fixes/archive/main.zip)
