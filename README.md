@@ -1,7 +1,7 @@
 # -SA-Community-Map-Fixes
 A community driven project aimed at fixing bugs and inconsistencies in the GTA San Andreas map. Plus improvements and detaling.
 
-# Version: 11-01-2021
+# Latest Version - 11-01-2021
 
 # INSTALLATION:
 
