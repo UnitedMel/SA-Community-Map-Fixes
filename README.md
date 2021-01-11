@@ -41,7 +41,7 @@ LitChurch: Zeneric
 
 Improved Water.dat: Zeneric
 
-Escalator Physics Fix: Staunton Assasi)
+Escalator Physics Fix: Staunton Assassin
 
 Finalized Pickups: Staunton Assasin
 
