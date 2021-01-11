@@ -18,7 +18,9 @@ This main.scm fixes: https://gtaforums.com/topic/937827-gta-sa-script-fixes-find
 
 Authors:
 Original Pre-lighting Fixes Pack: JuniorDjjr
+
 Vertex Colour Fix + 2dfx Effects: atfburner
+
 Vertex Colour Fixes + Improvements: RJSanModder
 Fixed Vegetation Pre-Lighting: d3jan
 Vinewood Building Vertex Fix: Crack Yo' Neck
