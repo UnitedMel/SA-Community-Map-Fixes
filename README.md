@@ -33,7 +33,6 @@ GTA SA - Script Fixes: https://gtaforums.com/topic/937827-gta-sa-script-fixes-fi
 - Improved Water.dat: Zeneric
 - Escalator Physics Fix: Staunton Assassin
 - Finalized Pickups: Staunton Assasin
-- docks01 Road Revamp: TFP
 - PS2 Models: Tomasak / Inadequate / Mugetsuga / KDST
 - Mugetsuga's Fixes: Mugetsuga
 - Beta Leftovers Fix: MrFinger / Kalvin
