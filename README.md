@@ -15,8 +15,11 @@ cutscene.img: https://drive.google.com/file/d/1VbSiXcIA9yqXT3ilAoIe1yY6AAT2dtf9/
 
 
 GTA SA - Script Fixes: https://gtaforums.com/topic/937827-gta-sa-script-fixes-finding-and-fixing-script-glitches/
+
 Modloader is required: https://www.mixmods.com.br/2015/01/SA-Modloader.html
+
 Project2DFX is required: https://www.mixmods.com.br/2015/04/Project2DFX.html
+
 SkyGFX and SilentPatch probably too.
 
 RECOMMENDED: Lower the priority of this folder in modloader.ini: https://www.mixmods.com.br/2015/07/tutorial-dicas-tudo-sobre-mod-loader.html#Priority
