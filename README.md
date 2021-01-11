@@ -122,6 +122,4 @@ cluckinbell1_las2.dff, laelasruff201.dff, n_bit_20.dff, venice_alpha.dff, gen_ro
 
 Map Fixes: JohnnyK(Aztecas_5)
 
-Sorry if I forgot someone.
-
 Version: 11.01.2021
