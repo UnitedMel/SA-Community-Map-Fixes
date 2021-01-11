@@ -1,7 +1,8 @@
 # [SA] Community Map Fixes
-A community driven project aimed at fixing bugs and inconsistencies in the GTA San Andreas map. Plus improvements and detaling.
+###### A community driven project aimed at fixing bugs and inconsistencies in the GTA San Andreas map. Plus improvements and detaling.
 
 # Latest Version - 11-01-2021
+[Download](https://github.com/UnitedMel/-SA-Community-Map-Fixes/archive/main.zip)
 
 # INSTALLATION:
 
@@ -42,7 +43,7 @@ LitChurch: Zeneric
 
 Improved Water.dat: Zeneric
 
-Escalator Physics Fix: Staunton Assasin
+Escalator Physics Fix: Staunton Assasi)
 
 Finalized Pickups: Staunton Assasin
 
