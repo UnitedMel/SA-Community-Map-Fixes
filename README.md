@@ -123,7 +123,7 @@ newcomprd_las2.dff, freeway2_las2.txd, btoroadsp3_las2.dff, roadssfse48.dff, ne_
 
 LAHills Fixes: mpPako
 
-Ocean Beach Fixes: mpPako
+Verona Beach Fixes: mpPako
 
 Another Collision Fixes: UnitedMel
 
