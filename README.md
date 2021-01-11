@@ -1,9 +1,9 @@
 # -SA-Community-Map-Fixes
 A community driven project aimed at fixing bugs and inconsistencies in the GTA San Andreas map. Plus improvements and detaling.
 
-Version: 11.01.2021
+# Version: 11-01-2021
 
-INSTALLATION:
+# INSTALLATION:
 
 1. Copy the folder "Community Map Fixes" to your Modloader folder (Install latest Modloader first: https://github.com/thelink2012/modloader/releases).
 
@@ -17,7 +17,7 @@ gta_int.img: https://drive.google.com/file/d/1MiX2sY_EOEso615KUmItDTRGT4SDLxs1/v
 
 cutscene.img: https://drive.google.com/file/d/1VbSiXcIA9yqXT3ilAoIe1yY6AAT2dtf9/view?usp=sharing
 
-OPTIONAL:
+# OPTIONAL:
 
 GTA SA - Script Fixes: https://gtaforums.com/topic/937827-gta-sa-script-fixes-finding-and-fixing-script-glitches/
 
@@ -26,7 +26,7 @@ SkyGFX and SilentPatch probably too.
 Recommended to lower the priority of "Community Map Fixes" folder in modloader.ini: https://www.mixmods.com.br/2015/07/tutorial-dicas-tudo-sobre-mod-loader.html#Priority
 So when you install another mod that replaces the same file, the other mod will replace this one.
 
-AUTHORS:
+# AUTHORS:
 
 Original Pre-lighting Fixes Pack: JuniorDjjr
 
