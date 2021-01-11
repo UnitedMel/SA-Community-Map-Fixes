@@ -3,18 +3,24 @@ Community driven project aimed on fixing bugs and incosistencies in GTA San Andr
 
 Instructions:
 
-Copy the folder "Community Map Fixes" to your Modloader folder.
-Replace LodLights.dat in your scripts folder (Install Project2DFX first).
+1.Copy the folder "Community Map Fixes" to your Modloader folder.
+2.Replace LodLights.dat in your scripts folder (Install Project2DFX first).
 
+OPTIONAL: Original img's with mip-maps applied (except hud/radar textures).
+For downgraded GTASA version 1.0.
+
+gta3.img: https://drive.google.com/file/d/1BjBkC_beDPWc5G1CN-Hcti1HstN-jHGr/view?usp=sharing
+gta_int.img: https://drive.google.com/file/d/1MiX2sY_EOEso615KUmItDTRGT4SDLxs1/view?usp=sharing
+cutscene.img: https://drive.google.com/file/d/1VbSiXcIA9yqXT3ilAoIe1yY6AAT2dtf9/view?usp=sharing
+
+
+GTA SA - Script Fixes: https://gtaforums.com/topic/937827-gta-sa-script-fixes-finding-and-fixing-script-glitches/
 Modloader is required: https://www.mixmods.com.br/2015/01/SA-Modloader.html
 Project2DFX is required: https://www.mixmods.com.br/2015/04/Project2DFX.html
 SkyGFX and SilentPatch probably too.
 
-RECOMMENDED: 
-Lower the priority of this folder in modloader.ini: https://www.mixmods.com.br/2015/07/tutorial-dicas-tudo-sobre-mod-loader.html#Priority
+RECOMMENDED: Lower the priority of this folder in modloader.ini: https://www.mixmods.com.br/2015/07/tutorial-dicas-tudo-sobre-mod-loader.html#Priority
 So when you install another mod that replaces the same file, the other mod will replace this one.
-
-This main.scm fixes: https://gtaforums.com/topic/937827-gta-sa-script-fixes-finding-and-fixing-script-glitches/
 
 Authors:
 
