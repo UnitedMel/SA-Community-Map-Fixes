@@ -1,14 +1,15 @@
 # -SA-Community-Map-Fixes
 Community driven project aimed on fixing bugs and incosistencies in GTA San Andreas map.
 
-Instructions:
+Version: 11.01.2021
 
-1.Copy the folder "Community Map Fixes" to your Modloader folder.
+INSTALLATION:
 
-2.Replace LodLights.dat in your scripts folder (Install Project2DFX first).
+1. Copy the folder "Community Map Fixes" to your Modloader folder (Install latest Modloader first: https://github.com/thelink2012/modloader/releases).
 
-OPTIONAL: Original img's with mip-maps applied (except hud/radar textures).
-For downgraded GTASA version 1.0.
+2. Replace LodLights.dat in your scripts folder (Install Project2DFX first: https://github.com/ThirteenAG/III.VC.SA.IV.Project2DFX/releases/tag/gtasa).
+
+3. Replace your img's with mip-mapapped orignals. (For downgraded SA v1.0):
 
 gta3.img: https://drive.google.com/file/d/1BjBkC_beDPWc5G1CN-Hcti1HstN-jHGr/view?usp=sharing
 
@@ -16,18 +17,16 @@ gta_int.img: https://drive.google.com/file/d/1MiX2sY_EOEso615KUmItDTRGT4SDLxs1/v
 
 cutscene.img: https://drive.google.com/file/d/1VbSiXcIA9yqXT3ilAoIe1yY6AAT2dtf9/view?usp=sharing
 
+OPTIONAL:
+
 GTA SA - Script Fixes: https://gtaforums.com/topic/937827-gta-sa-script-fixes-finding-and-fixing-script-glitches/
-
-Modloader is required: https://www.mixmods.com.br/2015/01/SA-Modloader.html
-
-Project2DFX is required: https://www.mixmods.com.br/2015/04/Project2DFX.html
 
 SkyGFX and SilentPatch probably too.
 
-RECOMMENDED: Lower the priority of this folder in modloader.ini: https://www.mixmods.com.br/2015/07/tutorial-dicas-tudo-sobre-mod-loader.html#Priority
+Recommended to lower the priority of "Community Map Fixes" folder in modloader.ini: https://www.mixmods.com.br/2015/07/tutorial-dicas-tudo-sobre-mod-loader.html#Priority
 So when you install another mod that replaces the same file, the other mod will replace this one.
 
-Authors:
+AUTHORS:
 
 Original Pre-lighting Fixes Pack: JuniorDjjr
 
@@ -134,5 +133,3 @@ Unofficial Patch: Kurtis / Sleepy93HUN
 cluckinbell1_las2.dff, laelasruff201.dff, n_bit_20.dff, venice_alpha.dff, gen_roadsign2.dff, vineblock1_lawn.dff, lawn_holbuild21.dff, offvensp03_law.dff, law_vengrnd.dff, melblok05_lawn.dff: UnitedMel
 
 Map Fixes: JohnnyK(Aztecas_5)
-
-Version: 11.01.2021
