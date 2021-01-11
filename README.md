@@ -116,6 +116,8 @@ LAHills Fixes: mpPako
 
 Ocean Beach Fixes: mpPako
 
+Another Collision Fixes: UnitedMel
+
 Unofficial Patch: Kurtis / Sleepy93HUN
 
 cluckinbell1_las2.dff, laelasruff201.dff, n_bit_20.dff, venice_alpha.dff, gen_roadsign2.dff, vineblock1_lawn.dff, lawn_holbuild21.dff, offvensp03_law.dff, law_vengrnd.dff, melblok05_lawn.dff: UnitedMel
