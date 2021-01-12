@@ -6,11 +6,11 @@
 
 ## INSTALLATION:
 
-1. Copy the folder "Community Map Fixes" to your Modloader folder (Install latest Modloader first: https://github.com/thelink2012/modloader/releases).
+1. Copy the folder "Community Map Fixes" to your ModLoader folder (Install latest ModLoader first: https://github.com/thelink2012/modloader/releases).
 
-2. Replace LodLights.dat in your scripts folder (Install Project2DFX first: https://github.com/ThirteenAG/III.VC.SA.IV.Project2DFX/releases/tag/gtasa).
+2. Replace SALodLights.dat in your scripts folder (Install Project2DFX first: https://github.com/ThirteenAG/III.VC.SA.IV.Project2DFX/releases/tag/gtasa).
 
-3. (Optional) Replace your img's with mip-mapapped originals. Don't forget to make backup. (For downgraded SA v1.0):
+3. (Optional) Replace your IMGs with mipmapped originals. Don't forget to make a backup (For downgraded SA v1.0):
 
 - gta3.img: https://drive.google.com/file/d/1BjBkC_beDPWc5G1CN-Hcti1HstN-jHGr/view?usp=sharing
 - gta_int.img: https://drive.google.com/file/d/1MiX2sY_EOEso615KUmItDTRGT4SDLxs1/view?usp=sharing
@@ -63,12 +63,12 @@ GTA SA - Script Fixes: https://gtaforums.com/topic/937827-gta-sa-script-fixes-fi
 - Improved Pickups Textures: Ash_735
 - Improved Car Shadow Texture: Ash_735
 - ORG Patch: DimZet13
-- CE_ROADS37 REVAMP: Savidge
-- BILLBD1_LAE REVAMP: Savidge
-- lae2_roads37.dff, lae2_roads38.dff, lae2_roads41.dff: Savidge
-- sunrise08_lawn.txd: Savidge
-- Sav Andreas: Savidge
-- sm_Agave_2.png: mpPako / Savidge
+- CE_ROADS37 REVAMP: savidge
+- BILLBD1_LAE REVAMP: savidge
+- lae2_roads37.dff, lae2_roads38.dff, lae2_roads41.dff: savidge
+- sunrise08_lawn.txd: savidge
+- Sav Andreas: savidge
+- sm_Agave_2.png: mpPako / savidge
 - newcomprd_las2.dff, freeway2_las2.txd, btoroadsp3_las2.dff, roadssfse48.dff, ne_bits_.dff: mpPako
 - LAHills Fixes: mpPako
 - Verona Beach Fixes: mpPako
