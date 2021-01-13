@@ -16,7 +16,7 @@ All Community Map Fixes changes.
 - Improved lamppost placements in Mulholland area (LAhills.ipl). [savidge]
 - Remapped gates and bushes in Mulholland area (LTCEmulhilhed1_law01.dff). [UnitedMel]
 - Remapped all Mulholland and Richman roads. [mpPako]
-- Remapped road intersection near Willow Field (lae2_roads37.dff, lae2_roads38.dff, lae2_roads41.dff). [mpPako]
+- Remapped roads near Los Flores (lae2_roads37.dff, lae2_roads38.dff, lae2_roads41.dff). [savidge]
 - Remapped roads near driving school in SF (roadssfse48.dff, starjunct_sfse.txd). [mpPako]
 - Remapped shops buildings near Jim's Sticky Ring (melblok05_lawn.dff). [UnitedMel]
 - Remapped highways in East Beach area (btoroadsp3.dff, btoroadxtra.dff, lae2_roads01.dff, lasroads_las2.txd). [mpPako]
