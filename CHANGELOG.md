@@ -2,7 +2,7 @@
 All Community Map Fixes changes.
 
 ### Added 13-01-2021
-- Fully remapped Market Station in LS (RailTunn01_LAwN.dff, TrainStat01_LAwN.dff, melrose13_lawn.txd, stationtunnel.txd). [mpPako]
+- Remapped Market Station in LS (RailTunn01_LAwN.dff, TrainStat01_LAwN.dff, melrose13_lawn.txd, stationtunnel.txd). [mpPako]
 ### Added 12-01-2021
 - Fixed floating lamp posts near Four Dragons Casino. Chinese lanterns now displays properly on every side (vegasE.ipl). [kebi]
 - Improved collision materials on Verona Beach and Santa Maria Beach in LS (law_1.col, law_2.col, law2_1.col, law2_3.col). [UnitedMel]
@@ -10,4 +10,27 @@ All Community Map Fixes changes.
 - Improved collision materials in Willow Field area near bridge (las2_4.col). [UnitedMel]
 ### Added 11-01-2021
 - Updated LA Hills models (CEnwhiltest91.dff, road_hilllawn12.dff). [mpPako]
-- Fully remapped road intersection, sidewalks and parking in Santa Maria Beach near safe house (Beach01_LAw2.dff, law_beach1.txd, law_beach2.txd, law2_3.col, law2_roadsb.txd, Roads33_Law2.dff, santamonicalaw.txd, santamonicalaw2a.txd). [mpPako]
+- Remapped road intersection, sidewalks and parking in Santa Maria Beach near safe house (Beach01_LAw2.dff, law_beach1.txd, law_beach2.txd, law2_3.col, law2_roadsb.txd, Roads33_Law2.dff, santamonicalaw.txd, santamonicalaw2a.txd). [mpPako]
+- Improved enterable trailer model in country junkyard (cuntwjunk04.dff). [mpPako]
+- Replaced pit near Vinewood sign with smooth surface. [mpPako]
+- Improved lamppost placements in Mulholland area (LAhills.ipl). [savidge]
+- Remapped gates and bushes in Mulholland area (LTCEmulhilhed1_law01.dff). [UnitedMel]
+- Remapped all Mulholland and Richman roads. [mpPako]
+- Remapped road intersection near Willow Field (lae2_roads37.dff, lae2_roads38.dff, lae2_roads41.dff). [mpPako]
+- Remapped roads near driving school in SF (roadssfse48.dff, starjunct_sfse.txd). [mpPako]
+- Remapped shops buildings near Jim's Sticky Ring (melblok05_lawn.dff). [UnitedMel]
+- Remapped highways in East Beach area (btoroadsp3.dff, btoroadxtra.dff, lae2_roads01.dff, lasroads_las2.txd). [mpPako]
+- Fixed seam in some road near abandoned airstrip (n_bit_20.dff). [UnitedMel]
+- Remapped road near Ganton in LS (newcomprd_las2.dff, freeway2_las2.txd). [mpPako]
+- Fixed seam near Burger Shot in Marina area (law_vengrnd.dff). [UnitedMel]
+- Fixed mapping of the back side of some building near Burger Shot in Marina area (offvensp03_law.dff). [UnitedMel]
+- Fixed seam and mapping on building in Vinewood (vineblock1_lawn.dff). [UnitedMel]
+- Improved prelighting of the fixed building model from Unofficial Patch in SF (oc_flats_gnd01_sfs.dff). [UnitedMel]
+- Fixed hole in roadsign model (gen_roadsign2.dff). [UnitedMel]
+- Remapped building in Vinewood area (lawn_holbuild21.dff). [UnitedMel]
+- Remapped roads near Pilson Intersection (ne_bit_09.dff, ne_bit_10.dff, ne_bit_09.dff, ne_bit_11.dff, ne_bit_15.dff, ne_bit_17.dff, ne_bit_19.dff). [mpPako]
+- Added mising Cluckin' Bell food menu sign in Willow Field area (cluckinbell1_las2.dff, lashops6_las2.txd). [UnitedMel]
+- Fixed bush sides mapping near Big Smoke house (laelasruff201.dff). [UnitedMel]
+- Changed position of the parked car in Playa Del Seville (las2_stream4.ipl). [UnitedMel]
+- Fixed vines model near Marina canals in LS (venice_alpha.dff). [UnitedMel]
+- Fixed parking sign position in Well Stacked Pizza in Idlewood (lae711block01.dff). [UnitedMel]
