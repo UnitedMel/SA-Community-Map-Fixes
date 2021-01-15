@@ -1,6 +1,8 @@
 # Change Log
 All Community Map Fixes changes.
 
+### Added 14-01-2021
+- Remapped Jim's Sticky Ring in LS (donut01_LAwN.dff, lawn_3.col, melrose12_lawn.txd, road_lawn14.dff, road_lawn27.dff). [mpPako]
 ### Added 13-01-2021
 - Remapped Market Station in LS (RailTunn01_LAwN.dff, TrainStat01_LAwN.dff, melrose13_lawn.txd, stationtunnel.txd). [mpPako]
 ### Added 12-01-2021
