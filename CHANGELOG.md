@@ -4,8 +4,10 @@ All Community Map Fixes changes.
 ### Added 26-01-2021
 - Remapped Cluckin' Bell in LS (lawncluckbel.dff, lawn_3.col, lawnshop1.dff, road_lawn05.dff, road_lawn21.dff, lawnabv.txd). [mpPako]
 - Remapped roads near Burger Shot in Sunrise LS (road_lawn02.dff, road_lawn32.dff, road_lawn34.dff, lawn_2.col). [mpPako]
-- Fixed prelight and mapping on shops near Jim's Sticky Ring in LS (MelBlok08_LAwN.dff, MelBlok06_LAwN.dff, melrose05_lawn.txd)
-- Fixed prelight and mapping on Hobos Restaurant in LS (sunset16_LAwN.dff)
+- Fixed prelight and mapping on shops near Jim's Sticky Ring in LS (MelBlok08_LAwN.dff, MelBlok06_LAwN.dff, melrose05_lawn.txd).  [mpPako]
+- Fixed prelight and mapping on Hobos Restaurant in LS (sunset16_LAwN.dff).  [mpPako]
+- Remapped grass in front of All Saints General hospital in LS (grasspatchlawn.dff).  [mpPako]
+- Fixed prelight, mapping and added windows to Vinyl Coundown in Rodeo LS (Sunset04_LAw2.dff).  [mpPako]
 ### Added 14-01-2021
 - Remapped Jim's Sticky Ring in LS (donut01_LAwN.dff, lawn_3.col, melrose12_lawn.txd, road_lawn14.dff, road_lawn27.dff). [mpPako]
 ### Added 13-01-2021
