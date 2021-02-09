@@ -3,6 +3,9 @@ All Community Map Fixes changes.
 
 ### Added 09-01-2021
 - Edited object placements in the Santa Maria Beach area (law2_stream4.ipl). [savidge]
+- Fixed seams in surface near Catalina shack (countrye_stream1.ipl). [UnitedMel]
+- Updated collision in LS skatepark (lae_5.col). [UnitedMel]
+- Fixed mapping on some bushes in Mullholland (cunte_landF4_03.dff). [UnitedMel]
 ### Added 26-01-2021
 - Remapped Cluckin' Bell in LS (lawncluckbel.dff, lawn_3.col, lawnshop1.dff, road_lawn05.dff, road_lawn21.dff, lawnabv.txd). [mpPako]
 - Remapped roads near Burger Shot in Sunrise LS (road_lawn02.dff, road_lawn32.dff, road_lawn34.dff, lawn_2.col). [mpPako]
