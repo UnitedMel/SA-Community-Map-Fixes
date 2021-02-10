@@ -1,7 +1,9 @@
 # Change Log
 All Community Map Fixes changes.
 
-### Added 09-01-2021
+### Added 10-02-2021
+- Fixed mapping on building near Santa Maria Beach (SanClift01_LAw2.dff, sancliff02_law2.txd). [savidge]
+### Added 09-02-2021
 - Edited object placements in the Santa Maria Beach area (law2_stream4.ipl). [savidge]
 - Fixed seams in surface near Catalina shack (countrye_stream1.ipl). [UnitedMel]
 - Updated collision in LS skatepark (lae_5.col). [UnitedMel]
