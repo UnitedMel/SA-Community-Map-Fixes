@@ -1,5 +1,5 @@
 # [SA] Community Map Fixes
-#### A community driven project aimed at fixing bugs and inconsistencies in the GTA San Andreas map. Plus improvements and detaling.
+#### A community-driven project aimed at fixing bugs and inconsistencies in the GTA: San Andreas map, plus improvements and detaling.
 
 ## Latest Version
 [Download](https://github.com/UnitedMel/-SA-Community-Map-Fixes/archive/main.zip)
@@ -10,7 +10,7 @@
 
 2. Replace SALodLights.dat in your scripts folder (Install Project2DFX first: https://github.com/ThirteenAG/III.VC.SA.IV.Project2DFX/releases/tag/gtasa).
 
-3. (Optional) Replace your IMGs with mipmapped originals. Don't forget to make a backup (For downgraded SA v1.0):
+3. (Optional) Replace your IMGs with mipmapped originals. Don't forget to make a backup (for downgraded SA v1.0):
 
 - gta3.img: https://drive.google.com/file/d/1BjBkC_beDPWc5G1CN-Hcti1HstN-jHGr/view?usp=sharing
 - gta_int.img: https://drive.google.com/file/d/1MiX2sY_EOEso615KUmItDTRGT4SDLxs1/view?usp=sharing
@@ -18,7 +18,7 @@
 
 ## OPTIONAL:
 
-GTA SA - Script Fixes: https://gtaforums.com/topic/937827-gta-sa-script-fixes-finding-and-fixing-script-glitches/
+Script Fixes: https://gtaforums.com/topic/937827-gta-sa-script-fixes-finding-and-fixing-script-glitches/
 
 ###### Recommended to lower the priority of "Community Map Fixes" folder in modloader.ini. So when you install another mod that replaces the same file, the other mod will replace this one.
 
@@ -63,8 +63,8 @@ GTA SA - Script Fixes: https://gtaforums.com/topic/937827-gta-sa-script-fixes-fi
 - Improved Pickups Textures: Ash_735
 - Improved Car Shadow Texture: Ash_735
 - ORG Patch: DimZet13
-- CE_ROADS37 REVAMP: savidge
-- BILLBD1_LAE REVAMP: savidge
+- CE_Roads37 Revamp: savidge
+- billbd1_LAe Revamp: savidge
 - lae2_roads37.dff, lae2_roads38.dff, lae2_roads41.dff: savidge
 - sunrise08_lawn.txd: savidge
 - Sav Andreas: savidge
