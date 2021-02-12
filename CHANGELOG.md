@@ -7,6 +7,7 @@ All Community Map Fixes changes.
 - New Collision for the dealership and road next to it (law2_2.col) [mpPako]/[UnitedMel]
 - Fixed object placements in order to accommodate the new Grotti dealership (LAw2.ipl, law2_stream2.ipl). [savidge]
 - Replaced billboard near tunnel in Verona Beach to ECola billboard for more variety (wiresetc_las.txd). [UnitedMel]
+- Remapped generic road signs (gen_roadsign1.dff, gen_roadsign2.dff) [mpPako]/[UnitedMel]
 ### Added 10-02-2021
 - Fixed mapping on building near Santa Maria Beach (SanClift01_LAw2.dff, sancliff02_law2.txd). [savidge]
 - Fixed object placements in Santa Maria Beach area (law2_stream0.ipl, law2_stream4.ipl). [savidge]
