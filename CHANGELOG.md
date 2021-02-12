@@ -2,9 +2,10 @@
 All Community Map Fixes changes.
 
 ### Added 12-02-2021
-- Completely redone Grotti Dealership in LS (sunset01_LAw2.dff, sunset02_law2.txd, Sunset04Tr_LAw2.dff, LODset01_LAw2.dff, occluLA.ipl) [mpPako]
+- Completely redone Grotti dealership in LS (sunset01_LAw2.dff, sunset02_law2.txd, Sunset04Tr_LAw2.dff, LODset01_LAw2.dff, occluLA.ipl) [mpPako]
 - Fixed mapping and adjustments on the street next to the dealership (Roads36_LAw2.dff) [mpPako]
 - New Collision for the dealership and road next to it (law2_2.col) [mpPako]/[UnitedMel]
+- Fixed object placements in order to accommodate the new Grotti dealership (LAw2.ipl, law2_stream2.ipl). [savidge]
 ### Added 10-02-2021
 - Fixed mapping on building near Santa Maria Beach (SanClift01_LAw2.dff, sancliff02_law2.txd). [savidge]
 - Fixed object placements in Santa Maria Beach area (law2_stream0.ipl, law2_stream4.ipl). [savidge]
