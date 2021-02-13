@@ -10,7 +10,7 @@
 
 2. Replace SALodLights.dat in your scripts folder (Install Project2DFX first: https://github.com/ThirteenAG/III.VC.SA.IV.Project2DFX/releases/tag/gtasa).
 
-3. (Optional) Replace your IMGs with mipmapped originals. Don't forget to make a backup (for downgraded SA v1.0):
+3. (Optional) Replace your IMGs with mipmapped originals. Don't forget to make a backup! (*files for downgraded SA v1.0):
 
 - gta3.img: https://drive.google.com/file/d/1BjBkC_beDPWc5G1CN-Hcti1HstN-jHGr/view?usp=sharing
 - gta_int.img: https://drive.google.com/file/d/1MiX2sY_EOEso615KUmItDTRGT4SDLxs1/view?usp=sharing
