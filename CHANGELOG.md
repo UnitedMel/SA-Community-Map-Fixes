@@ -1,6 +1,9 @@
 # Change Log
 All Community Map Fixes changes.
 
+### Added 13-02-2021
+- Water cooler texture improvement (cj_office.txd, sunset02_law2.txd). [UnitedMel]
+- Fixed road sign text in Verona Beach area (law_stream5.ipl). [UnitedMel]
 ### Added 12-02-2021
 - Completely redone Grotti dealership in LS (sunset01_LAw2.dff, sunset02_law2.txd, Sunset04Tr_LAw2.dff, LODset01_LAw2.dff, occluLA.ipl) [mpPako]
 - Fixed mapping and adjustments on the street next to the dealership (Roads36_LAw2.dff) [mpPako]
