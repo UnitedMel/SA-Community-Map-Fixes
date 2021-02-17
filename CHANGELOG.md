@@ -1,13 +1,33 @@
 # Change Log
 All Community Map Fixes changes.
 
+### Added 17-02-2021
+- Added missing signs to already fixed roads (ne_bit_11.dff, NEWCOMPRD_las2.dff, Roads40_CE.dff) [mpPako]
+- Remapped roads in LAHills (CEroad_6.dff, road_hill01.dff, road_hill04b.dff, roadslahills.txd, TCEcuntun.dff, TCElawcuntun1a_law2.dff, TCElawcuntuna_law2.dff, TCElawcuntunb.dff) [mpPako]
+- Fixed collisions in LAHills (lahills_2.col, lahills_6.col) [mpPako]
+- Remapped roads in LAw2 (countclub01_LAw2.dff, law2_roadsb.txd, Roads09_LAw2.dff, Roads10_LAw2.dff, Roads11_LAw2.dff, Roads22_LAw2.dff, Roads36_LAw2.dff, TCEcuntun.dff) [mpPako]
+- Fixed collisions in LAw2 (law2_2.col) [mpPako]
+- Continued fenece on basketball field in Playa del Seville (las2jmscum12.dff, las2jmscumTR12.dff) [mpPako]
+- New collision for basketball field and other fixes (las2_2.col) [mpPako]
+- Remmaped roads in East Beach (CE_grndPALCST05.dff, CE_roadscoast08.dff, cunte_roads40.dff, cunteroads3.txd, lae2_roadscoast01.dff, lae2_roadscoast03.dff, lae2_roadscoast04.dff, lae2_roadscoast05.dff, lae2_roadscoast06.dff, lae2roadscoast.txd, lahillsroadscoast.txd) [mpPako]
+- Fixed collisions and adjusted for new roads in East Beach (lae2_1.col, lae2_3.col, lahills_1.col, countrye_1.col) [mpPako]
+- Fixed fences and wires in East Los Santos (gangblock1Tr_LAe.dff, lae2_5.col) [mpPako]
+- Fixed fenece and opened transpission reapair shop in Las Colinas (laeChicanoTr1.dff, lae_2.col) [mpPako]
+- Fixed fenece, wires and added road fences in Mulholland (CEhollyhil8a.dff, lahills_3.col) [mpPako]
+- Fixed collision gap in Ocean Docks (las_1.col) [mpPako]
+- Fixed gap in road collision in El Corona (las_2.col) [mpPako]
+- Fixed gap in road collision in Verdant Bluffs (lan_1.col) [mpPako]
+- Fixed collision of highway in Commerce (lan_2.col) [mpPako]
+- Fixed disappearing Cluckin' Bells doors in Market (occluLA.ipl) [mpPako]
+- Added fixed Vegas road (vegasnroad19.dff) [JohnnyK]
+- Added open ironworks (lae2_ground11.dff, lae2_5.col) [SergeF1988]
 ### Added 13-02-2021
 - Water cooler texture improvement (cj_office.txd, sunset02_law2.txd). [UnitedMel]
 - Fixed road sign text in Verona Beach area (law_stream5.ipl). [UnitedMel]
 ### Added 12-02-2021
 - Completely redone Grotti dealership in LS (sunset01_LAw2.dff, sunset02_law2.txd, Sunset04Tr_LAw2.dff, LODset01_LAw2.dff, occluLA.ipl) [mpPako]
 - Fixed mapping and adjustments on the street next to the dealership (Roads36_LAw2.dff) [mpPako]
-- New Collision for the dealership and road next to it (law2_2.col) [mpPako]/[UnitedMel]
+- New collision for the dealership and road next to it (law2_2.col) [mpPako]/[UnitedMel]
 - Fixed object placements in order to accommodate the new Grotti dealership (LAw2.ipl, law2_stream2.ipl). [savidge]
 - Replaced billboard near tunnel in Verona Beach to ECola billboard for more variety (wiresetc_las.txd). [UnitedMel]
 - Remapped generic road signs (gen_roadsign1.dff, gen_roadsign2.dff) [mpPako]/[UnitedMel]
