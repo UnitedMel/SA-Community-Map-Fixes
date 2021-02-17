@@ -77,3 +77,4 @@ Script Fixes: https://gtaforums.com/topic/937827-gta-sa-script-fixes-finding-and
 - cluckinbell1_las2.dff, laelasruff201.dff, n_bit_20.dff, venice_alpha.dff, gen_roadsign2.dff, vineblock1_lawn.dff, lawn_holbuild21.dff, offvensp03_law.dff, law_vengrnd.dff, melblok05_lawn.dff: UnitedMel
 - Map Fixes: JohnnyK(Aztecas_5)
 - Easter Basin Water Materials: Inadequate
+- Open Ironworks: SergeF1988
