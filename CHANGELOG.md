@@ -12,7 +12,7 @@ All Community Map Fixes changes.
 - Remmaped roads in East Beach (CE_grndPALCST05.dff, CE_roadscoast08.dff, cunte_roads40.dff, cunteroads3.txd, lae2_roadscoast01.dff, lae2_roadscoast03.dff, lae2_roadscoast04.dff, lae2_roadscoast05.dff, lae2_roadscoast06.dff, lae2roadscoast.txd, lahillsroadscoast.txd) [mpPako]
 - Fixed collisions and adjusted for new roads in East Beach (lae2_1.col, lae2_3.col, lahills_1.col, countrye_1.col) [mpPako]
 - Fixed fences and wires in East Los Santos (gangblock1Tr_LAe.dff, lae2_5.col) [mpPako]
-- Fixed fenece and opened transpission reapair shop in Las Colinas (laeChicanoTr1.dff, lae_2.col) [mpPako]
+- Fixed fenece and opened transmission reapair shop in Las Colinas (laeChicanoTr1.dff, lae_2.col) [mpPako]
 - Fixed fenece, wires and added road fences in Mulholland (CEhollyhil8a.dff, lahills_3.col) [mpPako]
 - Fixed collision gap in Ocean Docks (las_1.col) [mpPako]
 - Fixed gap in road collision in El Corona (las_2.col) [mpPako]
