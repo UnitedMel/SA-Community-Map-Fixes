@@ -1,6 +1,8 @@
 # Change Log
 All Community Map Fixes changes.
 
+### Added 26-02-2021
+- Updated grass/sand/wood collision materials in East Beach, Verdant Bluffs, LS Forum vicinity (lae2_1.col, lae2_3.col, lahills_1.col, las_4.col, las2_2.col) [UnitedMel]
 ### Added 17-02-2021
 - Added missing signs to already fixed roads (ne_bit_11.dff, NEWCOMPRD_las2.dff, Roads40_CE.dff) [mpPako]
 - Remapped roads in LAHills (CEroad_6.dff, road_hill01.dff, road_hill04b.dff, roadslahills.txd, TCEcuntun.dff, TCElawcuntun1a_law2.dff, TCElawcuntuna_law2.dff, TCElawcuntunb.dff) [mpPako]
