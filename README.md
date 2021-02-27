@@ -78,3 +78,4 @@ Script Fixes: https://gtaforums.com/topic/937827-gta-sa-script-fixes-finding-and
 - Map Fixes: JohnnyK(Aztecas_5)
 - Easter Basin Water Materials: Inadequate
 - Open Ironworks: SergeF1988
+- Animated airport radar: AVALS343
