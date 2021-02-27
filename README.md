@@ -1,7 +1,8 @@
 # [SA] Community Map Fixes 🛠 | [Download](https://github.com/UnitedMel/-SA-Community-Map-Fixes/archive/main.zip)
 ![alt](https://i.imgur.com/imQTEoN.png)
 ## Description:
-#### A community-driven project aimed at fixing bugs and inconsistencies in the GTA: San Andreas map, plus improvements and detaling.
+#### A community-driven project aimed at fixing bugs and inconsistencies in the Grand Theft Auto: San Andreas map.
+#### Plus additional improvements and detaling.
 
 ## Installation:
 
