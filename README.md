@@ -1,28 +1,26 @@
-# [SA] Community Map Fixes
+# [SA] Community Map Fixes | [Download](https://github.com/UnitedMel/-SA-Community-Map-Fixes/archive/main.zip)
+
+## Description:
 #### A community-driven project aimed at fixing bugs and inconsistencies in the GTA: San Andreas map, plus improvements and detaling.
 
-## Latest Version
-[Download](https://github.com/UnitedMel/-SA-Community-Map-Fixes/archive/main.zip)
+## Installation:
 
-## INSTALLATION:
+1. Copy the folder "Community Map Fixes" to your ModLoader folder (Install latest [ModLoader](https://github.com/thelink2012/modloader/releases)).
 
-1. Copy the folder "Community Map Fixes" to your ModLoader folder (Install latest ModLoader first: https://github.com/thelink2012/modloader/releases).
-
-2. Replace SALodLights.dat in your scripts folder (Install Project2DFX first: https://github.com/ThirteenAG/III.VC.SA.IV.Project2DFX/releases/tag/gtasa).
+2. Replace SALodLights.dat in your scripts folder (Install [Project2DFX](https://github.com/ThirteenAG/III.VC.SA.IV.Project2DFX/releases/tag/gtasa)).
 
 3. (Optional) Replace your IMGs with mipmapped originals. Don't forget to make a backup! (*files for downgraded SA v1.0):
+- [gta3.img](https://drive.google.com/file/d/1BjBkC_beDPWc5G1CN-Hcti1HstN-jHGr/view?usp=sharing)
+- [gta_int.img](https://drive.google.com/file/d/1MiX2sY_EOEso615KUmItDTRGT4SDLxs1/view?usp=sharing)
+- [cutscene.img](https://drive.google.com/file/d/1VbSiXcIA9yqXT3ilAoIe1yY6AAT2dtf9/view?usp=sharing)
 
-- gta3.img: https://drive.google.com/file/d/1BjBkC_beDPWc5G1CN-Hcti1HstN-jHGr/view?usp=sharing
-- gta_int.img: https://drive.google.com/file/d/1MiX2sY_EOEso615KUmItDTRGT4SDLxs1/view?usp=sharing
-- cutscene.img: https://drive.google.com/file/d/1VbSiXcIA9yqXT3ilAoIe1yY6AAT2dtf9/view?usp=sharing
+## Optional Improvements:
 
-## OPTIONAL:
-
-Script Fixes: https://gtaforums.com/topic/937827-gta-sa-script-fixes-finding-and-fixing-script-glitches/
+[Script Fixes](https://gtaforums.com/topic/937827-gta-sa-script-fixes-finding-and-fixing-script-glitches/) - fixed main.scm.
 
 ###### Recommended to lower the priority of "Community Map Fixes" folder in modloader.ini. So when you install another mod that replaces the same file, the other mod will replace this one.
 
-## AUTHORS:
+## Authors:
 
 - Original Pre-lighting Fixes Pack: JuniorDjjr
 - Vertex Colour Fix + 2dfx Effects: atfburner
