@@ -2,7 +2,8 @@
 All Community Map Fixes changes.
 
 ### Added 27-02-2021
-- Fixed this [bug in SF](https://i.imgur.com/QYoMmZk.png) and updated whole maps folder. [mpPako]/[UnitedMel]
+- Fixed seams and uv maps in fence and bridge near LS Forum (lae2_ground07.dff, stadtplaza_lae2.txd, stdrainalpha3b.dff, Stordrablas2.dff, stormdrainLAE2_04.dff) [UnitedMel]
+- Fixed this [bug in SF](https://i.imgur.com/QYoMmZk.png) and updated whole maps folder [mpPako]/[UnitedMel]
 ### Added 26-02-2021
 - Updated grass/sand/wood collision materials in East Beach, Verdant Bluffs, LS Forum vicinity (lae2_1.col, lae2_3.col, lahills_1.col, las_4.col, las2_2.col) [UnitedMel]
 ### Added 17-02-2021
