@@ -13,6 +13,7 @@ All Community Map Fixes changes.
 - Added parking spots and fixed preligt on buling in Rodeo (rodeo06_LAw2.dff, rodeo05_law2.txd) [mpPako]
 - Remapped roadsigns posts (rdsign01_LAw2.dff, rdsign01_LAw03.dff, rdsigns4_LAe03.dff, rdsigns4_LAe05.dff) [mpPako]
 - Improved roadsigns (Freeway3_LAn2.dff, freeway10_lan2.dff, lae2_roads03.dff, lae2_roads17.dff, lae2_roads44.dff, lae2_roads78.dff, laeroad47.dff, lawroads_law16.dff, Roads02_LAw2.dff, Roads01_LAw2.dff, Roads28_LAw2.dff, Roads36_LAw2.dff) [UnitedMel]
+- Fixed collision brightness (lawn_2.col, lawn_3.col) [UnitedMel]
 ### Added 27-02-2021
 - Fixed seams and uv maps in fence and bridge near LS Forum (lae2_ground07.dff, stadtplaza_lae2.txd, stdrainalpha3b.dff, Stordrablas2.dff, stormdrainLAE2_04.dff) [UnitedMel]
 - Fixed this [bug in SF](https://i.imgur.com/QYoMmZk.png) and updated whole maps folder [mpPako]/[UnitedMel]
