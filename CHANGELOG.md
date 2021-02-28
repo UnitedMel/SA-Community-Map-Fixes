@@ -8,7 +8,7 @@ All Community Map Fixes changes.
 - Fixed maping at beach areas (Beach01_LAw2.dff, Beach02_LAw2.dff, Beachut01_LAw2.dff) [mpPako]
 - Fixed prelight on clifs in Rodeo (BeaCliff02_LAw2.dff, BeaCliff04_LAw2.dff) [mpPako]
 - Fixed barbed wire on TV Studio (tvstudioTr_LAw2.dff) [mpPako]
-- Fixed mapping ob buuilding in Rodeo (sunset08_LAw2.dff) [mpPako]
+- Fixed mapping ob building in Rodeo (sunset08_LAw2.dff) [mpPako]
 - Fixed prelight on building in Rodeo (SanClift01_LAw2.dff) [mpPako]
 - Added parking spots and fixed preligt on buling in Rodeo (rodeo06_LAw2.dff, rodeo05_law2.txd) [mpPako]
 - Remapped roadsigns posts (rdsign01_LAw2.dff, rdsign01_LAw03.dff, rdsigns4_LAe03.dff, rdsigns4_LAe05.dff) [mpPako]
