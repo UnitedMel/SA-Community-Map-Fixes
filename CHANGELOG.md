@@ -1,6 +1,8 @@
 # Change Log
 All Community Map Fixes changes.
 
+### Added 28-02-2021
+- Fixed brightness on a sidewalks at LS Donut Shop (lawn_3.col). [UnitedMel]
 ### Added 27-02-2021
 - Fixed seams and uv maps in fence and bridge near LS Forum (lae2_ground07.dff, stadtplaza_lae2.txd, stdrainalpha3b.dff, Stordrablas2.dff, stormdrainLAE2_04.dff) [UnitedMel]
 - Fixed this [bug in SF](https://i.imgur.com/QYoMmZk.png) and updated whole maps folder [mpPako]/[UnitedMel]
