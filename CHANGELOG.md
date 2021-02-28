@@ -5,7 +5,7 @@ All Community Map Fixes changes.
 - Corrected object placements and added parked car spawns to Rodeo vicinity (law2_stream0.ipl, law2_stream1.ipl, law2_stream2.ipl). [savidge]
 - Added parked car spawns to Jim's Sticky Ring car park (lawn_stream0.ipl). [savidge]
 - Relocated a problematic tree placement in Rodeo to Santa Maria Beach (LAw2.ipl). [savidge]
-- Fixed brightness on a sidewalks at LS Donut Shop (lawn_3.col). [UnitedMel]
+- Fixed brightness on a sidewalks at LS Donut Shop and on road near Grotti Dealership (lawn_2.col, lawn_3.col). [UnitedMel]
 - Completely remapped all roads in LAw2.ipl (law2_roadsb.txd, countclub01_LAw2.dff, countclub02_LAw2.dff, Pier01_LAw2.dff, Roads01_LAw2.dff, Roads02_LAw2.dff, Roads03_LAw2.dff, Roads04_LAw2.dff, Roads05_LAw2.dff, Roads06_LAw2.dff, Roads07_LAw2.dff, Roads08_LAw2.dff, Roads09_LAw2.dff, Roads10_LAw2.dff, Roads11_LAw2.dff, Roads12_LAw2.dff, Roads14_LAw2.dff, Roads15_LAw2.dff, Roads16_LAw2.dff, Roads17_LAw2.dff, Roads18_LAw2.dff, Roads19_LAw2.dff, Roads20_LAw2.dff, Roads21_LAw2.dff, Roads22_LAw2.dff, Roads23_LAw2.dff, Roads24_LAw2.dff, Roads25_LAw2.dff, Roads26_LAw2.dff, Roads27_LAw2.dff, Roads28_LAw2.dff, Roads29_LAw2.dff, Roads30_LAw2.dff, Roads31_LAw2.dff, Roads32_LAw2.dff, Roads33_LAw2.dff, Roads34_LAw2.dff, Roads35_LAw2.dff, Roads36_LAw2.dff,) [mpPako]
 - New collisions for LAw2.ipl roads (law2_1.col, law2_2.col, law2_3.col, law2_4.col) [mpPako]
 - Fixed mapping at beach areas (Beach01_LAw2.dff, Beach02_LAw2.dff, Beachut01_LAw2.dff) [mpPako]
@@ -16,7 +16,6 @@ All Community Map Fixes changes.
 - Added parking spots and fixed prelight on bulding in Rodeo (rodeo06_LAw2.dff, rodeo05_law2.txd) [mpPako]
 - Remapped roadsigns posts (rdsign01_LAw2.dff, rdsign01_LAw03.dff, rdsigns4_LAe03.dff, rdsigns4_LAe05.dff) [mpPako]
 - Improved roadsigns (Freeway3_LAn2.dff, freeway10_lan2.dff, lae2_roads03.dff, lae2_roads17.dff, lae2_roads44.dff, lae2_roads78.dff, laeroad47.dff, lawroads_law16.dff, Roads02_LAw2.dff, Roads01_LAw2.dff, Roads28_LAw2.dff, Roads36_LAw2.dff) [UnitedMel]
-- Fixed collision brightness (lawn_2.col, lawn_3.col) [UnitedMel]
 ### Added 27-02-2021
 - Fixed seams and uv maps in fence and bridge near LS Forum (lae2_ground07.dff, stadtplaza_lae2.txd, stdrainalpha3b.dff, Stordrablas2.dff, stormdrainLAE2_04.dff) [UnitedMel]
 - Fixed this [bug in SF](https://i.imgur.com/QYoMmZk.png) and updated whole maps folder [mpPako]/[UnitedMel]
