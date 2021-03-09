@@ -78,5 +78,5 @@
 - Easter Basin Water Materials: Inadequate
 - Open Ironworks: SergeF1988
 - Animated airport radar: AVALS343
-- Arcade Machine Fix: neon
+- Arcade Machine Fix: Neon
 - Additional Fences: Whokilledcaptainalex?
