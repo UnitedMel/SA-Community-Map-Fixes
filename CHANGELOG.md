@@ -2,7 +2,7 @@
 All Community Map Fixes changes.
 
 ### Added 09-03-2021
-- Fixed arcade machine texture for They Crawled From Uranus game. (cj_coin_op.txd, cj_coin_op_3.dff). [neon]
+- Fixed arcade machine texture for They Crawled From Uranus game. (cj_coin_op.txd, cj_coin_op_3.dff). [Neon]
 - Added missing fences to a building near Jim's Sticky Ring (LaWn.ipl). [Whokilledcaptainalex?]
 - Fixed seams near abandoned airstrip (cen_bit_01.dff, n_bit_10.dff, n_bit_19.dff). [UnitedMel]
 - Removed badly placed grass in Mulholland vicinity (lahills_2.col). [UnitedMel]
