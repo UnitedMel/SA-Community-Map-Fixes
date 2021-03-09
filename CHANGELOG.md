@@ -1,6 +1,11 @@
 # Change Log
 All Community Map Fixes changes.
 
+### Added 09-03-2021
+- Fixed arcade machine texture for They Crawled From Uranus game. (cj_coin_op.txd, cj_coin_op_3.dff). [neon]
+- Added missing fences to a building near Jim's Sticky Ring (LaWn.ipl). [Whokilledcaptainalex?]
+- Fixed seams near abandoned airstrip (cen_bit_01.dff, n_bit_10.dff, n_bit_19.dff). [UnitedMel]
+- Removed badly placed grass in Mulholland vicinity (lahills_2.col). [UnitedMel]
 ### Added 28-02-2021
 - Corrected object placements and added parked car spawns to Rodeo vicinity (law2_stream0.ipl, law2_stream1.ipl, law2_stream2.ipl). [savidge]
 - Added parked car spawns to Jim's Sticky Ring car park (lawn_stream0.ipl). [savidge]
