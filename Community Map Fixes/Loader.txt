@@ -1,0 +1,14 @@
+#KEEP THIS FILE INSIDE MODLOADER
+
+# atfburner's additional 2dfx
+COLFILE 0 modloader/Community Map Fixes/models/gta3.img/vtxcfix2dfxs.col
+IDE DATA/MAPS/LA/vtxcfix2dfxs.ide
+IPL DATA/MAPS/LA/vtxcfix2dfxs.ipl
+
+# zeneric's ls church with glowing windows
+COLFILE 0 modloader/Community Map Fixes/models/gta3.img/churchlite.col
+IDE DATA/MAPS/LA/churchlite.ide
+IPL DATA/MAPS/LA/churchlite.ipl
+
+# savidge's additional ls props
+IPL DATA/MAPS/LA/lawn_add.IPL
