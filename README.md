@@ -17,7 +17,7 @@
 
 ## Optional Improvements:
 
-[Script Fixes](https://gtaforums.com/topic/937827-gta-sa-script-fixes-finding-and-fixing-script-glitches/) - fixed main.scm.
+[Script Fixes](https://gtaforums.com/topic/937827-gta-sa-script-fixes-finding-and-fixing-script-glitches/) - fixed mission script (main.scm).
 
 [PC Dark San Fierro Roads](https://drive.google.com/file/d/1Qw5V6Y_WZgNBLadqQ2Egt01rIYjhYkb0/view?usp=sharing) - actually considered as a bug, but somebody would like to have them dark.
 
