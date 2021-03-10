@@ -1,6 +1,11 @@
 # Change Log
-All Community Map Fixes changes.
+Latest "Community Map Fixes" changes.
 
+### Added 10-03-2021 
+#### Directories Update. All files are sorted for better convenience.
+- Improved collision materials in SF Doherty (sfse_12.col). [UnitedMel]
+- Improved prelight in El Corona airport runway entrance (lasrnway8_LAS.dff). [UnitedMel]
+- Fixed night prelight on Area 69 fence (des_a51infenc.dff). [UnitedMel]
 ### Added 09-03-2021
 - Fixed uv's mapping on a road in Commerce and on a side of bridge in Montgomery Intersection (Roads01_LAn.dff, cunte_roads27W.dff). [UnitedMel]
 - Fixed arcade machine texture for They Crawled From Uranus game. (cj_coin_op.txd, cj_coin_op_3.dff). [Neon]
