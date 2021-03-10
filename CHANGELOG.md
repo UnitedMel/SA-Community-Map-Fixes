@@ -3,6 +3,8 @@ Latest "Community Map Fixes" changes.
 
 ### Added 10-03-2021 
 #### Directories Update. All files are sorted for better convenience.
+- Added PC Dark SF Roads as optional download (considered as a bug, but somebody would like to have them dark).
+- Added PS2 Grey SF Roads. [Ernestin1]/[mpPako]
 - Improved collision materials in SF Doherty (sfse_12.col). [UnitedMel]
 - Improved prelight in El Corona airport runway entrance (lasrnway8_LAS.dff). [UnitedMel]
 - Fixed night prelight on Area 69 fence (des_a51infenc.dff). [UnitedMel]
