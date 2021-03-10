@@ -1,3 +1,0 @@
-IDE _projects\_LitChurch\LitChurch\churchlite.ide
-IPL _projects\_LitChurch\LitChurch\churchlite.ipl
-COLFILE 0 _projects\_LitChurch\LitChurch\churchlite.col
