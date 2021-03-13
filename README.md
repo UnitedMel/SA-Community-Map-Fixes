@@ -17,7 +17,9 @@
 
 ## Optional Improvements:
 
-[Script Fixes](https://gtaforums.com/topic/937827-gta-sa-script-fixes-finding-and-fixing-script-glitches/) - fixed main.scm.
+[Script Fixes](https://gtaforums.com/topic/937827-gta-sa-script-fixes-finding-and-fixing-script-glitches/) - fixed mission script (main.scm).
+
+[PC Dark San Fierro Roads](https://drive.google.com/file/d/1Qw5V6Y_WZgNBLadqQ2Egt01rIYjhYkb0/view?usp=sharing) - actually considered as a bug, but somebody would like to have them dark.
 
 ###### Recommended to lower the priority of "Community Map Fixes" folder in modloader.ini. So when you install another mod that replaces the same file, the other mod will replace this one.
 
@@ -54,7 +56,7 @@
 - Cutscene Liberty City Xbox Textures: Blackbird88
 - Neons and Shadows: KDST
 - Z PC Maps + Fixes: ernestin1 / El Dorado / Junior_Djjr / Reyks
-- Map Textures Fix: YOEL_44 / ernestin1 / Blackbird88 / Tomasak / Junior_Djjr
+- Map Textures Fix + PS2 Grey SF Roads: YOEL_44 / ernestin1 / Blackbird88 / Tomasak / Junior_Djjr
 - Prop Vehicles Project: M. Osborn
 - Zero's Shop Improved Models: M. Osborn
 - Phonebox Improved Model: M. Osborn

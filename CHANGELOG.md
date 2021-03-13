@@ -5,11 +5,12 @@ Latest "Community Map Fixes" changes.
 #### Directories Update. All files are sorted for better convenience.
 - Added PC Dark SF Roads as optional download (considered as a bug, but somebody would like to have them dark).
 - Added PS2 Grey SF Roads. [Ernestin1]/[mpPako]
-- Improved collision materials in SF Doherty (sfse_12.col). [UnitedMel]
+- Improved collision materials in Doherty near fire station and crackden. (sfse_12.col). [UnitedMel]
 - Improved prelight in El Corona airport runway entrance (lasrnway8_LAS.dff). [UnitedMel]
 - Fixed night prelight on Area 69 fence (des_a51infenc.dff). [UnitedMel]
 ### Added 09-03-2021
-- Fixed uv's mapping on a road in Commerce and on a side of bridge in Montgomery Intersection (Roads01_LAn.dff, cunte_roads27W.dff). [UnitedMel]
+- Fixed uv mapping on a road in Commerce (Roads01_LAn.dff). [UnitedMel]
+- Fixed uv mapping on a side of bridge in Montgomery Intersection (cunte_roads27W.dff). [UnitedMel]
 - Fixed arcade machine texture for They Crawled From Uranus game. (cj_coin_op.txd, cj_coin_op_3.dff). [Neon]
 - Added missing fences to a building near Jim's Sticky Ring (lawn_stream0.ipl). [Whokilledcaptainalex?]
 - Fixed seams near abandoned airstrip (cen_bit_01.dff, n_bit_10.dff, n_bit_19.dff). [UnitedMel]
