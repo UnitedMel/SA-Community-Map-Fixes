@@ -1,21 +1,40 @@
 # Change Log
 Latest "Community Map Fixes" changes.
 
-### Added 10-03-2021 
+### 16-03-2021
+#### gud n col Update. Additional objects got new ID's to be more compatible with other mods: 612, 613, 614, 662, 663, 665.
+- Improved prelight on trailer near in Junkyard (cuntwjunk04.dff). [mpPako]
+- Fixed UV map on a road in Tierra Robada (nw_bit_29.dff). [mpPako]
+- Fixed UV map on foodmarket models (foodlawn.txd, lanblokb2.txd, lodlawnsmall.txd, foodmart1_lan.dff, foodmartlawn.dff, hollyhil05.dff, road_lawn32.dff, grndLAwn.dff). [UnitedMel]
+- Fixed UV map on a garage door (capitrec1_lawn.dff). [UnitedMel]
+- Fixed procedural grass spawning on gravel surface (vegase_1.col, vegasn_3.col). [UnitedMel]
+- Fixed seams and floating building near barber shop in LS (law_vengrnd.dff, offven01_law01.dff). [UnitedMel]
+- Fixed seam between roads in LS Hospital area (lawn_stream2.ipl). [UnitedMel]
+- Ported LV passable bushes to LS (lawn_1.col, law_1.col). [UnitedMel]
+- Fixed seam on a road near Ammu-Nation in Bone County (s_bit_10.dff, countn2_20.col). [UnitedMel]
+- Fixed lighting issue on a road near Ammu-Nation in LV (vegase_11.col). [UnitedMel]
+- Fixed lighting issue on a road near Research Lab in Tierra Robada (countn2_11.col). [UnitedMel]
+- Fixed "radioactive bright" grass in Las Venturas (vegase_11.col, vegasn_1.col, vegasn_3.col, vegasn_5.col, vegasw_1.col, vegasw_2.col, vegasw_5.col, vegasw_6.col, vegasw_7.col, vegasw_8.col, vegasw_9.col, vegaxref.col) [UnitedMel]
+- Improved procedural grass in Area 69 area (countn2_3.col, countn2_4.col, countn2_5.col, countn2_6.col, countn2_9.col, countn2_10.col, countn2_14.col, countn2_20.col, cuntdesxref.col). [UnitedMel]
+- Restored LOD for a trailer in Tierra Robada (but seems like this place is bugged and trailer LOD visible when near too) (countn2_stream6.ipl, countn2.ipl, counxref.ide). [UnitedMel]
+### 13-03-2021
+- Fixed Smoke crack palace floor texture (carter_mainmap.txd). [UnitedMel]
+- Caligula's Heist vault door transparency fix (ab_vaultdoor.dff). [Marsi4eg]
+### 10-03-2021 
 #### Directories Update. All files are sorted for better convenience.
 - Added PC Dark SF Roads as optional download (considered as a bug, but somebody would like to have them dark).
 - Added PS2 Grey SF Roads. [Ernestin1]/[mpPako]
 - Improved collision materials in Doherty near fire station and crackden. (sfse_12.col). [UnitedMel]
 - Improved prelight in El Corona airport runway entrance (lasrnway8_LAS.dff). [UnitedMel]
 - Fixed night prelight on Area 69 fence (des_a51infenc.dff). [UnitedMel]
-### Added 09-03-2021
+### 09-03-2021
 - Fixed uv mapping on a road in Commerce (Roads01_LAn.dff). [UnitedMel]
 - Fixed uv mapping on a side of bridge in Montgomery Intersection (cunte_roads27W.dff). [UnitedMel]
 - Fixed arcade machine texture for They Crawled From Uranus game. (cj_coin_op.txd, cj_coin_op_3.dff). [Neon]
 - Added missing fences to a building near Jim's Sticky Ring (lawn_stream0.ipl). [Whokilledcaptainalex?]
 - Fixed seams near abandoned airstrip (cen_bit_01.dff, n_bit_10.dff, n_bit_19.dff). [UnitedMel]
 - Removed badly placed grass in Mulholland vicinity (lahills_2.col). [UnitedMel]
-### Added 28-02-2021
+### 28-02-2021
 - Corrected object placements and added parked car spawns to Rodeo vicinity (law2_stream0.ipl, law2_stream1.ipl, law2_stream2.ipl). [savidge]
 - Added parked car spawns to Jim's Sticky Ring car park (lawn_stream0.ipl). [savidge]
 - Relocated a problematic tree placement in Rodeo to Santa Maria Beach (LAw2.ipl). [savidge]
@@ -30,11 +49,11 @@ Latest "Community Map Fixes" changes.
 - Added parking spots and fixed prelight on bulding in Rodeo (rodeo06_LAw2.dff, rodeo05_law2.txd) [mpPako]
 - Remapped roadsigns posts (rdsign01_LAw2.dff, rdsign01_LAw03.dff, rdsigns4_LAe03.dff, rdsigns4_LAe05.dff) [mpPako]
 - Improved roadsigns (Freeway3_LAn2.dff, freeway10_lan2.dff, lae2_roads03.dff, lae2_roads17.dff, lae2_roads44.dff, lae2_roads78.dff, laeroad47.dff, lawroads_law16.dff, Roads02_LAw2.dff, Roads01_LAw2.dff, Roads28_LAw2.dff, Roads36_LAw2.dff) [UnitedMel]
-### Added 27-02-2021
+### 27-02-2021
 - Fixed seams and uv maps in fence and bridge near LS Forum (lae2_ground07.dff, stadtplaza_lae2.txd, stdrainalpha3b.dff, Stordrablas2.dff, stormdrainLAE2_04.dff) [UnitedMel]
 - Fixed this [bug in SF](https://i.imgur.com/QYoMmZk.png) and updated whole maps folder [mpPako]/[UnitedMel]
 - Added animated airport radar (ap_radar1_01.dff, ap_radar1_01.ifp, multiobj.col, multiobj.ide) [mpPako]/[AVALS343]
-### Added 26-02-2021
+### 26-02-2021
 - Updated grass/sand/wood collision materials in East Beach, Verdant Bluffs, LS Forum vicinity (lae2_1.col, lae2_3.col, lahills_1.col, las_4.col, las2_2.col) [UnitedMel]
 ### Added 17-02-2021
 - Added missing signs to already fixed roads (ne_bit_11.dff, NEWCOMPRD_las2.dff, Roads40_CE.dff) [mpPako]
@@ -56,10 +75,10 @@ Latest "Community Map Fixes" changes.
 - Fixed disappearing Cluckin' Bells doors in Market (occluLA.ipl) [mpPako]
 - Added fixed Vegas road (vegasnroad19.dff) [JohnnyK]
 - Added open ironworks (lae2_ground11.dff, lae2_5.col) [SergeF1988]
-### Added 13-02-2021
+### 13-02-2021
 - Water cooler texture improvement (cj_office.txd, sunset02_law2.txd). [UnitedMel]
 - Fixed road sign text in Verona Beach area (law_stream5.ipl). [UnitedMel]
-### Added 12-02-2021
+### 12-02-2021
 - Completely redone Grotti dealership in LS (sunset01_LAw2.dff, sunset02_law2.txd, Sunset04Tr_LAw2.dff, LODset01_LAw2.dff, occluLA.ipl) [mpPako]
 - Fixed mapping and adjustments on the street next to the dealership (Roads36_LAw2.dff) [mpPako]
 - New collision for the dealership and road next to it (law2_2.col) [mpPako]/[UnitedMel]
@@ -67,32 +86,32 @@ Latest "Community Map Fixes" changes.
 - Replaced billboard near tunnel in Verona Beach to ECola billboard for more variety (wiresetc_las.txd). [UnitedMel]
 - Remapped generic road signs (gen_roadsign1.dff, gen_roadsign2.dff) [mpPako]/[UnitedMel]
 - Fixed mapping on bushes that was missed before (laelasruff201.dff). [UnitedMel]
-### Added 10-02-2021
+### 10-02-2021
 - Fixed mapping on building near Santa Maria Beach (SanClift01_LAw2.dff, sancliff02_law2.txd). [savidge]
 - Fixed object placements in Santa Maria Beach area (law2_stream0.ipl, law2_stream4.ipl). [savidge]
 - Fixed object placements in LAwn vicinity (LAwn.ipl, lawn_stream0.ipl). [savidge]
 - Fixed object placements near Verdant Bluffs (las_stream4.ipl). [savidge]
-### Added 09-02-2021
+### 09-02-2021
 - Fixed seams in surface near Catalina shack (countrye_stream1.ipl). [UnitedMel]
 - Updated collision in LS skatepark (lae_5.col). [UnitedMel]
 - Fixed mapping on some bushes in Mullholland (cunte_landF4_03.dff). [UnitedMel]
-### Added 26-01-2021
+### 26-01-2021
 - Remapped Cluckin' Bell in LS (lawncluckbel.dff, lawn_3.col, lawnshop1.dff, road_lawn05.dff, road_lawn21.dff, lawnabv.txd). [mpPako]
 - Remapped roads near Burger Shot in Sunrise LS (road_lawn02.dff, road_lawn32.dff, road_lawn34.dff, lawn_2.col). [mpPako]
 - Fixed prelight and mapping on shops near Jim's Sticky Ring in LS (MelBlok08_LAwN.dff, MelBlok06_LAwN.dff, melrose05_lawn.txd).  [mpPako]
 - Fixed prelight and mapping on Hobos Restaurant in LS (sunset16_LAwN.dff).  [mpPako]
 - Remapped grass in front of All Saints General hospital in LS (grasspatchlawn.dff).  [mpPako]
 - Fixed prelight, mapping and added windows to Vinyl Coundown in Rodeo LS (Sunset04_LAw2.dff).  [mpPako]
-### Added 14-01-2021
+### 14-01-2021
 - Remapped Jim's Sticky Ring in LS (donut01_LAwN.dff, lawn_3.col, melrose12_lawn.txd, road_lawn14.dff, road_lawn27.dff). [mpPako]
-### Added 13-01-2021
+### 13-01-2021
 - Remapped Market Station in LS (RailTunn01_LAwN.dff, TrainStat01_LAwN.dff, melrose13_lawn.txd, stationtunnel.txd). [mpPako]
-### Added 12-01-2021
+### 12-01-2021
 - Fixed floating lamp posts near Four Dragons Casino. Chinese lanterns now displays properly on every side (vegasE.ipl). [kebi]
 - Improved collision materials on Verona Beach and Santa Maria Beach in LS (law_1.col, law_2.col, law2_1.col, law2_3.col). [UnitedMel]
 - Merged Inadequate's Easter Basin water materials with Unofficial Patch (sfse_2.col). [UnitedMel]
 - Improved collision materials in Willow Field area near bridge (las2_4.col). [UnitedMel]
-### Added 11-01-2021
+### 11-01-2021
 - Updated LA Hills models (CEnwhiltest91.dff, road_hilllawn12.dff). [mpPako]
 - Remapped road intersection, sidewalks and parking in Santa Maria Beach near safe house (Beach01_LAw2.dff, law_beach1.txd, law_beach2.txd, law2_3.col, law2_roadsb.txd, Roads33_Law2.dff, santamonicalaw.txd, santamonicalaw2a.txd). [mpPako]
 - Improved enterable trailer model in country junkyard (cuntwjunk04.dff). [mpPako]
