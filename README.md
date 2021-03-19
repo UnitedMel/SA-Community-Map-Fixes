@@ -25,8 +25,8 @@
 
 ## Authors:
 - mpPako - Remapped and improved roads. Remodeled and expanded buildings. Additional map objects, texture work and other UV map fixes.
-- savidge - Improved parked cars and map objects placements such as lamps, hydrants, mail boxes, payphones and etc. Additional map objects, texture work and other UV map fixes.
-- UnitedMel - Improved collisions, fixed seams in map objects, texture work and other UV map fixes.
+- savidge - Improved and fixed parked cars, map objects placements such as: trees, bushes, lamps, hydrants, mail boxes, payphones and etc. Additional map objects, texture work and other UV map fixes.
+- UnitedMel - Improved collisions, fixed gaps in map objects, texture work and other UV map fixes.
 
 *Check latest progress in the [changelog!](https://github.com/UnitedMel/-SA-Community-Map-Fixes/blob/main/CHANGELOG.md)*
 
