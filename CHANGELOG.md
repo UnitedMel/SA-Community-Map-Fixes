@@ -111,7 +111,6 @@ Gud N Col Update. Additional objects got new ID's to be more compatible with oth
 - Restored LOD for a trailer in Tierra Robada (but seems like this place is bugged and trailer LOD visible when near too). (countn2_stream6.ipl, countn2.ipl, counxref.ide). [UnitedMel]
 - Fixed prelight on Area 69 fence (des_a51infenc.dff). [UnitedMel]
 - Added animated airport radar (ap_radar1_01.dff, ap_radar1_01.ifp, multiobj.col, multiobj.ide). [mpPako]/[AVALS343]
-- Fixed road sign text (vegasnroad19.dff). [JohnnyK]
 - Fixed floating lamp posts near Four Dragons Casino. Chinese lanterns now displays properly on every side (vegasE.ipl). [kebi]
 - Fixed seams on roads at Verdant Meadow Abandoned Aircraft Graveyard (cen_bit_01.dff, n_bit_10.dff, n_bit_19.dff, n_bit_20.dff). [UnitedMel]
 - Remapped roads near Pilson Intersection (ne_bit_09.dff, ne_bit_10.dff, ne_bit_09.dff, ne_bit_11.dff, ne_bit_15.dff, ne_bit_17.dff, ne_bit_19.dff). [mpPako]
