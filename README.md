@@ -1,4 +1,4 @@
-# [SA] Community Map Fixes 🛠 | [Download](https://github.com/UnitedMel/-SA-Community-Map-Fixes/archive/main.zip)
+# [SA] Community Map Fixes 🛠 | [Download](https://github.com/UnitedMel/-SA-Community-Map-Fixes/archive/main.zip) | [Changelog](https://github.com/UnitedMel/-SA-Community-Map-Fixes/blob/main/CHANGELOG.md)
 ![alt](https://i.imgur.com/imQTEoN.png)
 ## Description:
 #### A community-driven project aimed at fixing bugs and inconsistencies in the Grand Theft Auto: San Andreas map.
@@ -24,6 +24,13 @@
 ###### Recommended to lower the priority of "Community Map Fixes" folder in modloader.ini. So when you install another mod that replaces the same file, the other mod will replace this one.
 
 ## Authors:
+- mpPako - Remapped and improved roads. Remodeled and expanded buildings. Additional map objects, texture work and other UV map fixes.
+- savidge - Improved parked cars and map objects placements such as lamps, hydrants, mail boxes, payphones and etc. Additional map objects, texture work and other UV map fixes.
+- UnitedMel - Improved collisions, fixed seams in map objects, texture work and other UV map fixes.
+
+*Check latest progress in the [changelog!](https://github.com/UnitedMel/-SA-Community-Map-Fixes/blob/main/CHANGELOG.md)*
+
+## Original Authors:
 
 - Original Pre-lighting Fixes Pack: JuniorDjjr
 - Vertex Colour Fix + 2dfx Effects: atfburner
@@ -64,21 +71,11 @@
 - Improved Pickups Textures: Ash_735
 - Improved Car Shadow Texture: Ash_735
 - ORG Patch: DimZet13
-- CE_Roads37 Revamp: savidge
-- billbd1_LAe Revamp: savidge
-- lae2_roads37.dff, lae2_roads38.dff, lae2_roads41.dff: savidge
-- sunrise08_lawn.txd: savidge
-- Sav Andreas: savidge
-- sm_Agave_2.png: mpPako / savidge
-- newcomprd_las2.dff, freeway2_las2.txd, btoroadsp3_las2.dff, roadssfse48.dff, ne_bits_.dff: mpPako
-- LAHills Fixes: mpPako
-- Verona Beach Fixes: mpPako
-- Another Collision Fixes: UnitedMel
 - Unofficial Patch: Kurtis / Sleepy93HUN
-- cluckinbell1_las2.dff, laelasruff201.dff, n_bit_20.dff, venice_alpha.dff, gen_roadsign2.dff, vineblock1_lawn.dff, lawn_holbuild21.dff, offvensp03_law.dff, law_vengrnd.dff, melblok05_lawn.dff: UnitedMel
 - Map Fixes: JohnnyK(Aztecas_5)
 - Easter Basin Water Materials: Inadequate
 - Open Ironworks: SergeF1988
 - Animated airport radar: AVALS343
 - Additional Fences near Donut Shop: Whokilledcaptainalex?
 - Arcade Machine Fix: Neon
+- Caligula's Heist vault door transparency fix - Marsi4eg
