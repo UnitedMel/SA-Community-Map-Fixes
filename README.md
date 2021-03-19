@@ -48,7 +48,8 @@
 - High Quality Textures: SlyCooperGTA
 - Improved Sprunk Can: SlingShot753
 - Farmhouse02.dff Vertex Color Fix: kebi
-- cj_piz_sign.txd: kebi
+- Well Stacked Pizza Co. sign texture fix: kebi
+- Fixed floating lamp posts near Four Dragons Casino - kebi
 - PS2 seabed.ipl: Rockstar Games
 - PS2 No Aggressive Drivers: Rockstar Games. Discovered by Tomasak.
 - Bus Stops Ped Attractor Fix: DeeZire / Ryadica926 (Compatible with Restored Bus Fare Bonus by Staunton Assasin)
@@ -79,3 +80,4 @@
 - Additional Fences near Donut Shop: Whokilledcaptainalex?
 - Arcade Machine Fix: Neon
 - Caligula's Heist vault door transparency fix - Marsi4eg
+- Fixed LV road sign text - JohnnyK
