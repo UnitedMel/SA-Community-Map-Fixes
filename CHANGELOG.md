@@ -89,7 +89,8 @@ Gud N Col Update. Additional objects got new ID's to be more compatible with oth
 
 # Countryside
 - Fixed mapping on a side of bridge in Montgomery Intersection (cunte_roads27W.dff). [UnitedMel]
-- Improved enterable trailer model in Country Junkyard (cuntwjunk04.dff). [mpPako]
+- Replaced oversized cranes with models from Manhunt in Angel Pine junkyard (countrys_2.col, cuntwjunk01.dff, cuntwjunk03.dff, cw_junkyarddigcs_t.txd). [MrFinger]
+- Improved enterable trailer model in Angel Pine junkyard (cuntwjunk04.dff). [mpPako]
 
 # San Fierro
 - Added PS2 Grey SF Roads. [Ernestin1]/[mpPako]
