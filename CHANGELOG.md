@@ -3,7 +3,7 @@ Latest "Community Map Fixes" changes.
 ## 16-03-2021
 Gud N Col Update. Additional objects got new ID's to be more compatible with other mods: 612, 613, 614, 662, 663, 665.
 
-## Los Santos
+# Los Santos
 - Fixed mapping on foodmarket models (foodlawn.txd, lanblokb2.txd, lodlawnsmall.txd, foodmart1_lan.dff, foodmartlawn.dff, hollyhil05.dff, road_lawn32.dff, grndLAwn.dff). [UnitedMel]
 - Fixed mapping on a garage door (capitrec1_lawn.dff). [UnitedMel]
 - Fixed gap between roads near All Saints General hospital (lawn_stream2.ipl). [UnitedMel]
@@ -87,11 +87,11 @@ Gud N Col Update. Additional objects got new ID's to be more compatible with oth
 - Fixed vines model near Marina (venice_alpha.dff). [UnitedMel]
 - Fixed parking sign height by Well Stacked Pizza in Idlewood (lae711block01.dff). [UnitedMel]
 
-## Countryside
+# Countryside
 - Fixed mapping on a side of bridge in Montgomery Intersection (cunte_roads27W.dff). [UnitedMel]
 - Improved enterable trailer model in Country Junkyard (cuntwjunk04.dff). [mpPako]
 
-## San Fierro
+# San Fierro
 - Added PS2 Grey SF Roads. [Ernestin1]/[mpPako]
 - Improved collision materials near fire station and crackden in Doherty (sfse_12.col). [UnitedMel]
 - Added animated airport radar (ap_radar1_01.dff, ap_radar1_01.ifp, multiobj.col, multiobj.ide). [mpPako]/[AVALS343]
@@ -100,7 +100,7 @@ Gud N Col Update. Additional objects got new ID's to be more compatible with oth
 - Remapped roads near driving school in Foster Valley (roadssfse48.dff, starjunct_sfse.txd). [mpPako]
 - Fixed prelight on a building in Ocean Flats (oc_flats_gnd01_sfs.dff). [UnitedMel]
 
-## Las Venturas and it's surroundings
+# Las Venturas and it's surroundings
 - Fixed mapping on a road in Tierra Robada (nw_bit_29.dff). [mpPako]
 - Fixed procedural grass spawning on gravel surface (vegase_1.col, vegasn_3.col). [UnitedMel]
 - Fixed gap on a road near Ammu-Nation in Bone County (s_bit_10.dff, countn2_20.col). [UnitedMel]
