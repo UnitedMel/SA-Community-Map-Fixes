@@ -79,5 +79,5 @@
 - Animated airport radar: AVALS343
 - Additional Fences near Donut Shop: Whokilledcaptainalex?
 - Arcade Machine Fix: Neon
-- Caligula's Heist vault door transparency fix - Marsi4eg
-- Fixed LV road sign text - JohnnyK
+- Caligula's Heist vault door transparency fix: Marsi4eg
+- Fixed LV road sign text: JohnnyK
