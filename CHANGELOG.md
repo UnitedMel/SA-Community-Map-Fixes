@@ -1,6 +1,51 @@
 # Change Log
 Latest "Community Map Fixes" changes.
 
+## Los Santos
+- Remapped road intersection, sidewalks and parking near safe house in Santa Maria Beach (Beach01_LAw2.dff, law_beach1.txd, law_beach2.txd, law2_3.col, law2_roadsb.txd, Roads33_Law2.dff, santamonicalaw.txd, santamonicalaw2a.txd). [mpPako]
+- Replaced pit near Vinewood sign with smooth surface. [mpPako]
+- Improved lamppost placements in Mulholland area (LAhills.ipl). [savidge]
+- Remapped gates and bushes in Mulholland area (LTCEmulhilhed1_law01.dff). [UnitedMel]
+- Remapped all Mulholland and Richman roads. [mpPako]
+- Remapped roads in Los Flores (lae2_roads37.dff, lae2_roads38.dff, lae2_roads41.dff). [savidge]
+- Improved lightpoles positions (lawn_stream3.ipl). [savidge]
+- Remapped shops buildings near Jim's Sticky Ring (melblok05_lawn.dff). [UnitedMel]
+- Remapped highways in East Beach (btoroadsp3.dff, btoroadxtra.dff, lae2_roads01.dff, lasroads_las2.txd). [mpPako]
+- Remapped roads in El Corona (newcomprd_las2.dff, freeway2_las2.txd). [mpPako]
+- Fixed seams and position of a building near barber shop in Marina (law_vengrnd.dff, offven01_law01.dff, offvensp03_law.dff). [UnitedMel]
+- Fixed UV map on a building in Marina (offvensp03_law.dff). [UnitedMel]
+- Fixed UV map and seams on a building in Vinewood (vineblock1_lawn.dff). [UnitedMel]
+- Additional bins and benches placements in Vinewood (lawn_add.IPL). [savidge]
+- Fixed neon sign texture on a building in Vinewood (sunrise08_lawn.txd). [savidge]
+- Improved object placement in Vinewood (lawn_stream1.ipl, lawn_stream2.ipl). [savidge]
+- Improved models of generic road signs (gen_roadsign1.dff, gen_roadsign2.dff). [mpPako]/[UnitedMel]
+- Fixed UV map on a building in Vinewood (lawn_holbuild21.dff). [UnitedMel]
+- Restored mising Cluckin' Bell food menu sign in Willow Field (cluckinbell1_las2.dff, lashops6_las2.txd). [UnitedMel]
+- Fixed UV map on a bushes near Big Smoke house (laelasruff201.dff). [UnitedMel]
+- Changed position of parked car in Playa Del Seville (las2_stream4.ipl). [UnitedMel]
+- Fixed vines model near Marina (venice_alpha.dff). [UnitedMel]
+- Fixed parking sign height by Well Stacked Pizza in Idlewood (lae711block01.dff). [UnitedMel]
+
+## Countryside
+- Improved enterable trailer model in country junkyard (cuntwjunk04.dff). [mpPako]
+
+## San Fierro
+- Improved bushes and bollards placements (sfse_stream3.ipl). [savidge]
+- Remapped roads near driving school in Foster Valley (roadssfse48.dff, starjunct_sfse.txd). [mpPako]
+- Fixed prelight on a building in Ocean Flats (oc_flats_gnd01_sfs.dff). [UnitedMel]
+
+## Las Venturas and it's surroundings
+- Fixed seams on roads at Verdant Meadow Abandoned Aircraft Graveyard (cen_bit_01.dff, n_bit_10.dff, n_bit_19.dff, n_bit_20.dff). [UnitedMel]
+- Remapped roads near Pilson Intersection (ne_bit_09.dff, ne_bit_10.dff, ne_bit_09.dff, ne_bit_11.dff, ne_bit_15.dff, ne_bit_17.dff, ne_bit_19.dff). [mpPako]
+
+
+
+
+
+
+
+
+
 ### 16-03-2021
 #### gud n col Update. Additional objects got new ID's to be more compatible with other mods: 612, 613, 614, 662, 663, 665.
 - Improved prelight on trailer near in Junkyard (cuntwjunk04.dff). [mpPako]
