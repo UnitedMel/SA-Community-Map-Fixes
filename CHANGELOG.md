@@ -1,7 +1,11 @@
 # Change Log
 Latest "Community Map Fixes" changes.
+
+## 03-04-2021
+- Corrected traffic light placements near Vinewood Walk of Fame (lawn_stream2.ipl). [savidge]
+
 ## 16-03-2021
-Gud N Col Update. Additional objects got new ID's to be more compatible with other mods: 612, 613, 614, 662, 663, 665.
+Gud N Col Update. Additional objects got new IDs to be more compatible with other mods: 612, 613, 614, 662, 663, 665.
 
 # Los Santos
 - Fixed mapping on foodmarket models (foodlawn.txd, lanblokb2.txd, lodlawnsmall.txd, foodmart1_lan.dff, foodmartlawn.dff, hollyhil05.dff, road_lawn32.dff, grndLAwn.dff). [UnitedMel]
