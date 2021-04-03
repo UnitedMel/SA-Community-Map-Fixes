@@ -1,8 +1,13 @@
 # Change Log
 Latest "Community Map Fixes" changes.
 Used ID's: 612, 613, 614, 662, 663, 665.
+
 ## 04-04-2021
 This Update is sponsored by Sprunk.
+
+## 03-04-2021
+- Fixed UVs and welded vertices on kerbs (Furniture_LAe.DFF). [savidge]
+- Corrected traffic light placements near Vinewood Walk of Fame (lawn_stream2.ipl). [savidge]
 
 # Los Santos
 - Improved prelights on building in Santa Maria Pier (Pier02b_LAw2.dff). [UnitedMel]
