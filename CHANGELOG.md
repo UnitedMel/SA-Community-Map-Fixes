@@ -2,6 +2,7 @@
 Latest "Community Map Fixes" changes.
 
 ## 03-04-2021
+- Fixed UVs and welded vertices on kerbs (Furniture_LAe.DFF). [savidge]
 - Corrected traffic light placements near Vinewood Walk of Fame (lawn_stream2.ipl). [savidge]
 
 ## 16-03-2021
