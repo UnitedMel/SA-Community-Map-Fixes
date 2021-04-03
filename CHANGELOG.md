@@ -5,11 +5,8 @@ Used ID's: 612, 613, 614, 662, 663, 665.
 ## 04-04-2021
 This Update is sponsored by Sprunk.
 
-## 03-04-2021
-- Fixed UVs and welded vertices on kerbs (Furniture_LAe.DFF). [savidge]
-- Corrected traffic light placements near Vinewood Walk of Fame (lawn_stream2.ipl). [savidge]
-
 # Los Santos
+- Fixed UVs and welded vertices on kerbs (Furniture_LAe.DFF). [savidge]
 - Improved prelights on building in Santa Maria Pier (Pier02b_LAw2.dff). [UnitedMel]
 - Fixed gap in road near Vinewood sign (CE_HillsEast06.dff). [UnitedMel]
 - Fixed prelights on El Corona airport runway (lasrnway1_LAS.dff, lasrnway2_LAS.dff, lasrnway3_LAS.dff, lasrnway4_LAS.dff, lasrnway5_LAS.dff, lasrnway6_LAS.dff, lasrnway7_LAS.dff, lasrnway8_LAS.dff). [mpPako]
