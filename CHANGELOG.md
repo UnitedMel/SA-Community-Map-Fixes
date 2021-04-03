@@ -5,6 +5,7 @@ Used ID's: 612, 613, 614, 662, 663, 665.
 
 ## 04-04-2021
 This Update is sponsored by Sprunk.
+A lot of changes. Mostly some lil' fixes and l o r e improvements 😏.
 
 # Los Santos
 - Fixed UVs and welded vertices on kerbs (Furniture_LAe.DFF). [savidge]
