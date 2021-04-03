@@ -1,14 +1,29 @@
 # Change Log
 Latest "Community Map Fixes" changes.
-## 16-03-2021
-Gud N Col Update. Additional objects got new ID's to be more compatible with other mods: 612, 613, 614, 662, 663, 665.
+Used ID's: 612, 613, 614, 662, 663, 665.
+## 04-04-2021
+This Update is sponsored by Sprunk.
 
 # Los Santos
+- Improved prelights on building in Santa Maria Pier (Pier02b_LAw2.dff). [UnitedMel]
+- Fixed gap in road near Vinewood sign (CE_HillsEast06.dff). [UnitedMel]
+- Fixed prelights on El Corona airport runway (lasrnway1_LAS.dff, lasrnway2_LAS.dff, lasrnway3_LAS.dff, lasrnway4_LAS.dff, lasrnway5_LAS.dff, lasrnway6_LAS.dff, lasrnway7_LAS.dff, lasrnway8_LAS.dff). [mpPako]
+- Improved collision on police parking at LSPD (lan_2.col). [UnitedMel]
+- Replaced guardhouse with Vice City model which has more details (ci_studio5.txd, ci_guardhouse1.dff, lawn_3.col, LaWn.ide). [Mystertv]
+- Improved gas station in Temple (sunset21_LAwN.dff, mainlcawn.txd, lawn_4.col, lawn_stream1.ipl, LaWn.ipl). [mpPako]
+- Fixed mapping, parking sign height on Well Stacked Pizza, replaced door model for interior one of Well Stacked Pizza, Tatoo Parlor and Old Reece's Barbershop in Idlewood (lae711block01.dff, idlewood3_lae.txd, lae_stream4.ipl, lae_1.col). [UnitedMel]
+- Improved SA International billboard (lae2billboards.txd). [savidge]/[direct]
+- Improved Sprunk billboard in Rodeo (sunset01_law2.txd). [UnitedMel]
+- Improved prelights on various buildings (las2plaza1bit.dff, sunset03_LAw2.dff). [UnitedMel]/[mpPako]
+- Remodeled and improved restaurants, Pro-Laps shop in Rodeo (rodeo02_law2.txd, rodeo05_LAw2.dff, rodeo05Tr_LAw2.dff, law2_2.col, law2_stream2.ipl). [mpPako]/[savidge]
+- Improved gas station in El Corona (lae_stream1.ipl, laepetrol1a.dff, lae_4.col). [mpPako]/[savidge]
+- Fixed gap between road and buildings near Studio (wdpanelhs08_law.dff). [UnitedMel]
+- Remapped and fixed buildings in East LS near Cluckin' Bell (Furniture_LAe.DFF). [savidge]
+- Fixed shop signs positions (lawnmalstrip.dff). [UnitedMel]
+- Corrected palm object placements near night club (lae_stream1.ipl). [savidge]
 - Fixed mapping on foodmarket models (foodlawn.txd, lanblokb2.txd, lodlawnsmall.txd, foodmart1_lan.dff, foodmartlawn.dff, hollyhil05.dff, road_lawn32.dff, grndLAwn.dff). [UnitedMel]
 - Fixed mapping on a garage door (capitrec1_lawn.dff). [UnitedMel]
-- Fixed gap between roads near All Saints General hospital (lawn_stream2.ipl). [UnitedMel]
-- Added Las Venturas passable bushes to Los Santos (lawn_1.col, law_1.col). [UnitedMel]
-- Fixed prelight in El Corona airport runway entrance (lasrnway8_LAS.dff). [UnitedMel]
+- Added Las Venturas passable bushes to Los Santos (laeroad31.dff, frecrsbrid_LAE.dff, laeroads2s.txd, lawn_1.col, law_1.col, lae_1.col). [UnitedMel]
 - Fixed mapping on a road in Commerce (Roads01_LAn.dff). [UnitedMel]
 - Completely remapped all roads in LAw2.ipl (law2_roadsb.txd, countclub01_LAw2.dff, countclub02_LAw2.dff, Pier01_LAw2.dff, Roads01_LAw2.dff, Roads02_LAw2.dff, Roads03_LAw2.dff, Roads04_LAw2.dff, Roads05_LAw2.dff, Roads06_LAw2.dff, Roads07_LAw2.dff, Roads08_LAw2.dff, Roads09_LAw2.dff, Roads10_LAw2.dff, Roads11_LAw2.dff, Roads12_LAw2.dff, Roads14_LAw2.dff, Roads15_LAw2.dff, Roads16_LAw2.dff, Roads17_LAw2.dff, Roads18_LAw2.dff, Roads19_LAw2.dff, Roads20_LAw2.dff, Roads21_LAw2.dff, Roads22_LAw2.dff, Roads23_LAw2.dff, Roads24_LAw2.dff, Roads25_LAw2.dff, Roads26_LAw2.dff, Roads27_LAw2.dff, Roads28_LAw2.dff, Roads29_LAw2.dff, Roads30_LAw2.dff, Roads31_LAw2.dff, Roads32_LAw2.dff, Roads33_LAw2.dff, Roads34_LAw2.dff, Roads35_LAw2.dff, Roads36_LAw2.dff,). [mpPako]
 - New collisions for LAw2.ipl roads (law2_1.col, law2_2.col, law2_3.col, law2_4.col). [mpPako]
@@ -20,8 +35,7 @@ Gud N Col Update. Additional objects got new ID's to be more compatible with oth
 - Fixed mapping and prelight on building near Santa Maria Beach (sunset08_LAw2.dff, SanClift01_LAw2.dff, sancliff02_law2.txd). [savidge]/[mpPako]
 - Remapped roadsigns posts (rdsign01_LAw2.dff, rdsign01_LAw03.dff, rdsigns4_LAe03.dff, rdsigns4_LAe05.dff). [mpPako]
 - Improved roadsign text (Freeway3_LAn2.dff, freeway10_lan2.dff, lae2_roads03.dff, lae2_roads17.dff, lae2_roads44.dff, lae2_roads78.dff, laeroad47.dff, lawroads_law16.dff, Roads02_LAw2.dff, Roads01_LAw2.dff, Roads28_LAw2.dff, Roads36_LAw2.dff). [UnitedMel]
-- Fixed gaps on road and mapping on fence near LS Forum (lae2_ground07.dff, stadtplaza_lae2.txd, stdrainalpha3b.dff, Stordrablas2.dff, stormdrainLAE2_04.dff). [UnitedMel]
-- Added animated airport radar (ap_radar1_01.dff, ap_radar1_01.ifp, multiobj.col, multiobj.ide). [mpPako]/[AVALS343]
+- Fixed gaps on road and mapping on fence near LS Forum (lae2_ground07.dff, stadtplaza_lae2.txd, stdrainalpha3b.dff, Stordrablas2.dff, stormdrainLAE2_04.dff, LAe2.ipl). [UnitedMel]
 - Fixed collisions in Mulholland and Richman (lahills_2.col, lahills_6.col). [mpPako]/[UnitedMel]
 - Remapped roads in Mulholland and Richman (CEroad_6.dff, road_hill01.dff, road_hill04b.dff, roadslahills.txd, TCEcuntun.dff, TCElawcuntun1a_law2.dff, TCElawcuntuna_law2.dff, TCElawcuntunb.dff). [mpPako]
 - Remapped roads in LAw2 (countclub01_LAw2.dff, law2_roadsb.txd, Roads09_LAw2.dff, Roads10_LAw2.dff, Roads11_LAw2.dff, Roads22_LAw2.dff, Roads36_LAw2.dff, TCEcuntun.dff). [mpPako]
@@ -85,23 +99,33 @@ Gud N Col Update. Additional objects got new ID's to be more compatible with oth
 - Fixed mapping on a bushes near Big Smoke house (laelasruff201.dff). [UnitedMel]
 - Changed position of parked car in Playa Del Seville (las2_stream4.ipl). [UnitedMel]
 - Fixed vines model near Marina (venice_alpha.dff). [UnitedMel]
-- Fixed parking sign height by Well Stacked Pizza in Idlewood (lae711block01.dff). [UnitedMel]
+- Fixed prelight on Newsstand building in Vinewood (sunset17_LAwN.dff). [Crack Yo' Neck]
 
 # Countryside
 - Fixed mapping on a side of bridge in Montgomery Intersection (cunte_roads27W.dff). [UnitedMel]
 - Replaced oversized cranes with models from Manhunt in Angel Pine junkyard (countrys_2.col, cuntwjunk01.dff, cuntwjunk03.dff, cw_junkyarddigcs_t.txd). [MrFinger]
 - Improved enterable trailer model in Angel Pine junkyard (cuntwjunk04.dff). [mpPako]
 
+# Generic Objects
+- Improved posters for sex shop interior (cj_sex.txd, geninintsex.txd). [M. Osborn]
+- Fixed interior markers on some 24/7 stores (gen_int1.ipl). [mpPako]
+- Improved 24/7 store doors, new handles and remapped texture (Gen_doorEXT7_11L.dff, Gen_doorEXT7_11R.dff). [mpPako]
+- Added petrol pumps to a gas station in Temple *siggy* (mel_obj.ipl). [UnitedMel]/[mpPako]
+- Added new vending machines with updated prelight and textures; fixed collision for a drink can (cj_candyvendor.dff, cj_commercial.txd, CJ_EXT_CANDY.dff, cj_ext_sprunk.dff, cj_ext_vend.txd cj_ext_vend2.txd, CJ_SPRUNK1.dff, dynamic.col, props2.col, vend.txd, vendmach.dff, vendmachfd.dff, cj_candyvendor.dff, vendin3.dff, cj_ext_candy.dff). [Fenton]/[mpPako]/[UnitedMel]/[Zeneric]
+- Remapped property and police bribe pickups (bribe.dff, property_fsale.dff, property_locked.dff). [UnitedMel]
+- Added animated airport radar (ap_radar1_01.dff, ap_radar1_01.ifp, multiobj.col, multiobj.ide). [mpPako]/[AVALS343]
+
 # San Fierro
 - Added PS2 Grey SF Roads. [Ernestin1]/[mpPako]
 - Improved collision materials near fire station and crackden in Doherty (sfse_12.col). [UnitedMel]
-- Added animated airport radar (ap_radar1_01.dff, ap_radar1_01.ifp, multiobj.col, multiobj.ide). [mpPako]/[AVALS343]
 - Merged Inadequate's Easter Basin water materials with Unofficial Patch (sfse_2.col). [Inadequate]/[UnitedMel]
 - Improved bushes and bollards placements (sfse_stream3.ipl). [savidge]
 - Remapped roads near driving school in Foster Valley (roadssfse48.dff, starjunct_sfse.txd). [mpPako]
 - Fixed prelight on a building in Ocean Flats (oc_flats_gnd01_sfs.dff). [UnitedMel]
 
 # Las Venturas and it's surroundings
+- Fixed candy vending machine position (vegase_stream6.ipl). [UnitedMel]
+- Fixed LV petrol pump not exploding on impact (object.dat). [UnitedMel]
 - Fixed mapping on a road in Tierra Robada (nw_bit_29.dff). [mpPako]
 - Fixed procedural grass spawning on gravel surface (vegase_1.col, vegasn_3.col). [UnitedMel]
 - Fixed gap on a road near Ammu-Nation in Bone County (s_bit_10.dff, countn2_20.col). [UnitedMel]
@@ -111,7 +135,6 @@ Gud N Col Update. Additional objects got new ID's to be more compatible with oth
 - Improved procedural grass in Area 69 (countn2_3.col, countn2_4.col, countn2_5.col, countn2_6.col, countn2_9.col, countn2_10.col, countn2_14.col, countn2_20.col, cuntdesxref.col). [UnitedMel]
 - Restored LOD for a trailer in Tierra Robada (but seems like this place is bugged and trailer LOD visible when near too). (countn2_stream6.ipl, countn2.ipl, counxref.ide). [UnitedMel]
 - Fixed prelight on Area 69 fence (des_a51infenc.dff). [UnitedMel]
-- Added animated airport radar (ap_radar1_01.dff, ap_radar1_01.ifp, multiobj.col, multiobj.ide). [mpPako]/[AVALS343]
 - Fixed floating lamp posts near Four Dragons Casino. Chinese lanterns now displays properly on every side (vegasE.ipl). [kebi]
 - Fixed seams on roads at Verdant Meadow Abandoned Aircraft Graveyard (cen_bit_01.dff, n_bit_10.dff, n_bit_19.dff, n_bit_20.dff). [UnitedMel]
 - Remapped roads near Pilson Intersection (ne_bit_09.dff, ne_bit_10.dff, ne_bit_09.dff, ne_bit_11.dff, ne_bit_15.dff, ne_bit_17.dff, ne_bit_19.dff). [mpPako]

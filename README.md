@@ -81,3 +81,6 @@
 - Arcade Machine Fix: Neon
 - Caligula's Heist vault door transparency fix: Marsi4eg
 - Fixed LV road sign text: JohnnyK
+- Additional ECola Vending Machines: Fenton
+- VC Guardhouse: Mystertv
+- Improved posters for sexshop interior: M. Osborn
