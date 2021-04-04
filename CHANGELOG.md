@@ -9,7 +9,9 @@ This Update is sponsored by Sprunk.
 A lot of changes. Mostly some lil' fixes and l o r e improvements 😏.
 
 # Los Santos
-- Fixed UVs and welded vertices on kerbs (Furniture_LAe.DFF). [savidge]
+- Added missing fences and new object to a Mall near Conference Center (LAw.ide, law_1.col, plazadrawlast_LAW.dff). [UnitedMel]
+- Added new exex markers to a: gas station in Idlewood, 24/7 shop in Market Mall. (int_extra.ipl). [mpPako]
+- Remapped and fixed buildings in East LS near Cluckin' Bell (Furniture_LAe.DFF). [savidge]
 - Improved prelights on building in Santa Maria Pier (Pier02b_LAw2.dff). [UnitedMel]
 - Fixed gap in road near Vinewood sign (CE_HillsEast06.dff). [UnitedMel]
 - Fixed prelights on El Corona airport runway (lasrnway1_LAS.dff, lasrnway2_LAS.dff, lasrnway3_LAS.dff, lasrnway4_LAS.dff, lasrnway5_LAS.dff, lasrnway6_LAS.dff, lasrnway7_LAS.dff, lasrnway8_LAS.dff). [mpPako]
@@ -23,7 +25,6 @@ A lot of changes. Mostly some lil' fixes and l o r e improvements 😏.
 - Remodeled and improved restaurants, Pro-Laps shop in Rodeo (rodeo02_law2.txd, rodeo05_LAw2.dff, rodeo05Tr_LAw2.dff, law2_2.col, law2_stream2.ipl). [mpPako]/[savidge]
 - Improved gas station in El Corona (lae_stream1.ipl, laepetrol1a.dff, lae_4.col). [mpPako]/[savidge]
 - Fixed gap between road and buildings near Studio (wdpanelhs08_law.dff). [UnitedMel]
-- Remapped and fixed buildings in East LS near Cluckin' Bell (Furniture_LAe.DFF). [savidge]
 - Fixed shop signs positions (lawnmalstrip.dff). [UnitedMel]
 - Corrected palm object placements near night club (lae_stream1.ipl). [savidge]
 - Fixed mapping on foodmarket models (foodlawn.txd, lanblokb2.txd, lodlawnsmall.txd, foodmart1_lan.dff, foodmartlawn.dff, hollyhil05.dff, road_lawn32.dff, grndLAwn.dff). [UnitedMel]
@@ -112,6 +113,7 @@ A lot of changes. Mostly some lil' fixes and l o r e improvements 😏.
 - Improved enterable trailer model in Angel Pine junkyard (cuntwjunk04.dff). [mpPako]
 
 # Generic Objects
+- Fixed alpha bug on chilli dog cart (dynamic2.ide). [UnitedMel]
 - Improved posters for sex shop interior (cj_sex.txd, geninintsex.txd). [M. Osborn]
 - Fixed interior markers on some 24/7 stores (gen_int1.ipl). [mpPako]
 - Improved 24/7 store doors, new handles and remapped texture (Gen_doorEXT7_11L.dff, Gen_doorEXT7_11R.dff). [mpPako]
