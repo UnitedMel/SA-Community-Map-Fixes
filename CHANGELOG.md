@@ -9,7 +9,8 @@ This Update is sponsored by Sprunk.
 A lot of changes. Mostly some lil' fixes and l o r e improvements 😏.
 
 # Los Santos
-- Added missing fences and new object to a Mall near Conference Center (LAw.ide, law_1.col, plazadrawlast_LAW.dff). [UnitedMel]
+- Improved prelights on some generic objects (kb_coolerlft.dff, vegstreetsign2.dff, kb_chr_tbl_test.dff). [UnitedMel]
+- Added missing fences and new objects to a Mall near Conference Center (LAw.ide, law_1.col, plazadrawlast_LAW.dff). [UnitedMel]
 - Added new exex markers to a: gas station in Idlewood, 24/7 shop in Market Mall. (int_extra.ipl). [mpPako]
 - Remapped and fixed buildings in East LS near Cluckin' Bell (Furniture_LAe.DFF). [savidge]
 - Improved prelights on building in Santa Maria Pier (Pier02b_LAw2.dff). [UnitedMel]
