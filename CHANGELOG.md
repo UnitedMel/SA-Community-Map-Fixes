@@ -116,6 +116,7 @@ A lot of changes. Mostly some lil' fixes and l o r e improvements 😏.
 - Improved enterable trailer model in Angel Pine junkyard (cuntwjunk04.dff). [mpPako]
 
 # Generic Objects
+- Fixed UVs, welded vertices, and revised topology on a lamppost (lampost_coast.DFF). [savidge]
 - Fixed alpha bug on Chilli Dog cart (dynamic2.ide). [UnitedMel]
 - Improved posters for sex shop interior (cj_sex.txd, geninintsex.txd). [M. Osborn]
 - Fixed interior markers on some 24/7 stores (gen_int1.ipl). [mpPako]
@@ -133,7 +134,7 @@ A lot of changes. Mostly some lil' fixes and l o r e improvements 😏.
 - Remapped roads near driving school in Foster Valley (roadssfse48.dff, starjunct_sfse.txd). [mpPako]
 - Fixed prelight on a building in Ocean Flats (oc_flats_gnd01_sfs.dff). [UnitedMel]
 
-# Las Venturas and it's surroundings
+# Las Venturas (and its surroundings)
 - Fixed Pay 'n' Spray collision (vegase_2.col). [mpPako]
 - Fixed candy vending machine position (vegase_stream6.ipl). [UnitedMel]
 - Fixed LV petrol pump not exploding on impact (object.dat). [UnitedMel]
