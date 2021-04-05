@@ -135,7 +135,7 @@ A lot of changes. Mostly some lil' fixes and l o r e improvements 😏.
 - Fixed prelight on a building in Ocean Flats (oc_flats_gnd01_sfs.dff). [UnitedMel]
 
 # Las Venturas (and its surroundings)
-- Fixed Pay 'n' Spray collision (vegase_2.col). [mpPako]
+- Restored broken Pay 'n' Spray near Caligula's (vegase_2.col, vegase_7.col, vgsEspras01.dff, vgsEspray01.dff, vegasE.ipl, vegase_stream7.ipl). [mpPako]
 - Fixed candy vending machine position (vegase_stream6.ipl). [UnitedMel]
 - Fixed LV petrol pump not exploding on impact (object.dat). [UnitedMel]
 - Fixed mapping on a road in Tierra Robada (nw_bit_29.dff). [mpPako]
