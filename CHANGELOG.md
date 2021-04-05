@@ -9,6 +9,7 @@ This Update is sponsored by Sprunk.
 A lot of changes. Mostly some lil' fixes and l o r e improvements 😏.
 
 # Los Santos
+- Fixed material brightness on railway crossings (lae_1.col, lae_3.col). [UnitedMel]
 - Improved prelights on some generic objects (kb_coolerlft.dff, vegstreetsign2.dff, kb_chr_tbl_test.dff). [UnitedMel]
 - Added missing fences and new objects to a Mall near Conference Center (LAw.ide, law_1.col, plazadrawlast_LAW.dff). [UnitedMel]/[mpPako]
 - Added new exex markers to a: gas station in Idlewood, 24/7 shop in Market Mall. (int_extra.ipl). [mpPako]
@@ -109,12 +110,13 @@ A lot of changes. Mostly some lil' fixes and l o r e improvements 😏.
 - Fixed prelight on Newsstand building in Vinewood (sunset17_LAwN.dff). [Crack Yo' Neck]
 
 # Countryside
+- Fixed alpha bug on brown water in Back O' Beyond (countryW.ide). [UnitedMel]
 - Fixed mapping on a side of bridge in Montgomery Intersection (cunte_roads27W.dff). [UnitedMel]
 - Replaced oversized cranes with models from Manhunt in Angel Pine junkyard (countrys_2.col, cuntwjunk01.dff, cuntwjunk03.dff, cw_junkyarddigcs_t.txd). [MrFinger]
 - Improved enterable trailer model in Angel Pine junkyard (cuntwjunk04.dff). [mpPako]
 
 # Generic Objects
-- Fixed alpha bug on chilli dog cart (dynamic2.ide). [UnitedMel]
+- Fixed alpha bug on Chilli Dog cart (dynamic2.ide). [UnitedMel]
 - Improved posters for sex shop interior (cj_sex.txd, geninintsex.txd). [M. Osborn]
 - Fixed interior markers on some 24/7 stores (gen_int1.ipl). [mpPako]
 - Improved 24/7 store doors, new handles and remapped texture (Gen_doorEXT7_11L.dff, Gen_doorEXT7_11R.dff). [mpPako]
