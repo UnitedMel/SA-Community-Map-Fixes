@@ -3,12 +3,13 @@ Latest "Community Map Fixes" changes.
 
 Used ID's: 612, 613, 614, 662, 663, 665.
 
-## 04-04-2021
+## 06-04-2021
 This Update is sponsored by Sprunk.
 
 A lot of changes. Mostly some lil' fixes and l o r e improvements 😏.
 
 # Los Santos
+- Added new car generators in Downtown (lan2_stream0.ipl, lan_stream2.ipl). [savidge]
 - Fixed material brightness on railway crossings (lae_1.col, lae_3.col). [UnitedMel]
 - Improved prelights on some generic objects (kb_coolerlft.dff, vegstreetsign2.dff, kb_chr_tbl_test.dff). [UnitedMel]
 - Added missing fences and new objects to a Mall near Conference Center (LAw.ide, law_1.col, plazadrawlast_LAW.dff). [UnitedMel]/[mpPako]
@@ -135,7 +136,7 @@ A lot of changes. Mostly some lil' fixes and l o r e improvements 😏.
 - Fixed prelight on a building in Ocean Flats (oc_flats_gnd01_sfs.dff). [UnitedMel]
 
 # Las Venturas (and its surroundings)
-- Restored broken Pay 'n' Spray near Caligula's (vegase_2.col, vegase_7.col, vgsEspras01.dff, vgsEspray01.dff, vegasE.ipl, vegase_stream7.ipl). [mpPako]
+- Restored broken Pay 'n' Spray near Caligula's (vegase_2.col, vegase_7.col, vgsEspras01.dff, vgsEspray01.dff, vegasE.ipl, vegase_stream7.ipl). [mpPako]/[UnitedMel]
 - Fixed candy vending machine position (vegase_stream6.ipl). [UnitedMel]
 - Fixed LV petrol pump not exploding on impact (object.dat). [UnitedMel]
 - Fixed mapping on a road in Tierra Robada (nw_bit_29.dff). [mpPako]
