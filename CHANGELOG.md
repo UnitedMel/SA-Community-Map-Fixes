@@ -9,11 +9,11 @@ This Update is sponsored by Sprunk.
 A lot of changes. Mostly some lil' fixes and l o r e improvements 😏.
 
 # Los Santos
-- Added new car generators in Downtown (lan2_stream0.ipl, lan_stream2.ipl). [savidge]
+- Added new vehicle spawns at parking in Willofield (las2_stream1.ipl). [UnitedMel]
+- Added new vehicle spawns in Downtown (lan2_stream0.ipl, lan_stream2.ipl). [savidge]
 - Fixed material brightness on railway crossings (lae_1.col, lae_3.col). [UnitedMel]
 - Improved prelights on some generic objects (kb_coolerlft.dff, vegstreetsign2.dff, kb_chr_tbl_test.dff). [UnitedMel]
 - Added missing fences and new objects to a Mall near Conference Center (LAw.ide, law_1.col, plazadrawlast_LAW.dff). [UnitedMel]/[mpPako]
-- Added new exex markers to a: gas station in Idlewood, 24/7 shop in Market Mall. (int_extra.ipl). [mpPako]
 - Remapped and fixed buildings in East LS near Cluckin' Bell (Furniture_LAe.DFF). [savidge]
 - Improved prelights on building in Santa Maria Pier (Pier02b_LAw2.dff). [UnitedMel]
 - Fixed gap in road near Vinewood sign (CE_HillsEast06.dff). [UnitedMel]
@@ -111,12 +111,14 @@ A lot of changes. Mostly some lil' fixes and l o r e improvements 😏.
 - Fixed prelight on Newsstand building in Vinewood (sunset17_LAwN.dff). [Crack Yo' Neck]
 
 # Countryside
+- Moved 4 bushes that were stuck in the sky to some trees beneath in Back O' Beyond (countryw_stream5.ipl). [UnitedMel]
 - Fixed alpha bug on brown water in Back O' Beyond (countryW.ide). [UnitedMel]
 - Fixed mapping on a side of bridge in Montgomery Intersection (cunte_roads27W.dff). [UnitedMel]
 - Replaced oversized cranes with models from Manhunt in Angel Pine junkyard (countrys_2.col, cuntwjunk01.dff, cuntwjunk03.dff, cw_junkyarddigcs_t.txd). [MrFinger]
 - Improved enterable trailer model in Angel Pine junkyard (cuntwjunk04.dff). [mpPako]
 
 # Generic Objects
+- Added collision for unused interiors and fixed draw distances for some objects (gen_int5.ipl, levelmap.ide, levelmap.ipl, int_extra.ipl, gen_int3_1.col, int_cont1.col, int_la_2.col, int_la_4.col, int_veg_1.col, levelmap.col, props.col, int_7_11a5.dff, int_rest_veg04.dff, CJ_CUSTOM_BAR.dff, whorebits.txd). [artginPL]/[M. Osborn]/[mpPako]/[UnitedMel]
 - Fixed UVs, welded vertices, and revised topology on a lamppost (lampost_coast.DFF). [savidge]
 - Fixed alpha bug on Chilli Dog cart (dynamic2.ide). [UnitedMel]
 - Improved posters for sex shop interior (cj_sex.txd, geninintsex.txd). [M. Osborn]
@@ -136,6 +138,7 @@ A lot of changes. Mostly some lil' fixes and l o r e improvements 😏.
 - Fixed prelight on a building in Ocean Flats (oc_flats_gnd01_sfs.dff). [UnitedMel]
 
 # Las Venturas (and its surroundings)
+- Fixed rotation of gas pumps on Xoomer gas station (vegasn_stream0.ipl). [savidge]
 - Restored broken Pay 'n' Spray near Caligula's (vegase_2.col, vegase_7.col, vgsEspras01.dff, vgsEspray01.dff, vegasE.ipl, vegase_stream7.ipl). [mpPako]/[UnitedMel]
 - Fixed candy vending machine position (vegase_stream6.ipl). [UnitedMel]
 - Fixed LV petrol pump not exploding on impact (object.dat). [UnitedMel]

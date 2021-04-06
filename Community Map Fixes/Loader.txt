@@ -18,6 +18,3 @@ IPL DATA/MAPS/GENERIC/mel_obj.ipl
 
 # Fenton's Additional ECola Vending Machines
 IPL DATA/MAPS/GENERIC/fenton_vend.ipl
-
-# mpPako Additional Interiors
-IPL DATA/MAPS/INTERIOR2/int_extra.ipl
