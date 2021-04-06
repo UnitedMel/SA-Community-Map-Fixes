@@ -84,5 +84,3 @@
 - Additional ECola Vending Machines: Fenton
 - VC Guardhouse: Mystertv
 - Improved posters for sexshop interior: M. Osborn
-- SimpleLimitAdjuster_Enex.asi: JuniorDjjr
-- Enterable Hidden Interiors + Fixes: artginPL / M. Osborn / Neon
