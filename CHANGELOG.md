@@ -3,7 +3,7 @@ Latest "Community Map Fixes" changes.
 
 Used ID's: 612, 613, 614, 662, 663, 665.
 
-## 06-04-2021
+## 07-04-2021
 This Update is sponsored by Sprunk.
 
 A lot of changes. Mostly some lil' fixes and l o r e improvements 😏.
@@ -118,7 +118,7 @@ A lot of changes. Mostly some lil' fixes and l o r e improvements 😏.
 - Improved enterable trailer model in Angel Pine junkyard (cuntwjunk04.dff). [mpPako]
 
 # Generic Objects
-- Added collision for unused interiors and fixed draw distances for some objects (gen_int5.ipl, levelmap.ide, levelmap.ipl, int_extra.ipl, gen_int3_1.col, int_cont1.col, int_la_2.col, int_la_4.col, int_veg_1.col, levelmap.col, props.col, int_7_11a5.dff, int_rest_veg04.dff, CJ_CUSTOM_BAR.dff, whorebits.txd). [artginPL]/[M. Osborn]/[mpPako]/[UnitedMel]
+- Added collision for unused interiors and fixed draw distances for some objects (gen_int5.ipl, levelmap.ide, levelmap.ipl, gen_int3_1.col, int_cont1.col, int_la_2.col, int_la_4.col, int_veg_1.col, levelmap.col, props.col, int_7_11a5.dff, int_rest_veg04.dff, CJ_CUSTOM_BAR.dff, whorebits.txd). [artginPL]/[M. Osborn]/[mpPako]/[UnitedMel]
 - Fixed UVs, welded vertices, and revised topology on a lamppost (lampost_coast.DFF). [savidge]
 - Fixed alpha bug on Chilli Dog cart (dynamic2.ide). [UnitedMel]
 - Improved posters for sex shop interior (cj_sex.txd, geninintsex.txd). [M. Osborn]
