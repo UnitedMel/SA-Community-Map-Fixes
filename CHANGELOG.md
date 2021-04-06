@@ -138,6 +138,7 @@ A lot of changes. Mostly some lil' fixes and l o r e improvements 😏.
 - Fixed prelight on a building in Ocean Flats (oc_flats_gnd01_sfs.dff). [UnitedMel]
 
 # Las Venturas (and its surroundings)
+- Improved Fabulous Las Venturas sign (vgswlcmsign1.dff, vgswlcmsign2.dff, vgwwelcome.txd, vegasw_5.col) [mpPako]/[Andrey 50 AND]
 - Fixed rotation of gas pumps on Xoomer gas station (vegasn_stream0.ipl). [savidge]
 - Restored broken Pay 'n' Spray near Caligula's (vegase_2.col, vegase_7.col, vgsEspras01.dff, vgsEspray01.dff, vegasE.ipl, vegase_stream7.ipl). [mpPako]/[UnitedMel]
 - Fixed candy vending machine position (vegase_stream6.ipl). [UnitedMel]
