@@ -3,12 +3,10 @@ Latest "Community Map Fixes" changes.
 
 Used ID's: 612, 613, 614, 662, 663, 665.
 
-## 07-04-2021
-This Update is sponsored by Sprunk.
-
-A lot of changes. Mostly some lil' fixes and l o r e improvements 😏.
+## 09-04-2021
 
 # Los Santos
+- Added new tree and palm placement near basketball court in East Los Santos (lae2_stream1.ipl). [savidge]
 - Added new vehicle spawns at parking in Willofield (las2_stream1.ipl). [UnitedMel]
 - Added new vehicle spawns in Downtown (lan2_stream0.ipl, lan_stream2.ipl). [savidge]
 - Fixed material brightness on railway crossings (lae_1.col, lae_3.col). [UnitedMel]
@@ -111,6 +109,7 @@ A lot of changes. Mostly some lil' fixes and l o r e improvements 😏.
 - Fixed prelight on Newsstand building in Vinewood (sunset17_LAwN.dff). [Crack Yo' Neck]
 
 # Countryside
+- Fixed collision on a bridge in Palomino Creek (countrye_3.col). [JohnnyK]
 - Moved 4 bushes that were stuck in the sky to some trees beneath in Back O' Beyond (countryw_stream5.ipl). [UnitedMel]
 - Fixed alpha bug on brown water in Back O' Beyond (countryW.ide). [UnitedMel]
 - Fixed mapping on a side of bridge in Montgomery Intersection (cunte_roads27W.dff). [UnitedMel]
@@ -138,7 +137,7 @@ A lot of changes. Mostly some lil' fixes and l o r e improvements 😏.
 - Fixed prelight on a building in Ocean Flats (oc_flats_gnd01_sfs.dff). [UnitedMel]
 
 # Las Venturas (and its surroundings)
-- Improved Fabulous Las Venturas sign (vgswlcmsign1.dff, vgswlcmsign2.dff, vgwwelcome.txd, vegasw_5.col) [mpPako]/[Andrey 50 AND]
+- Improved Fabulous Las Venturas sign (vgswlcmsign1.dff, vgswlcmsign2.dff, vgwwelcome.txd, vegasw_5.col) [mpPako]/[Andrey 50 AND]/[UnitedMel]
 - Fixed rotation of gas pumps on Xoomer gas station (vegasn_stream0.ipl). [savidge]
 - Restored broken Pay 'n' Spray near Caligula's (vegase_2.col, vegase_7.col, vgsEspras01.dff, vgsEspray01.dff, vegasE.ipl, vegase_stream7.ipl). [mpPako]/[UnitedMel]
 - Fixed candy vending machine position (vegase_stream6.ipl). [UnitedMel]
