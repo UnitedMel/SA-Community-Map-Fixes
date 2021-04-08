@@ -10,7 +10,6 @@ Used ID's: 612, 613, 614, 662, 663, 665.
 - Added new vehicle spawns at parking in Willofield (las2_stream1.ipl). [UnitedMel]
 - Added new vehicle spawns in Downtown (lan2_stream0.ipl, lan_stream2.ipl). [savidge]
 - Fixed material brightness on railway crossings (lae_1.col, lae_3.col). [UnitedMel]
-- Improved prelights on some generic objects (kb_coolerlft.dff, vegstreetsign2.dff, kb_chr_tbl_test.dff). [UnitedMel]
 - Added missing fences and new objects to a Mall near Conference Center (LAw.ide, law_1.col, plazadrawlast_LAW.dff). [UnitedMel]/[mpPako]
 - Remapped and fixed buildings in East LS near Cluckin' Bell (Furniture_LAe.DFF). [savidge]
 - Improved prelights on building in Santa Maria Pier (Pier02b_LAw2.dff). [UnitedMel]
@@ -117,7 +116,8 @@ Used ID's: 612, 613, 614, 662, 663, 665.
 - Improved enterable trailer model in Angel Pine junkyard (cuntwjunk04.dff). [mpPako]
 
 # Generic Objects
-- Added collision for unused interiors and fixed draw distances for some objects (gen_int5.ipl, levelmap.ide, levelmap.ipl, gen_int3_1.col, int_cont1.col, int_la_2.col, int_la_4.col, int_veg_1.col, levelmap.col, props.col, int_7_11a5.dff, int_rest_veg04.dff, CJ_CUSTOM_BAR.dff, whorebits.txd). [artginPL]/[M. Osborn]/[mpPako]/[UnitedMel]
+- Improved prelights on some generic objects (kb_coolerlft.dff, vegstreetsign2.dff, kb_chr_tbl_test.dff). [UnitedMel]
+- Added collision for unused interiors and fixed draw distances for some objects (gen_int5.ipl, levelmap.ide, levelmap.ipl, gen_int3_1.col, int_cont1.col, int_la_2.col, int_la_4.col, int_veg_1.col, levelmap.col, props.col, int_7_11a5.dff, int_rest_veg04.dff, CJ_CUSTOM_BAR.dff, whorebits.txd). [artginPL]/[M. Osborn]/[mpPako]/[Rocky24pl]/[UnitedMel]
 - Fixed UVs, welded vertices, and revised topology on a lamppost (lampost_coast.DFF). [savidge]
 - Fixed alpha bug on Chilli Dog cart (dynamic2.ide). [UnitedMel]
 - Improved posters for sex shop interior (cj_sex.txd, geninintsex.txd). [M. Osborn]
