@@ -116,7 +116,7 @@ Used ID's: 612, 613, 614, 662, 663, 665.
 - Improved enterable trailer model in Angel Pine junkyard (cuntwjunk04.dff). [mpPako]
 
 # Generic Objects
-- Improved car wreck props (countrye.ide, LAxref.ide, ce_loadbay.txd, countrye_8.col, cw_junkyard2cs.txd, dk_midbuilds.txd, la_fuckcar1.dff, la_fuckcar2.dff, lafuckar.txd, laxref.col, sw_oldshack.txd.).  [M. Osborn]/[Ash_735]/[UnitedMel]
+- Improved car wreck props (countrye.ide, LAxref.ide, ce_loadbay.txd, countrye_8.col, cw_junkyard2cs_t.txd, dk_midbuilds.txd, la_fuckcar1.dff, la_fuckcar2.dff, lafuckar.txd, laxref.col, sw_oldshack.txd.).  [M. Osborn]/[Ash_735]/[UnitedMel]
 - Improved prelights on some generic objects (kb_coolerlft.dff, vegstreetsign2.dff, kb_chr_tbl_test.dff). [UnitedMel]
 - Added collision for unused interiors and fixed draw distances for some objects (gen_int5.ipl, levelmap.ide, levelmap.ipl, gen_int3_1.col, int_cont1.col, int_la_2.col, int_la_4.col, int_veg_1.col, levelmap.col, props.col, int_7_11a5.dff, int_rest_veg04.dff, CJ_CUSTOM_BAR.dff, whorebits.txd). [artginPL]/[M. Osborn]/[mpPako]/[Rocky24pl]/[UnitedMel]
 - Fixed UVs, welded vertices, and revised topology on a lamppost (lampost_coast.DFF). [savidge]
