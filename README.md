@@ -1,11 +1,11 @@
 # [SA] Community Map Fixes 🛠 | [Download](https://github.com/UnitedMel/-SA-Community-Map-Fixes/archive/main.zip) | [Changelog](https://github.com/UnitedMel/-SA-Community-Map-Fixes/blob/main/CHANGELOG.md)
-![alt](https://i.imgur.com/imQTEoN.png)
 ## Description:
+![alt](https://i.imgur.com/imQTEoN.png)
 #### A community-driven project aimed at fixing bugs and inconsistencies in the Grand Theft Auto: San Andreas map.
 #### Plus additional improvements and detaling.
 
 ## Installation:
-
+![alt](https://i.imgur.com/HtmoW07.png)
 1. Copy the folder "Community Map Fixes" to your ModLoader folder (Install latest [ModLoader](https://github.com/thelink2012/modloader/releases)).
 
 2. Replace SALodLights.dat in your scripts folder (Install [Project2DFX](https://github.com/ThirteenAG/III.VC.SA.IV.Project2DFX/releases/tag/gtasa)).
