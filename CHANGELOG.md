@@ -1,11 +1,13 @@
 # Change Log
 Latest "Community Map Fixes" changes.
 
-Used ID's: 612, 613, 614, 662, 663, 665.
+Used ID's: 612, 613, 614, 662, 663, 665, 667.
 
-## 16-04-2021
+## 17-04-2021
 
 # Los Santos
+- Added new sculpture at Santa Maria Beach (santamariasculpt.ide, santamariasculpt.ipl, santamariasculpt.col, santamariasculpt.dff, santamariasculpt.txd). [UnitedMel]
+- Added ramp in alley near Sprunk billboard in Jefferson (mel_obj.ipl). [UnitedMel]
 - Replaced Sex Shop textures with better quality ones from LV Sex Shops (mainlcawn.txd, vgse24hr.txd). [UnitedMel]
 - Added new tree and palm placement near basketball court in East Los Santos (lae2_stream1.ipl). [savidge]
 - Added new vehicle spawns at parking in Willofield (las2_stream1.ipl). [UnitedMel]

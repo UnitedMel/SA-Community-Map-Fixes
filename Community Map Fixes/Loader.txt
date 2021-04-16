@@ -16,5 +16,10 @@ IPL DATA/MAPS/LA/lawn_add.ipl
 # UnitedMel's Additional Props
 IPL DATA/MAPS/GENERIC/mel_obj.ipl
 
+# Santa Maria Beach Sculpture
+COLFILE 0 modloader/Community Map Fixes/models/gta3.img/santamariasculpt.col
+IPL DATA/MAPS/LA/santamariasculpt.ipl
+IDE DATA/MAPS/LA/santamariasculpt.ide
+
 # Fenton's Additional ECola Vending Machines
 IPL DATA/MAPS/GENERIC/fenton_vend.ipl
