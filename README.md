@@ -84,3 +84,4 @@
 - Additional ECola Vending Machines: Fenton
 - VC Guardhouse: Mystertv
 - Improved posters for sexshop interior: M. Osborn
+- Vegetation Vertex Fix (Bushes & Flowers): Kelly Light
