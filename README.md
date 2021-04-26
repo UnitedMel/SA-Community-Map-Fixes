@@ -38,7 +38,7 @@
 - Vertex Colour Fix + 2dfx Effects: atfburner
 - Vertex Colour Fixes + Improvements: RJSanModder
 - Fixed Vegetation Pre-Lighting: d3jan
-- Vinewood Building Vertex Fix: Crack Yo' Neck
+- Vinewood Building Vertex Fix: Cracc
 - LitChurch: Zeneric
 - Improved Water.dat: Zeneric
 - Escalator Physics Fix: Staunton Assassin

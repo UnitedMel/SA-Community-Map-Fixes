@@ -4,7 +4,7 @@ Latest "Community Map Fixes" changes.
 ## 26-04-2021
 
 # Los Santos
-- Added night lighting to an airport building (LAs.ipl, nightlights_las.ide, nightlights_las.ipl, BTOLAND1ct_LAS.dff, airoad1b_LAS.dff, airport2.txd, airport3_las.txd, airprtrunway_las.txd, airpurtder_las.dff, airpurtderfr_las.dff, cylinder03.dff, las_5.col, las_nightlights.col, las_nightlights.txd, lasairprt5.dff, lasairprt5ngtlight.dff). [Cracco]/[mpPako]/[UnitedMel]
+- Added night lighting to an airport building (LAs.ipl, nightlights_las.ide, nightlights_las.ipl, BTOLAND1ct_LAS.dff, airoad1b_LAS.dff, airport2.txd, airport3_las.txd, airprtrunway_las.txd, airpurtder_las.dff, airpurtderfr_las.dff, cylinder03.dff, las_5.col, las_nightlights.col, las_nightlights.txd, lasairprt5.dff, lasairprt5ngtlight.dff). [Cracc]/[mpPako]/[UnitedMel]
 - Added new sculpture at Santa Maria Beach (santamariasculpt.ide, santamariasculpt.ipl, santamariasculpt.col, santamariasculpt.dff, santamariasculpt.txd). [UnitedMel]
 - Added ramp in alley near Sprunk billboard in Jefferson (mel_obj.ipl). [UnitedMel]
 - Replaced Sex Shop textures with better quality ones from LV Sex Shops (mainlcawn.txd, vgse24hr.txd). [UnitedMel]
@@ -107,7 +107,7 @@ Latest "Community Map Fixes" changes.
 - Fixed mapping on a bushes near Big Smoke house (laelasruff201.dff). [UnitedMel]
 - Changed position of parked car in Playa Del Seville (las2_stream4.ipl). [UnitedMel]
 - Fixed vines model near Marina (venice_alpha.dff). [UnitedMel]
-- Fixed prelight on Newsstand building in Vinewood (sunset17_LAwN.dff). [Crack Yo' Neck]
+- Fixed prelight on Newsstand building in Vinewood (sunset17_LAwN.dff). [Cracc]
 
 # Countryside
 - Fixed collision on a road and improved dirt area near General Store in Palomino Creek (countrye_4.col, cunte_roads87.dff). [UnitedMel]
