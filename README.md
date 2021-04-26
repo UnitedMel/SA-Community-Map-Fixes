@@ -24,6 +24,7 @@
 ###### Recommended to lower the priority of "Community Map Fixes" folder in modloader.ini. So when you install another mod that replaces the same file, the other mod will replace this one.
 
 ## Authors:
+
 - mpPako - Remapped and improved roads. Remodeled and expanded buildings. Additional map objects, texture work and other UV map fixes.
 - savidge - Improved and fixed parked cars, map objects placements such as: trees, bushes, lamps, hydrants, mail boxes, payphones and etc. Additional map objects, texture work and other UV map fixes.
 - UnitedMel - Improved collisions, fixed gaps in map objects, texture work and other UV map fixes.
