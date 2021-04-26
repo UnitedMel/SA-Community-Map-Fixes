@@ -23,3 +23,8 @@ IDE DATA/MAPS/LA/santamariasculpt.ide
 
 # Fenton's Additional ECola Vending Machines
 IPL DATA/MAPS/GENERIC/fenton_vend.ipl
+
+# Cracc's Nightlights
+COLFILE 0 models\gta3.img\las_nightlights.col
+IDE DATA/MAPS/LA/nightlight\nightlights_las.IDE
+IPL DATA/MAPS/LA/nightlight\nightlights_las.IPL
