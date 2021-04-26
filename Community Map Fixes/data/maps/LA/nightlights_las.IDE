@@ -1,10 +1,5 @@
-#Item Definition File created by MapEditor
-objs
-end
 tobj
-18800, lasairprt5ngtlight, las_nightlights, 299, 140, 22, 5
-end
-2dfx
+668, lasairprt5ngtlight, las_nightlights, 299, 140, 22, 5
 end
 
 

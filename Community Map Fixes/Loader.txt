@@ -25,6 +25,6 @@ IDE DATA/MAPS/LA/santamariasculpt.ide
 IPL DATA/MAPS/GENERIC/fenton_vend.ipl
 
 # Cracc's Nightlights
-COLFILE 0 models\gta3.img\las_nightlights.col
-IDE DATA/MAPS/LA/nightlight\nightlights_las.IDE
-IPL DATA/MAPS/LA/nightlight\nightlights_las.IPL
+COLFILE 0 modloader/Community Map Fixes/models/gta3.img/las_nightlights.col
+IDE DATA/MAPS/LA/nightlights_las.IDE
+IPL DATA/MAPS/LA/nightlights_las.IPL

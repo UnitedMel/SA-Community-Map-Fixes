@@ -1,11 +1,10 @@
 # Change Log
 Latest "Community Map Fixes" changes.
 
-Used ID's: 612, 613, 614, 662, 663, 665, 667.
-
 ## 26-04-2021
 
 # Los Santos
+- Added night lighting to an airport building (LAs.ipl, nightlights_las.ide, nightlights_las.ipl, BTOLAND1ct_LAS.dff, airoad1b_LAS.dff, airport2.txd, airport3_las.txd, airprtrunway_las.txd, airpurtder_las.dff, airpurtderfr_las.dff, cylinder03.dff, las_5.col, las_nightlights.col, las_nightlights.txd, lasairprt5.dff, lasairprt5ngtlight.dff). [Cracco]/[mpPako]/[UnitedMel]
 - Added new sculpture at Santa Maria Beach (santamariasculpt.ide, santamariasculpt.ipl, santamariasculpt.col, santamariasculpt.dff, santamariasculpt.txd). [UnitedMel]
 - Added ramp in alley near Sprunk billboard in Jefferson (mel_obj.ipl). [UnitedMel]
 - Replaced Sex Shop textures with better quality ones from LV Sex Shops (mainlcawn.txd, vgse24hr.txd). [UnitedMel]

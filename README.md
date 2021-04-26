@@ -3,6 +3,7 @@
 ![alt](https://i.imgur.com/imQTEoN.png)
 #### A community-driven project aimed at fixing bugs and inconsistencies in the Grand Theft Auto: San Andreas map.
 #### Plus additional improvements and detaling.
+### ID's used by this mod: 612, 613, 614, 662, 663, 665, 667, 668.
 
 ## Installation:
 ![alt](https://i.imgur.com/HtmoW07.png)
