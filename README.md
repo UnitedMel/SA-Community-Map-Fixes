@@ -3,13 +3,13 @@
 ![alt](https://i.imgur.com/imQTEoN.png)
 #### A community-driven project aimed at fixing bugs and inconsistencies in the Grand Theft Auto: San Andreas map.
 #### Plus additional improvements and detaling.
-### ID's used by this mod: 612, 613, 614, 662, 663, 665, 667, 668.
+### IDs used by this mod: 612, 613, 614, 662, 663, 665, 667, 668.
 
 ## Installation:
 ![alt](https://i.imgur.com/HtmoW07.png)
-1. Copy the folder "Community Map Fixes" to your ModLoader folder (Install latest [ModLoader](https://github.com/thelink2012/modloader/releases)).
+1. Copy the folder "Community Map Fixes" to your ModLoader folder (install latest [ModLoader](https://github.com/thelink2012/modloader/releases)).
 
-2. Replace SALodLights.dat in your scripts folder (Install [Project2DFX](https://github.com/ThirteenAG/III.VC.SA.IV.Project2DFX/releases/tag/gtasa)).
+2. Replace SALodLights.dat in your scripts folder (install [Project2DFX](https://github.com/ThirteenAG/III.VC.SA.IV.Project2DFX/releases/tag/gtasa)).
 
 3. (Optional) Replace your IMGs with mipmapped originals. Don't forget to make a backup! (*files for downgraded SA v1.0):
 - [gta3.img](https://drive.google.com/file/d/1BjBkC_beDPWc5G1CN-Hcti1HstN-jHGr/view?usp=sharing)
@@ -17,7 +17,6 @@
 - [cutscene.img](https://drive.google.com/file/d/1VbSiXcIA9yqXT3ilAoIe1yY6AAT2dtf9/view?usp=sharing)
 
 ## Optional Improvements:
-
 [Script Fixes](https://gtaforums.com/topic/937827-gta-sa-script-fixes-finding-and-fixing-script-glitches/) - fixed mission script (main.scm).
 
 [PC Dark San Fierro Roads](https://drive.google.com/file/d/1Qw5V6Y_WZgNBLadqQ2Egt01rIYjhYkb0/view?usp=sharing) - actually considered as a bug, but somebody would like to have them dark.
@@ -25,15 +24,13 @@
 ###### Recommended to lower the priority of "Community Map Fixes" folder in modloader.ini. So when you install another mod that replaces the same file, the other mod will replace this one.
 
 ## Authors:
-
-- mpPako - Remapped and improved roads. Remodeled and expanded buildings. Additional map objects, texture work and other UV map fixes.
-- savidge - Improved and fixed parked cars, map objects placements such as: trees, bushes, lamps, hydrants, mail boxes, payphones and etc. Additional map objects, texture work and other UV map fixes.
+- mpPako - Remapped and improved roads, remodeled and expanded buildings, additional map objects, texture work and other UV map fixes.
+- savidge - Improved and fixed parked cars, map object placements, additional map objects, texture work and other UV map fixes.
 - UnitedMel - Improved collisions, fixed gaps in map objects, texture work and other UV map fixes.
 
 *Check latest progress in the [changelog!](https://github.com/UnitedMel/-SA-Community-Map-Fixes/blob/main/CHANGELOG.md)*
 
 ## Original Authors:
-
 - Original Pre-lighting Fixes Pack: JuniorDjjr
 - Vertex Colour Fix + 2dfx Effects: atfburner
 - Vertex Colour Fixes + Improvements: RJSanModder
