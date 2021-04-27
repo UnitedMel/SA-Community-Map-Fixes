@@ -4,6 +4,7 @@ Latest "Community Map Fixes" changes.
 ## 27-04-2021
 
 # Los Santos
+- Added more parked car spawns in the LS airport car park; removed problematic tree placement (las_stream1.ipl). [savidge]
 - Removed extraneous telephone pole (lahills_stream0.ipl). [savidge]
 - Added night lighting to an airport building (LAs.ipl, nightlights_las.ide, nightlights_las.ipl, BTOLAND1ct_LAS.dff, airoad1b_LAS.dff, airport2.txd, airport3_las.txd, airprtrunway_las.txd, airpurtder_las.dff, airpurtderfr_las.dff, cylinder03.dff, las_5.col, las_nightlights.col, las_nightlights.txd, lasairprt5.dff, lasairprt5ngtlight.dff). [Cracc]/[mpPako]/[UnitedMel]
 - Added new sculpture at Santa Maria Beach (santamariasculpt.ide, santamariasculpt.ipl, santamariasculpt.col, santamariasculpt.dff, santamariasculpt.txd). [UnitedMel]
