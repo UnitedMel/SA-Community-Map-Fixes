@@ -26,7 +26,7 @@ A community-driven project aimed at fixing bugs and inconsistencies in the Grand
 - savidge - Improved and fixed parked cars, map object placements, additional map objects, texture work and other UV map fixes.
 - UnitedMel - Improved collisions, fixed gaps in map objects, texture work and other UV map fixes.
 
-*Check latest progress in the [changelog!](https://github.com/UnitedMel/-SA-Community-Map-Fixes/blob/main/CHANGELOG.md)*
+*Check latest progress in the [changelog](https://github.com/UnitedMel/-SA-Community-Map-Fixes/blob/main/CHANGELOG.md)*!
 
 ## Original Authors:
 - Original Pre-lighting Fixes Pack: JuniorDjjr
