@@ -11,17 +11,16 @@
 
 2. Replace SALodLights.dat in your scripts folder (install [Project2DFX](https://github.com/ThirteenAG/III.VC.SA.IV.Project2DFX/releases/tag/gtasa)).
 
-3. (Optional) Replace your IMGs with mipmapped originals. Don't forget to make a backup! (*files for downgraded SA v1.0):
+## Optional Improvements:
+- [Script Fixes](https://gtaforums.com/topic/937827-gta-sa-script-fixes-finding-and-fixing-script-glitches/) - fixed mission script (main.scm).
+- [PC Dark San Fierro Roads](https://drive.google.com/file/d/1Qw5V6Y_WZgNBLadqQ2Egt01rIYjhYkb0/view?usp=sharing) - actually considered a bug, but provided in case you would like to have them this way.
+
+## Default IMGs (mipmapped)
 - [gta3.img](https://drive.google.com/file/d/1BjBkC_beDPWc5G1CN-Hcti1HstN-jHGr/view?usp=sharing)
 - [gta_int.img](https://drive.google.com/file/d/1MiX2sY_EOEso615KUmItDTRGT4SDLxs1/view?usp=sharing)
 - [cutscene.img](https://drive.google.com/file/d/1VbSiXcIA9yqXT3ilAoIe1yY6AAT2dtf9/view?usp=sharing)
 
-## Optional Improvements:
-[Script Fixes](https://gtaforums.com/topic/937827-gta-sa-script-fixes-finding-and-fixing-script-glitches/) - fixed mission script (main.scm).
-
-[PC Dark San Fierro Roads](https://drive.google.com/file/d/1Qw5V6Y_WZgNBLadqQ2Egt01rIYjhYkb0/view?usp=sharing) - actually considered as a bug, but somebody would like to have them dark.
-
-###### Recommended to lower the priority of "Community Map Fixes" folder in modloader.ini. So when you install another mod that replaces the same file, the other mod will replace this one.
+###### It's recommended to lower the priority of the "Community Map Fixes" folder in modloader.ini. So when you install another mod that replaces the same file, the other mod will replace this one.
 
 ## Authors:
 - mpPako - Remapped and improved roads, remodeled and expanded buildings, additional map objects, texture work and other UV map fixes.
