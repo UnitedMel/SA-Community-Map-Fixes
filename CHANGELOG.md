@@ -1,7 +1,7 @@
 # Change Log
 Latest "Community Map Fixes" changes.
 
-## 27-04-2021
+## 04-05-2021
 
 # Los Santos
 - Fixed prelights on roads and canals near LS Forum (lae2_roads76.dff, stormdrainlae2_04.dff, stormdrainlae2_06.dff). [4Arty]
