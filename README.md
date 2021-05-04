@@ -23,16 +23,22 @@ A community-driven project aimed at fixing bugs and inconsistencies in the Grand
 ###### It's recommended to lower the priority of the "Community Map Fixes" folder in modloader.ini. So when you install another mod that replaces the same file, the other mod will replace this one.
 
 ## Authors:
-- mpPako - Remapped and improved roads, remodeled and expanded buildings, additional map objects, texture work and other UV map fixes.
-- savidge - Improved and fixed parked cars, map object placements, additional map objects, texture work and other UV map fixes.
-- UnitedMel - Improved collisions, fixed gaps in map objects, texture work and other UV map fixes.
+- 4Arty - Fixed pre-lights.
+- Cracc - Fixed pre-lights.
+- direct - Improved textures.
+- Fenton - Additional map objects.
+- MrFinger - Improved map objects and textures.
+- mpPako - Remapped and improved roads, remodeled and expanded buildings, additional map objects. Improved textures, UV map fixes.
+- savidge - Fixed and additional parked cars, map object placements. Improved textures, UV map fixes.
+- sunny driver - Collision fixes.
+- UnitedMel - Improved textures, fixed and improved collisions, UV map fixes.
+- Whokilledcaptainalex? - Additional map objects.
 
 ## Original Authors:
 - Original Pre-lighting Fixes Pack: JuniorDjjr
 - Vertex Colour Fix + 2dfx Effects: atfburner
 - Vertex Colour Fixes + Improvements: RJSanModder
 - Fixed Vegetation Pre-Lighting: d3jan
-- Vinewood Building Vertex Fix: Cracc
 - LitChurch: Zeneric
 - Improved Water.dat: Zeneric
 - Escalator Physics Fix: Staunton Assassin
@@ -73,7 +79,6 @@ A community-driven project aimed at fixing bugs and inconsistencies in the Grand
 - Easter Basin Water Materials: Inadequate
 - Open Ironworks: SergeF1988
 - Animated airport radar: AVALS343
-- Additional Fences near Donut Shop: Whokilledcaptainalex?
 - Arcade Machine Fix: Neon
 - Caligula's Heist vault door transparency fix: Marsi4eg
 - Fixed LV road sign text: JohnnyK
