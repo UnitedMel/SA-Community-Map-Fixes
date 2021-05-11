@@ -1,7 +1,7 @@
 # Change Log
 Latest "Community Map Fixes" changes.
 
-## 04-05-2021
+## 11-05-2021
 
 # Los Santos
 - Fixed prelights on roads and canals near LS Forum (lae2_roads76.dff, stormdrainlae2_04.dff, stormdrainlae2_06.dff). [4Arty]
@@ -122,6 +122,7 @@ Latest "Community Map Fixes" changes.
 - Improved enterable trailer model in Angel Pine junkyard (cuntwjunk04.dff). [mpPako]
 
 # Generic Objects
+- Improved Varrio Los Aztecas tag texture (tags_laazteca.txd). [savidge]
 - Added ped attractor to a bench with towel model on a beach (lounge_towel_up.dff). [UnitedMel]
 - Improved vertex lighting for all bushes and flowers. (airplants_las.dff, airplnt2_las.dff, beacliff01tr_law2.dff, beacliff02tr_law2.dff, beacliff06tr_law2.dff, bealantr01_law01.dff, bealantr02_law2.dff, bealantr03_law2.dff, bealpha1_las2.dff, bighillalpha.dff, bighillalpha2.dff, bistrogarden.dff, burg_alpha.dff, buringd_alpha.dff, bush01_lvs.dff, bush02_lvs.dff, bush03_lvs.dff, bush04_lvs.dff, bush05_lvs.dff, bush06_lvs.dff, bush07_lvs.dff, bush08_lvs.dff, bush09_lvs.dff, bush10_lvs.dff, bush11_lvs.dff, bush12_lvs.dff, bush13_lvs.dff, bush14_lvs.dff, ce_telewires02.dff, ce_telewires03.dff, ce_telewires04.dff, century02tr_law2.dff, ctscene2_las.dff, cunte_roots01.dff, cuntw_weebuild.dff, cylinder03.dff, des_treeline1.dff, des_treeline2.dff, des2_bushybits.dff, desn2_studbush.dff, dockfencee_las2.dff, dockfencew_las2.dff, fightplaza1tra_lan.dff, fredbloktran_lawn.dff, geoparktr_law2.dff, glfcrsgate1_vgs.dff, golfsign1_vgn.dff, grassplant.dff, grbank_alpha.dff, ground2_alpha.dff, hotelback2.dff, hotelferns2_lan.dff, hotelferns3_lan.dff, hubst_alpha.dff, hubst2_alpha.dff, hubst3_alpha.dff, hubst4alpha.dff, laealpha1.dff, laealpha2.dff, laealpha3.dff, laealpha4.dff, laealpha5.dff, laealpha5b.dff, laealpha6.dff, laealpha7.dff, laectru_lae.dff, laejeffers10alphas.dff, laenwblk2.dff, lasairfbed_las.dff, law_alphaveg.dff, lawnbushb.dff, lawplaza_alpha.dff, luxortrees01_lvs.dff, odfwer_las.dff, pirtetrees01_lvs.dff, pirtetrees02_lvs.dff, pirtetrees03_lvs.dff, plant_pot_4.dff, plantbeds1_lan01.dff, plantbeds1_lan02.dff, plantbeds1_lan03.dff, plantbeds1_lan04.dff, plantbeds1_lan05.dff, plants01_lvs.dff, roads34tr_law2.dff, rodeo04tr_law2.dff, scumwfires1_las01.dff, scumwfires1_las20.dff, scumwires1_las2.dff, scumwires1_las03.dff, sfx_plant03.dff, sfx_plant04.dff, sfx_winplant07.dff, snpedtedc_las.dff, snpedtee_las.dff, snpedteew1_las.dff, snpedteew3_las.dff, snpedteew3gt_las.dff, stdrain_alpha.dff, stdrain_alpha2.dff, stormd_fill.dff, stormd_fill1_las2.dff, stormd_fillb.dff, stormd_fillc.dff, stormd_filld.dff, stormd_fille.dff, stormful2_las2.dff, sunset02tr_law2.dff, sunset07tr_law2.dff, sunset12tr_law2.dff, tikitrees01_lvs.dff, tikitrees02_lvs.dff, veg_ivy_balcny_kb08.dff, vegashseplot1.dff, vegasxrexhse03.dff, vegasxrexhse04.dff, vegasxrexhse05.dff, vegasxrexhse06.dff, vegasxrexhse07.dff, vegasxrexhse08.dff, vegasxrexhse09.dff, vegasxrexhse10.dff, vegstadplants1.dff, vegstadplants2.dff, vgnmall1_2.dff, vgsbikeschint.dff, vgsn_flwrbdsm.dff, vinebloktran_lawn.dff, wefargoalphas_lan.dff) [Kelly Light]
 - Improved car wreck props (countrye.ide, LAxref.ide, ce_loadbay.txd, countrye_8.col, cw_junkyard2cs_t.txd, dk_midbuilds.txd, la_fuckcar1.dff, la_fuckcar2.dff, lafuckar.txd, laxref.col, sw_oldshack.txd.).  [M. Osborn]/[Ash_735]/[UnitedMel]
@@ -138,6 +139,7 @@ Latest "Community Map Fixes" changes.
 - Added animated airport radar (ap_radar1_01.dff, ap_radar1_01.ifp, multiobj.col, multiobj.ide). [mpPako]/[AVALS343]
 
 # San Fierro
+- Fixed road texture near SF Airport entrance (airport_03_sfse.dff, airportroads_sfse.txd). [UnitedMel]
 - Fixed prelights on road section near crackden in Doherty (roadsSFSE47.dff, roadsSFSE48.dff, roadsSFSE49.dff). [UnitedMel]
 - Fixed prelights on procedural grass near train station (sfse_10.col). [sunny driver]
 - Added PS2 Grey SF Roads. [Ernestin1]/[mpPako]
@@ -148,6 +150,7 @@ Latest "Community Map Fixes" changes.
 - Fixed prelight on a building in Ocean Flats (oc_flats_gnd01_sfs.dff). [UnitedMel]
 
 # Las Venturas (and its surroundings)
+- Fixed culling in police car park (vegasn_stream8.ipl). [_CP_]
 - Improved Fabulous Las Venturas sign (vgswlcmsign1.dff, vgswlcmsign2.dff, vgwwelcome.txd, vegasw_5.col) [mpPako]/[Andrey 50 AND]/[UnitedMel]
 - Fixed rotation of gas pumps on Xoomer gas station (vegasn_stream0.ipl). [savidge]
 - Restored broken Pay 'n' Spray near Caligula's (vegase_2.col, vegase_7.col, vgsEspras01.dff, vgsEspray01.dff, vegasE.ipl, vegase_stream7.ipl). [mpPako]/[UnitedMel]

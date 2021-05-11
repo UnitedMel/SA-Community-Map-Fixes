@@ -70,7 +70,6 @@ A community-driven project aimed at fixing bugs and inconsistencies in the Grand
 - Prop Vehicles Project: M. Osborn
 - Zero's Shop Improved Models: M. Osborn
 - Phonebox Improved Model: M. Osborn
-- Sweet & Kendl Picture: polivin emil
 - Improved Pickups Textures: Ash_735
 - Improved Car Shadow Texture: Ash_735
 - ORG Patch: DimZet13
