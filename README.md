@@ -41,8 +41,8 @@ A community-driven project aimed at fixing bugs and inconsistencies in the Grand
 - Fixed Vegetation Pre-Lighting: d3jan
 - LitChurch: Zeneric
 - Improved Water.dat: Zeneric
-- Escalator Physics Fix: Staunton Assassin
-- Finalized Pickups: Staunton Assasin
+- Escalator Physics Fix: H-G
+- Finalized Pickups: H-G
 - PS2 Models: Tomasak / Inadequate / Mugetsuga / KDST
 - Mugetsuga's Fixes: Mugetsuga
 - Beta Leftovers Fix: MrFinger / Kalvin
@@ -54,7 +54,7 @@ A community-driven project aimed at fixing bugs and inconsistencies in the Grand
 - Fixed floating lamp posts near Four Dragons Casino - kebi
 - PS2 seabed.ipl: Rockstar Games
 - PS2 No Aggressive Drivers: Rockstar Games. Discovered by Tomasak.
-- Bus Stops Ped Attractor Fix: DeeZire / Ryadica926 (Compatible with Restored Bus Fare Bonus by Staunton Assasin)
+- Bus Stops Ped Attractor Fix: DeeZire / Ryadica926 (Compatible with Restored Bus Fare Bonus by H-G)
 - Transfender Interior Volumetrics Fix: Hrod Wolf
 - LS Railroad Crossings: IvanArsov
 - Bollards Fix: SergeDV
@@ -69,7 +69,6 @@ A community-driven project aimed at fixing bugs and inconsistencies in the Grand
 - Map Textures Fix + PS2 Grey SF Roads: YOEL_44 / ernestin1 / Blackbird88 / Tomasak / Junior_Djjr
 - Prop Vehicles Project: M. Osborn
 - Zero's Shop Improved Models: M. Osborn
-- Phonebox Improved Model: M. Osborn
 - Improved Pickups Textures: Ash_735
 - Improved Car Shadow Texture: Ash_735
 - ORG Patch: DimZet13
@@ -84,3 +83,7 @@ A community-driven project aimed at fixing bugs and inconsistencies in the Grand
 - VC Guardhouse: Mystertv
 - Improved posters for sexshop interior: M. Osborn
 - Vegetation Vertex Fix (Bushes & Flowers): Kelly Light
+- Improved Candy Suxx Billboard: Mr. Explosive, Eastwood J.C.
+- Improved CJ's moms photo: Ezekiel
+- Better Leftovers Fix: Jéssica Natália, Junior_Djjr, KUSTODIY
+- Single Notes Fix: H-G
