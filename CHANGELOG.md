@@ -141,6 +141,7 @@ Latest "Community Map Fixes" changes.
 - Added animated airport radar (ap_radar1_01.dff, ap_radar1_01.ifp, multiobj.col, multiobj.ide). [mpPako]/[AVALS343]
 
 # San Fierro
+- Fixed incorrect material ID, and UVs of a road in Paradiso (road_SFW42.DFF). [savidge]
 - Fixed road texture near SF Airport entrance (airport_03_sfse.dff, airportroads_sfse.txd). [UnitedMel]
 - Fixed prelights on road section near crackden in Doherty (roadsSFSE47.dff, roadsSFSE48.dff, roadsSFSE49.dff). [UnitedMel]
 - Fixed prelights on procedural grass near train station (sfse_10.col). [sunny driver]
