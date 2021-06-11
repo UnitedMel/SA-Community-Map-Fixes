@@ -1,9 +1,10 @@
 # Change Log
 Latest "Community Map Fixes" changes.
 
-## 31-05-2021
+## 11-06-2021
 
 # Los Santos
+- Improved world map loading upon entering Ganton Gym (LAe2.ipl). [UnitedMel]
 - Improved Candy Suxx billboard in Rodeo (sunstrans_law2.txd, sunset03_law2.txd). [Mr. Explosive]/[Eastwood J.C.]
 - Fixed prelights on roads and canals near LS Forum (lae2_roads76.dff, stormdrainlae2_04.dff, stormdrainlae2_06.dff). [4Arty]
 - Added more parked car spawns in the LS airport car park; removed problematic tree placement (las_stream1.ipl). [savidge]
@@ -114,6 +115,9 @@ Latest "Community Map Fixes" changes.
 - Fixed prelight on Newsstand building in Vinewood (sunset17_LAwN.dff). [Cracc]
 
 # Countryside
+- Improved Flint Intersection and FleischBerg factory. Static trailers were replaced by usable versions (countrye_7.col, countrye_11.col, countryw_1.col, countryw_2.col, bwidgecuntw.dff, CE_bigshed1.dff, CE_waretank.dff, cunte_roads30bar01.dff, cuntwland46b.DFF, cuntwland48b.dff, cuntwroad23.dff, cuntwroad68.dff, cuntwroad71.dff, sw_trailerjump.dff, countrye_stream10.ipl, countrye_stream11.ipl, ce_loadbay.txd). [mpPako]/[savidge]
+- Fixed model flags (countrye.ide). [UnitedMel]
+- Moved LOD of barrels placement near garage doors (countrye.ipl). [savidge]
 - Fixed collision on a road and improved dirt area near General Store in Palomino Creek (countrye_4.col, cunte_roads87.dff). [UnitedMel]
 - Fixed collision on a bridge in Palomino Creek (countrye_3.col). [JohnnyK]
 - Moved 4 bushes that were stuck in the sky to some trees beneath in Back O' Beyond (countryw_stream5.ipl). [UnitedMel]
@@ -142,6 +146,7 @@ Latest "Community Map Fixes" changes.
 
 # San Fierro
 - Fixed incorrect material ID, and UVs of a road in Paradiso (road_SFW42.DFF). [savidge]
+- Fixed wrong road texture in tunnel near Easter Basin (parktunnel_sfs.txd). [UnitedMel]
 - Fixed road texture near SF Airport entrance (airport_03_sfse.dff, airportroads_sfse.txd). [UnitedMel]
 - Fixed prelights on road section near crackden in Doherty (roadsSFSE47.dff, roadsSFSE48.dff, roadsSFSE49.dff). [UnitedMel]
 - Fixed prelights on procedural grass near train station (sfse_10.col). [sunny driver]
