@@ -72,7 +72,7 @@ A community-driven project aimed at fixing bugs and inconsistencies in the Grand
 - Improved Car Shadow Texture: Ash_735
 - ORG Patch: DimZet13
 - Unofficial Patch: Kurtis / Sleepy93HUN
-- Map Fixes: JohnnyK(Aztecas_5)
+- Map Fixes: BMWSauberF1.08
 - Easter Basin Water Materials: Inadequate
 - Open Ironworks: SergeF1988
 - Animated airport radar: AVALS343
