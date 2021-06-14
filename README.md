@@ -35,7 +35,6 @@ A community-driven project aimed at fixing bugs and inconsistencies in the Grand
 - Whokilledcaptainalex? - Additional map objects.
 
 ## Original Authors:
-- Original Pre-lighting Fixes Pack: JuniorDjjr
 - Vertex Colour Fix + 2dfx Effects: atfburner
 - Vertex Colour Fixes + Improvements: RJSanModder
 - Fixed Vegetation Pre-Lighting: d3jan
@@ -61,7 +60,7 @@ A community-driven project aimed at fixing bugs and inconsistencies in the Grand
 - Pyramid 2DFX Fix: TJGM
 - Orange Bulb Lampposts: TJGM
 - Jizzy's Pleasure Dome Remastered 2DFX: TJGM
-- КИ - Коллизия Интерьеров (IC - Interiors Collision): Eastwood J.C.(Johnny Cash) / SergeDV / andre500
+- КИ - Коллизия Интерьеров (IC - Interiors Collision): Eastwood J.C. / SergeDV / andre500
 - Doherty Colision Fix: Black_Jack
 - Cutscene Liberty City Xbox Textures: Blackbird88
 - Neons and Shadows: KDST
@@ -79,7 +78,7 @@ A community-driven project aimed at fixing bugs and inconsistencies in the Grand
 - Animated airport radar: AVALS343
 - Arcade Machine Fix: Neon
 - Caligula's Heist vault door transparency fix: Marsi4eg
-- Additional ECola Vending Machines: Fenton
+- eCola Vending Machine: Fenton
 - VC Guardhouse: Mystertv
 - Improved posters for sexshop interior: M. Osborn
 - Vegetation Vertex Fix (Bushes & Flowers): Kelly Light
