@@ -84,5 +84,5 @@ A community-driven project aimed at fixing bugs and inconsistencies in the Grand
 - Vegetation Vertex Fix (Bushes & Flowers): Kelly Light
 - Improved Candy Suxx Billboard: Mr. Explosive, Eastwood J.C.
 - Improved CJ's moms photo: Ezekiel
-- Better Leftovers Fix: Jéssica Natália (Junior_Djjr), KUSTODIY
+- Better Leftovers Fix: Jéssica Natália, Junior_Djjr, KUSTODIY
 - Single Notes Fix: H-G
