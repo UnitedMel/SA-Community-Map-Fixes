@@ -1,9 +1,10 @@
 # Change Log
 Latest "Community Map Fixes" changes.
 
-## 11-06-2021
+## 18-07-2021
 
 # Los Santos
+- Improved LS building which can be seen at New Game (project2lae2.dff, laxref.col). [UnitedMel]
 - Improved world map loading upon entering Ganton Gym (LAe2.ipl). [UnitedMel]
 - Improved Candy Suxx billboard in Rodeo (sunstrans_law2.txd, sunset03_law2.txd). [Mr. Explosive]/[Eastwood J.C.]
 - Fixed prelights on roads and canals near LS Forum (lae2_roads76.dff, stormdrainlae2_04.dff, stormdrainlae2_06.dff). [4Arty]
@@ -145,6 +146,7 @@ Latest "Community Map Fixes" changes.
 - Added animated airport radar (ap_radar1_01.dff, ap_radar1_01.ifp, multiobj.col, multiobj.ide). [mpPako]/[AVALS343]
 
 # San Fierro
+- Added missing collision to Airport sign (sfse_13.col). [UnitedMel]
 - Fixed incorrect material ID, and UVs of a road in Paradiso (road_SFW42.DFF). [savidge]
 - Fixed wrong road texture in tunnel near Easter Basin (parktunnel_sfs.txd). [UnitedMel]
 - Fixed road texture near SF Airport entrance (airport_03_sfse.dff, airportroads_sfse.txd). [UnitedMel]
