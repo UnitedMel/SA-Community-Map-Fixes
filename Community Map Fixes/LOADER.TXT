@@ -1,0 +1,10 @@
+#COMMUNITY MAP FIXES - LOADER
+#KEEP THIS FILE INSIDE MODLOADER
+#
+COLFILE 0 modloader/Community Map Fixes/MODELS/GTA3.IMG/vtxcfix2dfxs.col
+COLFILE 0 modloader/Community Map Fixes/MODELS/GTA3.IMG/churchlite.col
+COLFILE 0 modloader/Community Map Fixes/MODELS/GTA3.IMG/santamariasculpt.col
+COLFILE 0 modloader/Community Map Fixes/MODELS/GTA3.IMG/las_nightlights.col
+#
+IDE DATA/MAPS/CMF/CMF_PROPS.IDE
+IPL DATA/MAPS/CMF/CMF_PROPS.IPL
