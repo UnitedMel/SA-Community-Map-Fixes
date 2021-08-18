@@ -28,6 +28,7 @@ A community-driven project aimed at fixing bugs and inconsistencies in the Grand
 ## Big Thanks to
 - 5d0 for HQ textures, difference between platforms reporting and support.
 - Inadequate for technical information and fixed files.
+- Everybody in [The Warehouse](https://discord.gg/uVsEnha) for feedback, suggestions and support!
 - Rockstar Games for making this great but rushed game.
 
 ////////////////////////////////////////////oldinfo
