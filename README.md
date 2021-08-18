@@ -14,16 +14,17 @@ A community-driven project aimed at fixing bugs and inconsistencies in the Grand
 3. Replace modloader.ini in modlaoder folder.
 
 ## Optional Improvements:
+![alt](https://i.imgur.com/imQTEoN.png)
 - [Script Fixes](https://gtaforums.com/topic/937827-gta-sa-script-fixes-finding-and-fixing-script-glitches/) - fixed mission script (main.scm).
 
 ## Mods Used & Their Owners
-- Converted PS2 Map Models — aap
-- High Quality Map Textures — Ash_735, DimZet13, 
-- SA XBOX Map Features — Hrod Wolf
-- Neons And Shadows — KDST
-- Easter Basin Water Fix — Inadequate
+- Converted PS2 Map Models — aap.
+- High Quality Map Textures — Ash_735, DimZet13, 5d0.
+- SA XBOX Map Features — Hrod Wolf.
+- Neons And Shadows — KDST.
+- Easter Basin Water Fix — Inadequate.
 
-- Generic TXD's — Clara
+- Generic TXD's — Clara.
 
 ## Big Thanks to
 - 5d0 for HQ textures, difference between platforms reporting and support.
