@@ -1,27 +1,36 @@
-# [SA] Community Map Fixes 🛠 | [Download](https://github.com/UnitedMel/-SA-Community-Map-Fixes/archive/main.zip) | [Changelog](https://github.com/UnitedMel/-SA-Community-Map-Fixes/blob/main/CHANGELOG.md)
-## Description:
-![alt](https://i.imgur.com/imQTEoN.png)
-A community-driven project aimed at fixing bugs and inconsistencies in the Grand Theft Auto: San Andreas map. Plus additional improvements and detaling.
+![alt](https://i.imgur.com/3I8mEQI.png)
+
+A community-driven project aimed at fixing bugs and inconsistencies in the Grand Theft Auto: San Andreas map.
+
 *Check the latest progress in the [changelog](https://github.com/UnitedMel/-SA-Community-Map-Fixes/blob/main/CHANGELOG.md)*!
-###### IDs used by this mod: 612, 613, 614, 662, 663, 665, 667, 668.
+##### We're using these ID's: 612, 613, 614, 662, 663, 665, 667, 668!
 
 ## Installation:
 ![alt](https://i.imgur.com/HtmoW07.png)
-1. Copy the folder "Community Map Fixes" to your ModLoader folder (install latest [ModLoader](https://github.com/thelink2012/modloader/releases)).
+1. Copy the folder "SACMF" to your ModLoader folder (install latest [ModLoader](https://github.com/thelink2012/modloader/releases)).
 
 2. Replace SALodLights.dat in your scripts folder (install [Project2DFX](https://github.com/ThirteenAG/III.VC.SA.IV.Project2DFX/releases/tag/gtasa)).
 
+3. Replace modloader.ini in modlaoder folder.
+
 ## Optional Improvements:
 - [Script Fixes](https://gtaforums.com/topic/937827-gta-sa-script-fixes-finding-and-fixing-script-glitches/) - fixed mission script (main.scm).
-- [PC Dark San Fierro Roads](https://drive.google.com/file/d/1Qw5V6Y_WZgNBLadqQ2Egt01rIYjhYkb0/view?usp=sharing) - actually considered a bug, but provided in case you would like to have them this way.
 
-## Default IMGs (mipmapped):
-- [gta3.img](https://drive.google.com/file/d/1BjBkC_beDPWc5G1CN-Hcti1HstN-jHGr/view?usp=sharing)
-- [gta_int.img](https://drive.google.com/file/d/1MiX2sY_EOEso615KUmItDTRGT4SDLxs1/view?usp=sharing)
-- [cutscene.img](https://drive.google.com/file/d/1VbSiXcIA9yqXT3ilAoIe1yY6AAT2dtf9/view?usp=sharing)
+## Mods Used & Their Owners
+- Converted PS2 Map Models — aap
+- High Quality Map Textures — Ash_735, DimZet13, 
+- SA XBOX Map Features — Hrod Wolf
+- Neons And Shadows — KDST
+- Easter Basin Water Fix — Inadequate
 
-###### It's recommended to lower the priority of the "Community Map Fixes" folder in modloader.ini. So when you install another mod that replaces the same file, the other mod will replace this one.
+- Generic TXD's — Clara
 
+## Big Thanks to
+- 5d0 for HQ textures, difference between platforms reporting and support.
+- Inadequate for technical information and fixed files.
+- Rockstar Games for making this great but rushed game.
+
+////////////////////////////////////////////oldinfo
 ## Authors:
 - 4Arty - Fixed pre-lights.
 - Cracc - Fixed pre-lights.
@@ -54,7 +63,6 @@ A community-driven project aimed at fixing bugs and inconsistencies in the Grand
 - PS2 seabed.ipl: Rockstar Games
 - PS2 No Aggressive Drivers: Rockstar Games. Discovered by Tomasak.
 - Bus Stops Ped Attractor Fix: DeeZire / Ryadica926 (Compatible with Restored Bus Fare Bonus by H-G)
-- Transfender Interior Volumetrics Fix: Hrod Wolf
 - LS Railroad Crossings: IvanArsov
 - Bollards Fix: SergeDV
 - Pyramid 2DFX Fix: TJGM
