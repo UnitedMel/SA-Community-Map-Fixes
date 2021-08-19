@@ -21,6 +21,7 @@ Community-driven project focusing on fixing the San Andreas map.
 - Converted PS2 Map Models — aap.
 - High Quality Textures — Ash_735, DimZet13 (ORG Patch), 5d0, Scooper.
 - SA XBOX Map Features — Hrod Wolf.
+- Vertex Colours Fix — atfburner, RJSanModder, d3jan.
 - Neons And Shadows — KDST.
 - Easter Basin Water Fix — Inadequate.
 - Escalator Physics Fix — H-G.
