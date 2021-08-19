@@ -1,13 +1,13 @@
 ![alt](https://i.imgur.com/3I8mEQI.png)
 
-A community-driven project aimed at fixing bugs and inconsistencies in the Grand Theft Auto: San Andreas map.
+Community-driven project focusing on fixing the San Andreas map.
 
 *Check the latest progress in the [changelog](https://github.com/UnitedMel/-SA-Community-Map-Fixes/blob/main/CHANGELOG.md)*!
 ##### We're using these ID's: 612, 613, 614, 662, 663, 665, 667, 668!
 
 ## Installation:
 ![alt](https://i.imgur.com/HtmoW07.png)
-1. Copy the folder "SACMF" to your ModLoader folder (install latest [ModLoader](https://github.com/thelink2012/modloader/releases)).
+1. Copy the folder "SA Community Map Fixes" to your ModLoader folder (install latest [ModLoader](https://github.com/thelink2012/modloader/releases)).
 
 2. Replace SALodLights.dat in your scripts folder (install [Project2DFX](https://github.com/ThirteenAG/III.VC.SA.IV.Project2DFX/releases/tag/gtasa)).
 
@@ -19,11 +19,16 @@ A community-driven project aimed at fixing bugs and inconsistencies in the Grand
 
 ## Mods Used & Their Owners
 - Converted PS2 Map Models — aap.
-- High Quality Map Textures — Ash_735, DimZet13, 5d0.
+- High Quality Textures — Ash_735, DimZet13 (ORG Patch), 5d0, Scooper.
 - SA XBOX Map Features — Hrod Wolf.
 - Neons And Shadows — KDST.
 - Easter Basin Water Fix — Inadequate.
-
+- Escalator Physics Fix — H-G.
+- Finalized Pickups — H-G.
+- Single Notes Fix — H-G.
+- Cutscene Liberty City Xbox Textures — Blackbird88.
+- Manhunt Cranes — MrFinger.
+- Sprunk Can Model — SlingShot753.
 - Generic TXD's — Clara.
 
 ## Big Thanks to
@@ -50,9 +55,6 @@ A community-driven project aimed at fixing bugs and inconsistencies in the Grand
 - Vertex Colour Fixes + Improvements: RJSanModder
 - Fixed Vegetation Pre-Lighting: d3jan
 - LitChurch: Zeneric
-- Improved Water.dat: Zeneric
-- Escalator Physics Fix: H-G
-- Finalized Pickups: H-G
 - PS2 Models: Tomasak / Inadequate / Mugetsuga / KDST
 - Mugetsuga's Fixes: Mugetsuga
 - Beta Leftovers Fix: MrFinger / Kalvin
@@ -71,15 +73,10 @@ A community-driven project aimed at fixing bugs and inconsistencies in the Grand
 - Orange Bulb Lampposts: TJGM
 - Jizzy's Pleasure Dome Remastered 2DFX: TJGM
 - КИ - Коллизия Интерьеров (IC - Interiors Collision): Eastwood J.C. / SergeDV / andre500
-- Doherty Colision Fix: Black_Jack
 - Cutscene Liberty City Xbox Textures: Blackbird88
 - Neons and Shadows: KDST
 - Z PC Maps + Fixes: ernestin1 / El Dorado / Junior_Djjr / Reyks
 - Map Textures Fix + PS2 Grey SF Roads: YOEL_44 / ernestin1 / Blackbird88 / Tomasak / Junior_Djjr
-- Prop Vehicles Project: M. Osborn
-- Zero's Shop Improved Models: M. Osborn
-- Improved Pickups Textures: Ash_735
-- Improved Car Shadow Texture: Ash_735
 - ORG Patch: DimZet13
 - Unofficial Patch: Kurtis / Sleepy93HUN
 - Map Fixes: BMWSauberF1.08
