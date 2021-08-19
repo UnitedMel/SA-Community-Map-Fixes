@@ -3,7 +3,7 @@
 Community-driven project focusing on fixing the San Andreas map.
 
 *Check the latest progress in the [changelog](https://github.com/UnitedMel/-SA-Community-Map-Fixes/blob/main/CHANGELOG.md)*!
-##### We're using these ID's: 612, 613, 614, 662, 663, 665, 667, 668!
+##### We're using these IDs: 612, 613, 614, 662, 663, 665, 667, 668!
 
 ## Installation:
 ![alt](https://i.imgur.com/HtmoW07.png)
@@ -11,45 +11,45 @@ Community-driven project focusing on fixing the San Andreas map.
 
 2. Replace SALodLights.dat in your scripts folder (install [Project2DFX](https://github.com/ThirteenAG/III.VC.SA.IV.Project2DFX/releases/tag/gtasa)).
 
-3. Replace modloader.ini in modlaoder folder.
+3. Replace modloader.ini in modloader folder.
 
 ## Optional Improvements:
 ![alt](https://i.imgur.com/imQTEoN.png)
 - [Script Fixes](https://gtaforums.com/topic/937827-gta-sa-script-fixes-finding-and-fixing-script-glitches/) - fixed mission script (main.scm).
 
-## Mods Used & Their Owners
-- Converted PS2 Map Models — aap.
-- High Quality Textures — Ash_735, DimZet13 (ORG Patch), 5d0, Scooper.
-- SA XBOX Map Features — Hrod Wolf.
-- Vertex Colours Fix — atfburner, RJSanModder, d3jan.
-- Neons And Shadows — KDST.
-- Easter Basin Water Fix — Inadequate.
-- Escalator Physics Fix — H-G.
-- Finalized Pickups — H-G.
-- Single Notes Fix — H-G.
-- Cutscene Liberty City Xbox Textures — Blackbird88.
-- Manhunt Cranes — MrFinger.
-- Sprunk Can Model — SlingShot753.
-- Generic TXD's — Clara.
+## Mods Used (and their authors)
+- Converted PS2 Map Models — aap
+- High Quality Textures — Ash_735, DimZet13 (ORG Patch), 5d0, Scooper
+- SA XBOX Map Features — Hrod Wolf
+- Vertex Colours Fix — atfburner, RJSanModder, d3jan
+- Neons And Shadows — KDST
+- Easter Basin Water Fix — Inadequate
+- Escalator Physics Fix — H-G
+- Finalized Pickups — H-G
+- Single Notes Fix — H-G
+- Cutscene Liberty City Xbox Textures — Blackbird88
+- Manhunt Cranes — MrFinger
+- Sprunk Can Model — SlingShot753
+- Generic TXDs — Clara
 
-## Big Thanks to
-- 5d0 for HQ textures, difference between platforms reporting and support.
-- Inadequate for technical information and fixed files.
+## Big Thanks To
+- 5d0 for HQ textures, differences between platforms reporting and support
+- Inadequate for technical information and fixed files
 - Everybody in [The Warehouse](https://discord.gg/uVsEnha) for feedback, suggestions and support!
-- Rockstar Games for making this great but rushed game.
+- Rockstar Games for making this great (but rushed) game!
 
 ////////////////////////////////////////////oldinfo
 ## Authors:
-- 4Arty - Fixed pre-lights.
-- Cracc - Fixed pre-lights.
-- direct - Improved textures.
-- Fenton - Additional map objects.
-- MrFinger - Improved map objects and textures.
-- mpPako - Remapped and improved roads, remodeled and expanded buildings, additional map objects. Improved textures, UV map fixes.
-- savidge - Fixed and additional parked cars, map object placements. Improved textures, UV map fixes.
-- sunny driver - Collision fixes.
-- UnitedMel - Improved textures, fixed and improved collisions, UV map fixes.
-- Whokilledcaptainalex? - Additional map objects.
+- 4Arty - Fixed pre-lights
+- Cracc - Fixed pre-lights
+- direct - Improved textures
+- Fenton - Additional map objects
+- MrFinger - Improved map objects and textures
+- mpPako - Remapped and improved roads, remodeled and expanded buildings, additional map objects, improved textures, UV map fixes
+- savidge - Fixed and additional parked car spawns, map object placements, improved textures, UV map fixes
+- sunny driver - Collision fixes
+- UnitedMel - Improved textures, fixed and improved collisions, UV map fixes
+- Whokilledcaptainalex? - Additional map objects
 
 ## Original Authors:
 - Vertex Colour Fix + 2dfx Effects: atfburner
