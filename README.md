@@ -1,6 +1,6 @@
 ![alt](https://i.imgur.com/3I8mEQI.png)
 
-# Community-driven project focusing on fixing and expanding the San Andreas map.
+### Community-driven project focusing on fixing and expanding the San Andreas map.
 
 *Check the latest progress in the [changelog](https://github.com/UnitedMel/-SA-Community-Map-Fixes/blob/main/CHANGELOG.md)*!
 ##### We're using these IDs: 13564-13589!
