@@ -13,6 +13,8 @@ Community-driven project focusing on fixing the San Andreas map.
 
 3. Replace modloader.ini in modlaoder folder.
 
+4. Start New Game.
+
 ## Optional Improvements:
 ![alt](https://i.imgur.com/imQTEoN.png)
 - [Script Fixes](https://gtaforums.com/topic/937827-gta-sa-script-fixes-finding-and-fixing-script-glitches/) - fixed mission script (main.scm).
