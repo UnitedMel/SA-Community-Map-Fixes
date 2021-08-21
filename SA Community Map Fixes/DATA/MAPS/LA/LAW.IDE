@@ -74,7 +74,7 @@ objs
 6107, LODgaz1_law, lod_a_law, 800, 128
 6108, LODgaz2_law, lod_a_law, 800, 128
 6109, LODgaz3_law, lod_a_law, 800, 128
-6110, plazadrawlast_LAW, tempo22_law, 100, 2097156
+6110, plazadrawlast_LAW, tempo22_law, 100, 2097284‬
 6111, lawroads_law05, roads_law, 150, 0
 6112, lawroads_law06, roads_law, 150, 0
 6113, lawroads_law07, roads_law, 150, 0
@@ -228,7 +228,7 @@ end
 2dfx
 end
 anim
-6257, burger01_LAw, burgsh01_law, LAw, 100, 0
+6257 ,burger01_LAw ,burgsh01_law ,LAw ,100 ,0
 end
 txdp
 end

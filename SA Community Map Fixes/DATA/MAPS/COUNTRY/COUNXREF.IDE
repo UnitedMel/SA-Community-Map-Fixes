@@ -196,10 +196,10 @@ end
 2dfx
 end
 anim
-3425, nt_windmill, farmstuff, counxref, 150, 2097152
-3426, nt_noddonkbase, des_xoilfield, counxref, 200, 2097152
-3427, derrick01, des_xoilfield, counxref, 200, 2097152
-3428, oilplodbitbase, lod_cxrf, counxref, 400, 2097152
+3425 ,nt_windmill ,farmstuff ,counxref ,150 ,2097152
+3426 ,nt_noddonkbase ,des_xoilfield ,counxref ,200 ,2097152
+3427 ,derrick01 ,des_xoilfield ,counxref ,200 ,2097152
+3428 ,oilplodbitbase ,lod_cxrf ,counxref ,400 ,2097152
 end
 txdp
 end

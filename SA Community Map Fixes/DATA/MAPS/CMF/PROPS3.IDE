@@ -1,9 +1,0 @@
-objs
-# Gas Station Window [CUNT]
-13564, sw_gas01_tr, cunte_gas01, 100, 2097284
-end
-tobj
-# Additional 2DFX [LS]
-663, bowln, neontex, 225, 4, 20, 6
-665, jlneon, neontex, 225, 4, 20, 6
-end

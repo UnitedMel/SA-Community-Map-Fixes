@@ -23,7 +23,7 @@ objs
 18021, int_din_donut_main, genintintfastD, 50, 0
 18022, int_chick_main, genintintfastA, 50, 0
 18023, int_pizzaplace, genintintfastc, 100, 0
-18024, int_clothe_ship, intclotheshiphop, 50, 4
+18024, int_clothe_ship, intclotheshiphop, 50, 0
 18025, clothes_sports, genintclothessport, 50, 0
 18026, clothes_shit, SCUMMY, 50, 0
 18027, CJ_BARB_2, CJ_BARB2, 100, 0
@@ -112,7 +112,7 @@ end
 2dfx
 end
 anim
-18102, Light_box1, cj_dl2, gen_int5, 50, 2097284
+18102 ,Light_box1 ,cj_dl2 ,gen_int5 ,50 ,2097284
 end
 txdp
 end

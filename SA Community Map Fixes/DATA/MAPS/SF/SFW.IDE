@@ -243,7 +243,7 @@ objs
 9723, road_SFW41, roadsfe, 170, 1
 9724, road_SFW42, roadsfe, 171, 1
 9725, road_SFW43, roadsfe, 169, 1
-9726, road_SFW44, roadsfe, 208, 1
+9726, road_SFW44, roadsfe, 171, 1
 9727, road_SFW45, roadsfe, 153, 1
 9728, road_SFW46, roadsfe, 144, 1
 9729, road_SFW47, roadsfe, 162, 1
@@ -423,8 +423,8 @@ end
 2dfx
 end
 anim
-9898, boigas_sfw05, boigas_sfw, SFw, 299, 0
-9899, sprasfw, garage_sfw, SFw, 170, 0
+9898 ,boigas_sfw05 ,boigas_sfw ,SFw ,299 ,0
+9899 ,sprasfw ,garage_sfw ,SFw ,170 ,0
 end
 txdp
 end

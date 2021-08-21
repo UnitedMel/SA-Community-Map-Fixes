@@ -1,98 +1,84 @@
 ![alt](https://i.imgur.com/3I8mEQI.png)
 
-Community-driven project focusing on fixing the San Andreas map.
+Community-driven project focusing on fixing and expanding the San Andreas map.
 
 *Check the latest progress in the [changelog](https://github.com/UnitedMel/-SA-Community-Map-Fixes/blob/main/CHANGELOG.md)*!
-##### We're using these IDs: 612, 613, 614, 662, 663, 665, 667, 668!
+##### We're using these IDs: 13564-13589!
 
 ## Installation:
-![alt](https://i.imgur.com/HtmoW07.png)
 1. Copy the folder "SA Community Map Fixes" to your ModLoader folder (install latest [ModLoader](https://github.com/thelink2012/modloader/releases)).
 
 2. Replace SALodLights.dat in your scripts folder (install [Project2DFX](https://github.com/ThirteenAG/III.VC.SA.IV.Project2DFX/releases/tag/gtasa)).
 
-3. Replace modloader.ini in modloader folder.
-
-4. Start New Game.
+3. Start New Game.
 
 ## Optional Improvements:
-![alt](https://i.imgur.com/imQTEoN.png)
 - [Script Fixes](https://gtaforums.com/topic/937827-gta-sa-script-fixes-finding-and-fixing-script-glitches/) - fixed mission script (main.scm).
 
 ## Mods Used (and their authors)
-- Converted PS2 Map Models — aap
-- High Quality Textures — Ash_735, DimZet13 (ORG Patch), 5d0, Scooper
+# Models:
+- Converted PS2 Models — aap
+- Z PC Maps + Fixes — ernestin1, El Dorado, Reyks, Clara
 - SA XBOX Map Features — Hrod Wolf
+- Map Fixes — BMWSauberF1.08
 - Vertex Colours Fix — atfburner, RJSanModder, d3jan
-- Neons And Shadows — KDST
-- Easter Basin Water Fix — Inadequate
-- Escalator Physics Fix — H-G
+- Vegetation Vertex Fix — Kelly Light
+- Farmhouse02.dff Vertex Color Fix — kebi
 - Finalized Pickups — H-G
-- Single Notes Fix — H-G
-- Cutscene Liberty City Xbox Textures — Blackbird88
 - Manhunt Cranes — MrFinger
 - Sprunk Can Model — SlingShot753
-- Generic TXDs — Clara
+- Mugetsuga's Fixes — Mugetsuga
+- Bus Stops Ped Attractor Fix — DeeZire, Ryadica926 (Compatible with Restored Bus Fare Bonus by H-G!)
+- Bollards Fix — SergeDV
+- Pyramid 2DFX Fix — TJGM
+- Orange Bulb Lampposts — TJGM
+- Jizzy's Pleasure Dome Remastered 2DFX — TJGM
+- Open Ironworks — SergeF1988
+- Animated Airport Radar — AVALS343
+- Vault Door Fix — Marsi4eg
+- eCola Vending Machine — Fenton
+- VC Guardhouse — Mystertv
+- LitChurch — Zeneric
+- Zero Shop Toys — M. Osborn
+# Textures:
+- High Quality Textures — Ash_735, DimZet13, 5d0, Scooper
+- Cutscene Liberty City Xbox Textures — Blackbird88
+- Neons And Shadows — KDST
+- Optimized Map — Clara
+- Map Textures Fix — YOEL_44, ernestin1, Blackbird88, Sneed, Clara
+- Better Leftovers Fix — Clara
+- Single Notes Fix — H-G
+- Pizza Price Fix — kebi
+- Beta Leftovers Fix — MrFinger, Kalvin
+- ORG Patch — DimZet13
+- Arcade Machine Fix — Neon
+- Sexshop Posters Remake — M. Osborn
+- Candy Suxx Billboard — Mr. Explosive, Eastwood J.C.
+- Cutscene Photo Fix — Ezekiel
+# Map:
+- Four Dragons Casino Lamps Fix — kebi
+- LS Railroad Crossings — IvanArsov
+- Fixed Water.dat — Zeneric
+- More Realistic Traction — B Dawg
+# Collisions:
+- Easter Basin Water Fix — Inadequate
+- Escalator Physics Fix — H-G
+- КИ - Коллизия Интерьеров (IC - Interiors Collision) — Eastwood J.C., SergeDV, andre500
+- Unofficial Patch — Kurtis, Sleepy93HUN
 
 ## Big Thanks To
 - 5d0 for HQ textures, differences between platforms reporting and support
-- Inadequate for technical information and fixed files
+- Inadequate for technical information and fixed models
+- Craccosan for fixed models
+- sunny driver for fixed collision files
+- direct for original models and textures
+- 4Arty for fixed models
+- Fenton for original models and textures
+- Whokilledcaptainalex? for new map objects
 - Everybody in [The Warehouse](https://discord.gg/uVsEnha) for feedback, suggestions and support!
 - Rockstar Games for making this great (but rushed) game!
 
-////////////////////////////////////////////oldinfo
-## Authors:
-- 4Arty - Fixed pre-lights
-- Cracc - Fixed pre-lights
-- direct - Improved textures
-- Fenton - Additional map objects
-- MrFinger - Improved map objects and textures
-- mpPako - Remapped and improved roads, remodeled and expanded buildings, additional map objects, improved textures, UV map fixes
-- savidge - Fixed and additional parked car spawns, map object placements, improved textures, UV map fixes
-- sunny driver - Collision fixes
-- UnitedMel - Improved textures, fixed and improved collisions, UV map fixes
-- Whokilledcaptainalex? - Additional map objects
-
-## Original Authors:
-- Vertex Colour Fix + 2dfx Effects: atfburner
-- Vertex Colour Fixes + Improvements: RJSanModder
-- Fixed Vegetation Pre-Lighting: d3jan
-- LitChurch: Zeneric
-- PS2 Models: Tomasak / Inadequate / Mugetsuga / KDST
-- Mugetsuga's Fixes: Mugetsuga
-- Beta Leftovers Fix: MrFinger / Kalvin
-- Manhunt Cranes: MrFinger
-- High Quality Textures: SlyCooperGTA
-- Improved Sprunk Can: SlingShot753
-- Farmhouse02.dff Vertex Color Fix: kebi
-- Well Stacked Pizza Co. sign texture fix: kebi
-- Fixed floating lamp posts near Four Dragons Casino - kebi
-- PS2 seabed.ipl: Rockstar Games
-- PS2 No Aggressive Drivers: Rockstar Games. Discovered by Tomasak.
-- Bus Stops Ped Attractor Fix: DeeZire / Ryadica926 (Compatible with Restored Bus Fare Bonus by H-G)
-- LS Railroad Crossings: IvanArsov
-- Bollards Fix: SergeDV
-- Pyramid 2DFX Fix: TJGM
-- Orange Bulb Lampposts: TJGM
-- Jizzy's Pleasure Dome Remastered 2DFX: TJGM
-- КИ - Коллизия Интерьеров (IC - Interiors Collision): Eastwood J.C. / SergeDV / andre500
-- Cutscene Liberty City Xbox Textures: Blackbird88
-- Neons and Shadows: KDST
-- Z PC Maps + Fixes: ernestin1 / El Dorado / Junior_Djjr / Reyks
-- Map Textures Fix + PS2 Grey SF Roads: YOEL_44 / ernestin1 / Blackbird88 / Tomasak / Junior_Djjr
-- ORG Patch: DimZet13
-- Unofficial Patch: Kurtis / Sleepy93HUN
-- Map Fixes: BMWSauberF1.08
-- Easter Basin Water Materials: Inadequate
-- Open Ironworks: SergeF1988
-- Animated airport radar: AVALS343
-- Arcade Machine Fix: Neon
-- Caligula's Heist vault door transparency fix: Marsi4eg
-- eCola Vending Machine: Fenton
-- VC Guardhouse: Mystertv
-- Improved posters for sexshop interior: M. Osborn
-- Vegetation Vertex Fix (Bushes & Flowers): Kelly Light
-- Improved Candy Suxx Billboard: Mr. Explosive, Eastwood J.C.
-- Improved CJ's moms photo: Ezekiel
-- Better Leftovers Fix: Jéssica Natália, Junior_Djjr, KUSTODIY
-- Single Notes Fix: H-G
+## Main Developers
+- mpPako — 3d modeling, UV-mapping, vertex painting
+- savidge — 3d modeling, UV-mapping, vertex painting, map object design
+- UnitedMel — UV-mapping, vertex painting, texture design

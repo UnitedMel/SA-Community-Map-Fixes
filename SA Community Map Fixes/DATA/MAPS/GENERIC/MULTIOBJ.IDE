@@ -1,0 +1,137 @@
+objs
+1574, trashcan, dyn_trash, 40, 128
+1575, drug_white, dyn_drugs, 40, 128
+1576, drug_orange, dyn_drugs, 40, 128
+1577, drug_yellow, dyn_drugs, 40, 128
+1578, drug_green, dyn_drugs, 40, 128
+1579, drug_blue, dyn_drugs, 40, 128
+1580, drug_red, dyn_drugs, 40, 128
+1581, keycard, dyn_keycard, 40, 128
+1582, pizzabox, prop_pizzabox, 40, 128
+1583, tar_gun2, targets, 100, 128
+1584, tar_gun1, targets, 100, 128
+1585, tar_civ2, targets, 100, 128
+1586, tar_civ1, targets, 100, 128
+1587, tar_frame, targets, 100, 128
+1588, tar_top, targets, 100, 128
+1589, tar_upright, targets, 100, 128
+1590, tar_upleft, targets, 100, 128
+1591, tar_downleft, targets, 100, 128
+1592, tar_downright, targets, 100, 128
+1593, plc_stinger, plc_stinger, 100, 128
+1594, chairsntable, chairsntable, 70, 128
+1595, satdishbig, satdish, 140, 2097284
+1596, satdishsml, satdish, 140, 2097284
+1597, cntrlrsac1, centralresac1, 100, 132
+1598, beachball, beachball, 50, 128
+1599, fish1single, fish1, 40, 132
+1600, fish2single, fish2, 40, 132
+1601, fish3s, fish3, 40, 132
+1602, jellyfish, jellyfish1, 40, 140
+1603, jellyfish01, jellyfish2, 40, 140
+1604, fish3single, fish3, 40, 132
+1605, fish1s, fish1, 40, 132
+1606, fish2s, fish2, 40, 132
+1607, dolphin, dolphin, 40, 128
+1608, shark, shark, 40, 128
+1609, turtle, turtle, 40, 128
+1610, sandcastle1, sandcastle, 20, 128
+1611, sandcastle2, sandcastle, 20, 128
+1612, submarine, submarine, 40, 128
+1613, nt_firehose_01, alleyprop, 34, 132
+1614, nt_alarm1_01, alleyprop, 34, 132
+1615, nt_alarm2_01, alleyprop, 34, 132
+1616, nt_securecam1_01, genalley, 34, 132
+1617, nt_aircon1_01, alleyprop, 34, 132
+1618, nt_aircon1_02, alleyprop, 34, 132
+1619, nt_vent1_01, alleyprop, 34, 132
+1620, nt_vent2_01, alleyprop, 34, 132
+1621, nt_vent3_01, alleyprop, 34, 132
+1622, nt_securecam2_01, alleyprop, 34, 132
+1623, nt_aircon3_01, alleyprop, 34, 132
+1624, nt_cablebox1_01, alleyprop, 34, 132
+1625, nt_cablebox2_01, alleyprop, 34, 132
+1626, nt_cablebox3_01, alleyprop, 34, 132
+1627, nt_alarm3_01, alleyprop, 34, 132
+1628, nt_cablebox4_01, alleyprop, 34, 132
+1629, nt_cablebox5_01, alleyprop, 34, 132
+1630, nt_cablebox6_01, alleyprop, 34, 132
+1631, waterjump2, landjump, 100, 128
+1632, waterjump1, landjump, 240, 128
+1633, landjump, landjump, 100, 128
+1634, landjump2, landjump, 100, 128
+1635, nt_aircon1dbl, genalley, 34, 132
+1636, rcbomb, rcbomb, 100, 128
+1637, od_pat_hutb, od_beachstuff, 100, 0
+1638, od_pat_hut, od_beachstuff, 50, 0
+1639, od_vbnet, od_beachstuff, 50, 0
+1640, beachtowel04, od_beachstuff, 50, 0
+1641, beachtowel03, od_beachstuff, 50, 0
+1642, beachtowel02, od_beachstuff, 50, 0
+1643, beachtowel01, od_beachstuff, 50, 0
+1644, lotion, od_beachstuff, 10, 0
+1645, lounge_wood_up, od_beachstuff, 50, 0
+1646, lounge_towel_up, od_beachstuff, 50, 0
+1647, lounge_wood_dn, od_beachstuff, 50, 0
+1648, od_groyne01, od_beachstuff, 200, 128
+1649, wglasssmash, wglass, 50, 1028
+1650, petrolcanm, petrolcan, 40, 0
+1651, od_copwindows, copshop, 30, 516
+1652, fencehaiti, fencehaiti, 60, 132
+1653, fencehaitism, fencehaiti, 60, 132
+1654, dynamite, dynamite, 40, 4
+1655, waterjumpx2, landjump, 240, 128
+1656, Esc_step, escstep, 15, 128
+1660, ramp, ramp2, 100, 128
+1662, nt_roadblockCI, ci_studio1, 145, 128
+1663, swivelchair_B, policechair, 35, 0
+1664, propwinebotl2, propbarstuff, 20, 0
+1665, propashtray1, propbarstuff, 20, 0
+1666, propbeerglass1, propbarstuff, 20, 0
+1667, propwineglass1, propbarstuff, 20, 0
+1668, propvodkabotl1, propbarstuff, 20, 0
+1669, propwinebotl1, propbarstuff, 20, 0
+1670, propcollecttable, propbarstuff, 20, 0
+1671, swivelchair_A, policechair, 35, 0
+1672, Gasgrenade, gasgren, 50, 0
+1673, roadsign, roadsign, 120, 4
+1674, lodxrefhse1, wshxreflod, 700, 128
+1675, wshxrefhse1, wshxrefhse, 50, 128
+1676, washgaspump, wshxrefpump, 45, 128
+1677, wshxrefhse2, wshxrefhse2, 55, 128
+1678, lodxrefhse2, wshxreflod, 700, 128
+1679, chairsntableml, chairsntable, 70, 128
+1680, LODjumbo_01, ap_LODbit, 900, 0
+1681, ap_learjet1_01, ap_learjets, 150, 4
+1683, ap_jumbo_01, ap_jumbos, 150, 4
+1684, portakabin, portakabin, 150, 2097152
+1685, blockpallet, blokpalet, 100, 0
+1686, petrolpumpnew, gen_petrol, 100, 0
+1687, gen_roofbit1, genroofbits, 60, 4
+1688, gen_roofbit2, genroofbits, 60, 4
+1689, gen_roofbit3, genroofbits, 60, 0
+1690, gen_roofbit4, genroofbits, 60, 0
+1691, gen_roofbit5, genroofbits, 60, 0
+1692, roofstuff18, moregenroofstuff, 76, 0
+1693, roofstuff12, moregenroofstuff, 76, 0
+1694, roofstuff13, moregenroofstuff, 76, 2097156
+1695, roofstuff14, moregenroofstuff, 76, 0
+1696, roofstuff15, moregenroofstuff, 76, 0
+1697, roofstuff16, moregenroofstuff, 76, 0
+1698, Esc_step8, escstep, 15, 128
+end
+tobj
+1657, htl_fan_rotate_nt, fanani, 30, 0, 20, 6
+1658, htl_fan_static_nt, fanani, 30, 0, 20, 6
+1659, htl_fan_static_dy, fanani, 30, 0, 6, 20
+1661, htl_fan_rotate_dy, fanani, 30, 0, 6, 20
+end
+path
+end
+2dfx
+end
+anim
+1682, ap_radar1_01, ap_misc1bit, ap_radar1_01, 299, 0
+end
+txdp
+end

@@ -52,8 +52,8 @@ objs
 12850, sw_block01, cunte_block1, 120, 128
 12851, cunte_roads29, cunteroads1, 299, 1
 12852, cunte_roads30, cunteroads1, 299, 1
-12853, sw_gas01, cunte_gas01, 100, 2097280
-12854, sw_gas01int, cunte_gas01, 80, 2097280
+12853, sw_gas01, cunte_gas01, 100, 2097284
+12854, sw_gas01int, cunte_gas01, 80, 2097284
 12855, sw_copshop, cunte_cop, 150, 2097152
 12856, sw_bridge, counte_bridge, 100, 128
 12857, CE_bridge02, counte_bridge, 80, 0
@@ -128,7 +128,7 @@ objs
 12926, sw_sheds_base, sw_sheds, 120, 128
 12927, sw_pipepile01, sw_sheds, 60, 128
 12928, sw_shedInterior04, sw_sheds, 30, 2097280
-12929, sw_SHED06, sw_sheds, 100, 2097280
+12929, sw_SHED06, sw_sheds, 100, 2097284
 12930, sw_pipepile02, sw_sheds, 60, 2097284
 12931, CE_brewery, sw_brewery, 299, 0
 12932, sw_trailer02, dk_midbuilds, 200, 2097280
@@ -156,7 +156,7 @@ objs
 12954, sw_furnipile01, sw_furniture, 30, 128
 12955, dock_props01, alleystuff, 40, 128
 12956, sw_trailerjump, CE_loadbay, 200, 2097284
-12957, sw_pickupwreck01, sw_oldshack, 100, 128
+12957, sw_pickupwreck01, sw_oldshack, 100, 132
 12958, cos_sbanksteps01, cos_bankblock1, 50, 2097284
 12959, sw_library, sw_library, 100, 0
 12960, sw_church01, sw_church, 100, 2097280
@@ -770,7 +770,7 @@ end
 2dfx
 end
 anim
-13562, bigsprunkpole, sprunkworks, countrye, 150, 0
+13562 ,bigsprunkpole ,sprunkworks ,countrye ,150 ,0
 end
 txdp
 end

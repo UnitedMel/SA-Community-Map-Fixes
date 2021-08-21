@@ -12,14 +12,14 @@ objs
 16010, des_reslab_, des_nstuff, 200, 0
 16011, des_westrn2_, des_ntown, 299, 0
 16012, des_ntcafe, des_ntown, 299, 0
-16013, des_ntwn_lines1_, desn2_alphabits, 150, 2097348
-16014, des_ntwn_lines2_, desn2_alphabits, 150, 2097220
-16015, des_ntwn_lines6_, desn2_alphabits, 150, 2097220
-16016, des_roadbar01, des_n, 200, 2097220
-16017, des_roadbar02, des_n, 200, 2097220
-16018, des_roadbar03, des_n, 200, 2097220
-16019, des_roadbar04, des_n, 200, 2097220
-16020, des_roadbar05, des_n, 200, 2097348
+16013, des_ntwn_lines1_, desn2_alphabits, 150, 2097284
+16014, des_ntwn_lines2_, desn2_alphabits, 150, 2097156
+16015, des_ntwn_lines6_, desn2_alphabits, 150, 2097156
+16016, des_roadbar01, des_n, 200, 2097156
+16017, des_roadbar02, des_n, 200, 2097156
+16018, des_roadbar03, des_n, 200, 2097156
+16019, des_roadbar04, des_n, 200, 2097156
+16020, des_roadbar05, des_n, 200, 2097284
 16021, des_geyhotbase_, des_geyser, 150, 0
 16022, des_geywall1, des_geyser, 299, 0
 16023, des_trXingsign02, des_trainstuff, 299, 0
@@ -62,7 +62,7 @@ objs
 16060, des_treeline1, des_trees, 200, 2097156
 16061, des_treeline2, des_trees, 200, 2097156
 16062, des_nt_buntpoles, des_ntown, 299, 128
-16063, des_cockbunting, desn2_alphabits, 150, 2097348
+16063, des_cockbunting, desn2_alphabits, 150, 2097284
 16064, des_cn2blok4, des_stownstrip2, 150, 128
 16065, des_stwnshop01, des_stownmain1, 150, 128
 16066, des_bluecafe01, des_stownstrip2, 150, 128
@@ -369,11 +369,11 @@ objs
 16367, des_quayramp, des_damquay, 150, 2097152
 16368, bonyrd_windsock, des_boneyard, 150, 0
 16369, des_quaoldfenc01, des_quarrybits, 299, 2097156
-16370, by_fuelfence, des_boneyard, 140, 2097220
-16371, desn2_alphabit01, desn2_alphabits, 150, 2097220
-16372, desn2_alphabit02, desn2_alphabits, 150, 2097220
-16373, desn2_alphabit04, desn2_alphabits, 150, 2097220
-16374, desn2_alphabit05, desn2_alphabits, 150, 2097220
+16370, by_fuelfence, des_boneyard, 140, 2097156
+16371, desn2_alphabit01, desn2_alphabits, 150, 2097156
+16372, desn2_alphabit02, desn2_alphabits, 150, 2097156
+16373, desn2_alphabit04, desn2_alphabits, 150, 2097156
+16374, desn2_alphabit05, desn2_alphabits, 150, 2097156
 16375, by_helimarkings, des_boneyard, 100, 68
 16376, desn2dambit01, des_cn2_dam, 200, 0
 16377, tv_stand_by, des_byofficeint, 15, 0
@@ -447,7 +447,7 @@ objs
 16445, des_quarrycut, des_quarry, 150, 68
 16446, quarry_weecrushr, des_quarrybits, 200, 2097280
 16447, lod_stwnshop01, lod_cn2_stown, 400, 128
-16448, des_nt_buntpoles01, des_ntown, 150, 196
+16448, des_nt_buntpoles01, des_ntown, 150, 132
 16449, n_lodbit_18, lod_countn2, 1500, 128
 16450, n_lodbit_12, lod_countn2, 1500, 128
 16451, lod_n_bit_10, lod_countn2, 1500, 128
@@ -621,7 +621,7 @@ objs
 16619, lod_a51_outbldgs, lod_countn2, 1200, 128
 16620, lod_railfac02, lod_countn2, 400, 128
 16621, lod_railfac01, lod_countn2, 400, 128
-16622, des_ntwn_lines3_, desn2_alphabits, 150, 2097348
+16622, des_ntwn_lines3_, desn2_alphabits, 150, 2097284
 16623, des_rdalpha02, desn2_alphabits, 150, 68
 16624, lod_studgrnd, lod_countn2, 600, 0
 16625, lod_radar_bit_05, lod_countn2, 1500, 128
@@ -677,12 +677,12 @@ objs
 16675, des_rockgp1_13, desert, 220, 0
 16676, des_quarrycut3, des_quarry, 150, 68
 16677, des_quarrycut2, des_quarry, 150, 68
-16678, desn2_alphabit07, desn2_alphabits, 150, 2097220
+16678, desn2_alphabit07, desn2_alphabits, 150, 2097156
 16679, lod_n_bit_08, lod_countn2, 1500, 128
 16680, a51_lod_jetroom, lod_countn2, 600, 0
 16681, a51_launchbottom, a51, 150, 0
 16682, a51_jetroom, a51, 100, 0
-16683, cn2_alphabit01, desn2_alphabits, 150, 2097220
+16683, cn2_alphabit01, desn2_alphabits, 150, 2097156
 16684, cn2_rnway_bit, des_ne, 299, 0
 16685, cn2_rnway_bit2, des_ne, 299, 0
 16686, lod_rnway_bit2, lod_countn2, 1500, 128
@@ -734,19 +734,19 @@ objs
 16732, a51_ventcover, a51, 20, 2097152
 16733, cn2_DETAIL01, des_n, 20, 68
 16734, cn2_DETAIL02, des_ne, 33, 68
-16735, des_alphabit08, desn2_alphabits, 170, 2097220
-16736, des_alphabit05, desn2_alphabits, 160, 2097220
-16737, des_alphabit01, desn2_alphabits, 160, 2097220
-16738, des_alphabit02, desn2_alphabits, 160, 2097220
-16739, des_alphabit03, desn2_alphabits, 160, 2097220
-16740, des_alphabit04, desn2_alphabits, 170, 2097220
-16741, des_alphabit, desn2_alphabits, 160, 2097220
-16742, des_alphabit06, desn2_alphabits, 170, 2097220
-16743, des_alphabit07, desn2_alphabits, 160, 2097220
-16744, des_alphabit09, desn2_alphabits, 160, 2097220
-16745, des_alphabit10, desn2_alphabits, 160, 2097220
-16746, des_alphabit11, desn2_alphabits, 160, 2097220
-16747, des_alphabit12, desn2_alphabits, 200, 2097220
+16735, des_alphabit08, desn2_alphabits, 170, 2097156
+16736, des_alphabit05, desn2_alphabits, 160, 2097156
+16737, des_alphabit01, desn2_alphabits, 160, 2097156
+16738, des_alphabit02, desn2_alphabits, 160, 2097156
+16739, des_alphabit03, desn2_alphabits, 160, 2097156
+16740, des_alphabit04, desn2_alphabits, 170, 2097156
+16741, des_alphabit, desn2_alphabits, 160, 2097156
+16742, des_alphabit06, desn2_alphabits, 170, 2097156
+16743, des_alphabit07, desn2_alphabits, 160, 2097156
+16744, des_alphabit09, desn2_alphabits, 160, 2097156
+16745, des_alphabit10, desn2_alphabits, 160, 2097156
+16746, des_alphabit11, desn2_alphabits, 160, 2097156
+16747, des_alphabit12, desn2_alphabits, 200, 2097156
 16748, lod_n_bit_07, lod_countn2, 1500, 128
 16749, lod_n_bit_19, lod_countn2, 1500, 128
 16750, lod_n_bit_20, lod_countn2, 1500, 128
@@ -758,7 +758,7 @@ objs
 16756, des_cn2_detail3, des_n, 199, 68
 16757, des_cn2_detail4, des_n, 199, 68
 16758, des_cn2_detailbit2, des_n, 199, 68
-16759, desn2_alphabit06, desn2_alphabits, 150, 2097220
+16759, desn2_alphabit06, desn2_alphabits, 150, 2097156
 16760, cn2_ftcar_sig1, des_stwnsigns1, 100, 2097284
 16761, lod_peckfac2, lod_countn2, 400, 128
 16762, lod_peckfac3, lod_countn2, 400, 128
@@ -777,12 +777,12 @@ objs
 16775, door_savhangr2, des_boneyard, 180, 2048
 16783, des_detailbit06, des_cen, 200, 68
 16784, des_alphabit13, des_se3, 200, 68
-16785, des_aroadbit02, desn2_alphabits, 160, 2097220
-16786, des_aroadbit03, desn2_alphabits, 160, 2097220
-16787, des_aroadbit04, desn2_alphabits, 170, 2097220
-16788, des_aroadbit08, desn2_alphabits, 170, 2097220
-16789, des_aroadbit12, desn2_alphabits, 200, 2097220
-16790, desn2_aroadbit05, desn2_alphabits, 150, 2097220
+16785, des_aroadbit02, desn2_alphabits, 160, 2097156
+16786, des_aroadbit03, desn2_alphabits, 160, 2097156
+16787, des_aroadbit04, desn2_alphabits, 170, 2097156
+16788, des_aroadbit08, desn2_alphabits, 170, 2097156
+16789, des_aroadbit12, desn2_alphabits, 200, 2097156
+16790, desn2_aroadbit05, desn2_alphabits, 150, 2097156
 end
 tobj
 end
@@ -791,13 +791,13 @@ end
 2dfx
 end
 anim
-16776, des_cockbody, desn2_peckers, countn2, 290, 0
-16777, des_stmotsigbas1, des_southtown, countn2, 200, 0
-16778, des_ufosign, des_ufoinn, countn2, 150, 0
-16779, ufo_light02, ufo_bar, countn2, 20, 4
-16780, ufo_light03, ufo_bar, countn2, 20, 4
-16781, cn2_ringking, des_stownstrip2, countn2, 150, 128
-16782, a51_radar_scan, a51_detailstuff, countn2, 20, 4
+16776 ,des_cockbody ,desn2_peckers ,countn2 ,290 ,0
+16777 ,des_stmotsigbas1 ,des_southtown ,countn2 ,200 ,0
+16778 ,des_ufosign ,des_ufoinn ,countn2 ,150 ,0
+16779 ,ufo_light02 ,ufo_bar ,countn2 ,20 ,4
+16780 ,ufo_light03 ,ufo_bar ,countn2 ,20 ,4
+16781 ,cn2_ringking ,des_stownstrip2 ,countn2 ,150 ,128
+16782 ,a51_radar_scan ,a51_detailstuff ,countn2 ,20 ,4
 end
 txdp
 end

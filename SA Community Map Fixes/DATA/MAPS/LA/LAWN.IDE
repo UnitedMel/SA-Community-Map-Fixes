@@ -130,7 +130,7 @@ objs
 5834, LODroad27, lawnlodbig, 450, 0
 5835, ci_astage, ci_studio5, 90, 2097280
 5836, ci_watertank, ci_studio5, 90, 2097280
-5837, ci_guardhouse1, ci_studio5, 90, 2097280
+5837, ci_guardhouse1, ci_studio5, 90, 2097156
 5838, ci_watertank01, ci_studio5, 90, 2097280
 5839, LODbuild10_law, lodlawnsmall, 400, 0
 5840, LODdricks01_LAwN, lodlawnsmall, 400, 0
@@ -147,7 +147,7 @@ objs
 5851, lodlawngrnasa, lodlawnsmall, 400, 2097152
 5852, lodfoodmartlawn, lodlawnsmall, 400, 0
 5853, sunset21_LAwN, mainlcawn, 100, 0
-5854, lawnbillbrd2, lawnbillbrd, 210, 0
+5854, lawnbillbrd2, lawnbillbrd, 210, 2097284
 5855, lawncrates, crates, 100, 0
 5856, lawnspraydoor1, garag3_lawn, 50, 2048
 5857, Lawn_buyable1, lawnbuy, 150, 0
@@ -314,7 +314,7 @@ end
 2dfx
 end
 anim
-6010, lawnboigashot25, lawnburg, LaWn, 100, 0
+6010 ,lawnboigashot25 ,lawnburg ,LaWn ,100 ,0
 end
 txdp
 end

@@ -229,6 +229,7 @@ objs
 8618, ceasersign_lvs, ceasersign, 120, 128
 8619, bush02_lvs, vgseflowers, 70, 132
 8620, exclbrsign01_lvS, excalibursign, 120, 128
+8621, exclbrsign02_dy, excalibursign, 80, 132
 8622, VegasEroad131, vgseroads, 230, 0
 8623, bush03_lvs, vgseflowers, 50, 132
 8624, vgsrailroad16, vgsrailroad, 230, 0
@@ -559,7 +560,7 @@ objs
 8954, vgsEspras01, vgsespras, 140, 128
 8955, vgsEspray01, lvse_spray1, 50, 128
 8956, lodEspras01, vegaselod2, 800, 128
-8957, vgsEspdr01, vgsegarage, 150, 128
+8957, vgsEspdr01, vgsegarage, 150, 2176
 8958, lodElockup_01, vegaselod2, 800, 128
 8959, lodEsvhse01, vegaselod3, 800, 128
 8960, lodEfrght02, vegaselod3, 800, 128
@@ -777,7 +778,6 @@ objs
 end
 tobj
 8395, vgEpyrmd_dy, pyramid, 150, 128, 5, 22
-8621, exclbrsign02_dy, excalibursign, 80, 132, 5, 22
 8701, lodpyrmd_dy, vegaselod1, 1500, 128, 5, 22
 8874, vgsEcnstrct13, buildingsitevge, 110, 196, 20, 6
 8876, vgsEcnstrct15, buildingsitevge, 110, 196, 20, 6
@@ -790,7 +790,7 @@ tobj
 9096, lodElights_dy, vegaselod1, 1500, 128, 5, 22
 9097, lodElights_nt, vegaselod1, 1500, 128, 22, 5
 9100, luxorlight_dy, pyramid, 150, 128, 5, 22
-9101, luxorlight_nt, pyramid, 150, 128, 22, 5
+9101, luxorlight_nt, pyramid, 150, 0, 22, 5
 9104, vgEpyrmd_nt, pyramid, 150, 128, 22, 5
 9105, lodpyrmd_nt, vegaselod1, 1500, 128, 22, 5
 9121, flmngoneon01, vgseneonwires, 225, 4, 20, 5
@@ -809,8 +809,8 @@ end
 2dfx
 end
 anim
-9192, vgegassgn01_lvs, vgegassign, vegasE, 150, 128
-9193, vgegassgn03_lvs, vgegassign, vegasE, 150, 128
+9192 ,vgegassgn01_lvs ,vgegassign ,vegasE ,150 ,128
+9193 ,vgegassgn03_lvs ,vgegassign ,vegasE ,150 ,128
 end
 txdp
 end

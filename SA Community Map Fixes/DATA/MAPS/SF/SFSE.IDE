@@ -225,6 +225,7 @@ objs
 10973, mall_03_SFS, mall_sfse, 150, 0
 10974, mall_01_SFS, mall_sfse, 150, 0
 10975, shoppie6_SFS01, mission4_sfs, 100, 0
+10976, drivingsch_SFS, drivingschool_sfse, 150, 0
 10977, smallshop_16_SFS, mission_sfse, 100, 0
 10978, smallshop_17_SFS, mission_sfse, 100, 0
 10979, haightshop_SFS, mission_sfse, 100, 0
@@ -663,7 +664,6 @@ objs
 11416, hbgdSFS, oldgarage_sfse, 100, 2048
 end
 tobj
-10976, drivingsch_SFS, drivingschool_sfse, 150, 0, 0, 23
 11394, hubgrgbeams_SFSe, newhubgrg1_sfse, 100, 4, 7, 17
 11410, nightlights01_SFSE, nightlights_sfse, 550, 4, 20, 6
 11411, nightlights02_SFSE, nightlights_sfse, 550, 4, 20, 6
@@ -674,7 +674,7 @@ end
 2dfx
 end
 anim
-11417, xenonsign2_SFSe, xenon_sfse, SFSe, 150, 0
+11417 ,xenonsign2_SFSe ,xenon_sfse ,SFSe ,150 ,0
 end
 txdp
 end
