@@ -27,6 +27,7 @@
 - Finalized Pickups — H-G
 - Manhunt Cranes — MrFinger
 - Sprunk Can Model — SlingShot753
+- Save Pickup Model — SlingShot753
 - Mugetsuga's Fixes — Mugetsuga
 - Bus Stops Ped Attractor Fix — DeeZire, Ryadica926 (Compatible with Restored Bus Fare Bonus by H-G!)
 - Bollards Fix — SergeDV
@@ -39,20 +40,16 @@
 - eCola Vending Machine — Fenton
 - VC Guardhouse — Mystertv
 - LitChurch — Zeneric
-- Zero Shop Toys — M. Osborn
 ## Textures:
 - High Quality Textures — Ash_735, DimZet13, 5d0, Scooper
 - Cutscene Liberty City Xbox Textures — Blackbird88
 - Neons And Shadows — KDST
 - Optimized Map — Clara
 - Map Textures Fix — YOEL_44, ernestin1, Blackbird88, Sneed, Clara
-- Better Leftovers Fix — Clara
 - Single Notes Fix — H-G
 - Pizza Price Fix — kebi
 - Beta Leftovers Fix — MrFinger, Kalvin
 - ORG Patch — DimZet13
-- Arcade Machine Fix — Neon
-- Sexshop Posters Remake — M. Osborn
 - Candy Suxx Billboard — Mr. Explosive, Eastwood J.C.
 - Cutscene Photo Fix — Ezekiel
 ## Map:
@@ -81,4 +78,4 @@
 # Main Developers
 - mpPako — 3d modeling, UV-mapping, vertex painting
 - savidge — 3d modeling, UV-mapping, vertex painting, map object design
-- UnitedMel — UV-mapping, vertex painting, texture design
+- UnitedMel — texture design, UV-mapping, vertex painting

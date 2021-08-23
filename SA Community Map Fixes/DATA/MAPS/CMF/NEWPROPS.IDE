@@ -19,4 +19,10 @@ tobj
 # Airport Building Nightlights [LS]
 13572, lasairprt5ngtlight, las_nightlights, 299, 140, 22, 5
 #
+# Church Nightlights [LS]
+13573, churchlite3_6, churchlite, 500, 130, 3, 6
+13574, churchlite20_24, churchlite, 500, 130, 20, 24
+13575, churchlite24_3, churchlite, 500, 130, 24, 3
+13576, churchlite20_6, churchlite, 500, 130, 20, 6
+#
 end
