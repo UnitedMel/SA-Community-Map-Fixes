@@ -10,7 +10,9 @@
 
 2. Replace SALodLights.dat in your scripts folder (install [Project2DFX](https://github.com/ThirteenAG/III.VC.SA.IV.Project2DFX/releases/tag/gtasa)).
 
-3. Start New Game.
+3. Download [PS2 .imgs](https://mega.nz/file/QIUiELxC#vP9B-rj317Pe63yd6uNaZtziIMmFDRA7ksmWuxQPIo8).
+
+4. Start New Game.
 
 # Optional Improvements:
 - [Script Fixes](https://gtaforums.com/topic/937827-gta-sa-script-fixes-finding-and-fixing-script-glitches/) - fixed mission script (main.scm).
