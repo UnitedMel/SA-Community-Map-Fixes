@@ -54,11 +54,10 @@
 - ORG Patch — DimZet13
 - Candy Suxx Billboard — Mr. Explosive, Eastwood J.C.
 - Cutscene Photo Fix — Ezekiel
-## Map:
+## Item Placement:
 - Four Dragons Casino Lamps Fix — kebi
 - LS Railroad Crossings — IvanArsov
 - Fixed Water.dat — Zeneric
-- More Realistic Traction — B Dawg
 ## Collisions:
 - Easter Basin Water Fix — Inadequate
 - Escalator Physics Fix — H-G
@@ -79,5 +78,5 @@
 
 # Main Developers
 - mpPako — 3d modeling, UV-mapping, vertex painting
-- savidge — 3d modeling, UV-mapping, vertex painting, map object design
+- savidge — 3d modeling, UV-mapping, vertex painting, item placement
 - UnitedMel — texture design, UV-mapping, vertex painting
