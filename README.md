@@ -72,7 +72,7 @@
 - direct for original models and textures
 - 4Arty for fixed models
 - Fenton for original models and textures
-- Whokilledcaptainalex? for new map objects
+- Whokilledcaptainalex? for item placement
 - Everybody in [The Warehouse](https://discord.gg/uVsEnha) for feedback, suggestions and support!
 - Rockstar Games for making this great (but rushed) game!
 
