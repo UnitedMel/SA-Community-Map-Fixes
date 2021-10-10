@@ -1,0 +1,9 @@
+# San Andreas Community Map Fixes — Loader
+# This file loads custom map objects and textures.
+#
+IDE DATA\MAPS\TXDP\TXDP_GENERIC.IDE
+#IDE DATA\MAPS\PC\LODTREES.IDE
+#
+#
+#COLFILE 0 MODELS\COLL\LODTREES.COL
+#
