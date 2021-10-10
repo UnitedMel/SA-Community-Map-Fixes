@@ -10,7 +10,7 @@
 
 2. Replace SALodLights.dat in your scripts folder (install [Project2DFX](https://github.com/ThirteenAG/III.VC.SA.IV.Project2DFX/releases/tag/gtasa)).
 
-3. Download [PS2 .imgs](https://mega.nz/file/QIUiELxC#vP9B-rj317Pe63yd6uNaZtziIMmFDRA7ksmWuxQPIo8).
+3. Download [IMG archives](https://mega.nz/file/8BcnXKDb#qoSpz5CU17xk-ThF7L5g7uHT8-SETCYyJqVWdq7XJ6A).
 
 4. Start New Game.
 
