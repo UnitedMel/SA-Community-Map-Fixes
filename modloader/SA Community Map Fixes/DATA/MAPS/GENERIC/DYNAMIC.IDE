@@ -1,0 +1,131 @@
+objs
+1207, tiny_rock, rock, 40, 128
+1208, washer, dynjunk, 40, 128
+1209, vendmach, cj_ext_vend, 44, 128
+1210, briefcase, breifcase, 40, 128
+1211, fire_hydrant, dynhydrent, 40, 128
+1212, Money, dyn_cash, 40, 128
+1213, mine, mine, 100, 128
+1214, bollard, metal, 40, 128
+1215, bollardlight, metal, 40, 2097156
+1216, phonebooth1, dynphn, 42, 2097280
+1217, barrel2, dynbarrels, 40, 2097280
+1218, barrel1, dynbarrels, 40, 2097280
+1219, palette, woodpanels, 50, 128
+1220, cardboardbox2, boxes, 40, 128
+1221, cardboardbox4, boxes, 40, 128
+1222, barrel3, dynbarrels, 40, 2097280
+1223, lampost_coast, dynsigns, 53, 32896
+1224, woodenbox, boxes, 41, 128
+1225, barrel4, dynbarrels, 40, 2162816
+1226, lamppost3, dynsigns, 62, 32896
+1227, dump1, dynbuket, 45, 128
+1228, roadworkbarrier1, barrier, 62, 128
+1229, bussign1, signs, 46, 128
+1230, cardboardbox, boxes, 40, 2097280
+1231, Streetlamp2, dynsigns, 55, 128
+1232, Streetlamp1, dynsigns, 55, 128
+1233, noparkingsign1, signs, 46, 128
+1234, phonesign, signs, 45, 128
+1235, wastebin, wastebin, 40, 128
+1236, rcyclbank01, dynrecycle, 45, 128
+1237, strtbarrier01, dyncones, 71, 128
+1238, trafficcone, dyncones, 100, 128
+1239, info, icons6, 100, 128
+1240, health, icons5, 100, 128
+1241, adrenaline, icons8, 100, 128
+1242, bodyarmour, icons7, 100, 128
+1243, bouy, buoy, 200, 128
+1244, petrolpump, petrol, 70, 128
+1245, newramp, newramp, 100, 128
+1246, line, icons, 100, 128
+1247, bribe, icons9, 100, 128
+1248, bonus, bonus, 100, 128
+1249, faketarget, fktarget, 10, 128
+1250, smashbarpost, smashbarr, 100, 128
+1251, smashbar, smashbarr, 100, 128
+1252, barrelexpos, barrelexpos, 50, 128
+1253, camerapickup, icons, 100, 128
+1254, killfrenzy, icons, 100, 128
+1255, lounger, lounger, 45, 2097284
+1256, Stonebench1, benchm, 50, 128
+1257, bustopm, bustopm, 60, 2097284
+1258, Mpostbox1, dynpostbx, 42, 2097280
+1259, BillBd1, BillBrd, 100, 128
+1260, BillBd3, BillBrd, 100, 128
+1261, LODlBd2, BillBrd, 400, 2097280
+1262, MTraffic4, mitraffic, 45, 128
+1263, MTraffic3, mitraffic, 45, 128
+1264, BlackBag1, drubish, 45, 128
+1265, BlackBag2, drubish, 45, 128
+1266, LODlBd3, BillBrd, 400, 2097280
+1267, BillBd2, BillBrd, 100, 128
+1268, LODlBd1, BillBrd, 400, 2097280
+1269, parkingmeter, signs, 42, 128
+1270, parkingmeterg, signs, 42, 128
+1271, gunbox, gunbox, 40, 128
+1272, property_locked, icons4, 100, 128
+1273, property_fsale, icons3, 100, 128
+1274, bigdollar, icons2, 100, 128
+1275, clothesp, icons1, 100, 128
+1276, package1, package1, 35, 128
+1277, pickupsave, icons4, 100, 128
+1278, sub_floodlite, docklight, 150, 2130052
+1279, craigpackage, craigpackage, 80, 128
+1280, parkbench1, benches_cj, 50, 128
+1281, parktable1, benches, 47, 2097280
+1282, Barrierm, barrierm, 44, 2097280
+1283, MTraffic1, mitraffic, 85, 32896
+1284, MTraffic2, mitraffic, 85, 32896
+1285, newstandnew5, newstand, 45, 128
+1286, newstandnew4, newstand, 45, 128
+1287, newstandnew3, newstand, 45, 128
+1288, newstandnew2, newstand, 45, 128
+1289, newstandnew1, newstand, 45, 128
+1290, lamppost2, dynsigns, 150, 32896
+1291, postbox1, dynpostbx, 42, 128
+1292, postbox1_d, dynpostbx, 42, 128
+1293, papermachn01, dynnewstnd2, 40, 128
+1294, mlamppost, streetlights, 55, 32896
+1295, doublestreetlght1, dynsigns, 71, 32896
+1296, doublestreetlght1_d, dynsigns, 70, 32896
+1297, lamppost1, dynsigns, 59, 32896
+1298, lamppost1_d, dynsigns, 58, 32896
+1299, smashboxpile, boxes, 40, 128
+1300, bin1, metal, 41, 2097280
+1301, heli_magnet, helimagnet, 100, 128
+1302, vendmachfd, cj_ext_vend, 44, 128
+1303, dyn_quarryrock03, dynquarryrock, 100, 128
+1304, dyn_quarryrock02, dynquarryrock, 100, 128
+1305, dyn_quarryrock01, dynquarryrock, 100, 128
+1306, tlgraphpolegen, telegraph, 100, 32900
+1307, telgrphpoleall, telegraph, 100, 32896
+1308, telgrphpole02, telegraph, 100, 32896
+1309, BigBillBrd, BillBrd, 100, 128
+1310, pikupparachute, icons7, 100, 128
+1311, gen_roadsign1, roadsign, 150, 32896
+1312, gen_roadsign2, roadsign, 150, 32896
+1313, killfrenzy2plyr, icons, 100, 128
+1314, twoplayer, icons4, 100, 128
+1315, trafficlight1, dyntraffic, 64, 2130048
+1316, hoop, ingame, 100, 0
+1317, Cylinder, ingame, 100, 2097152
+1318, arrow, ingame, 100, 0
+1319, ws_ref_bollard, ws_roadside_DYN1, 50, 0
+1320, ws_roadwarning_05, ws_roadside_DYN1, 50, 0
+1321, ws_roadwarning_01, ws_roadside_DYN1, 50, 0
+1322, ws_roadwarning_02, ws_roadside_DYN1, 50, 0
+1323, ws_roadwarning_03, ws_roadside_DYN1, 50, 0
+1324, ws_roadwarning_04, ws_roadside_DYN1, 50, 0
+1325, LODlBrd, BillBrd, 400, 2097280
+end
+tobj
+end
+path
+end
+2dfx
+end
+anim
+end
+txdp
+end
