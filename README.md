@@ -22,6 +22,7 @@
 - Converted PS2 Models — aap
 - Z PC Maps + Fixes — ernestin1, El Dorado, Reyks, Clara
 - SA XBOX Map Features — Hrod Wolf
+- XBOX Gym Equipment — Mugetsuga
 - Map Fixes — BMWSauberF1.08
 - Vertex Colours Fix — atfburner, RJSanModder, d3jan
 - Vegetation Vertex Fix — Kelly Light
@@ -53,11 +54,9 @@
 - Beta Leftovers Fix — MrFinger, Kalvin
 - ORG Patch — DimZet13
 - Candy Suxx Billboard — Mr. Explosive, Eastwood J.C.
-- Cutscene Photo Fix — Ezekiel
 ## Item Placement:
 - Four Dragons Casino Lamps Fix — kebi
 - LS Railroad Crossings — IvanArsov
-- Fixed Water.dat — Zeneric
 ## Collisions:
 - Easter Basin Water Fix — Inadequate
 - Escalator Physics Fix — H-G
