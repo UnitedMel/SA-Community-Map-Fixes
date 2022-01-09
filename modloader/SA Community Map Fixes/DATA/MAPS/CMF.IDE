@@ -1,6 +1,14 @@
 #6526-6862 (337)
 objs
 6526, smb_sculpture, santamonicalaw2, 130, 0
+6534, LODswbigburb01d, CE_burbLOD, 450, 128
+6535, LODswbigburb02d, CE_burbLOD, 450, 128
+6536, LODswbigburb03d, CE_burbLOD, 450, 128
+6537, LODswbigburb04d, CE_burbLOD, 450, 128
+6538, sw_bigburb_01d, CE_burbhouse, 80, 2097156
+6539, sw_bigburb_02d, CE_burbhouse, 80, 2097156
+6540, sw_bigburb_03d, CE_burbhouse, 80, 2097156
+6541, sw_bigburb_04d, CE_burbhouse, 80, 2097156
 end
 tobj
 6527, bowln, neontex, 225, 4, 20, 6

@@ -28,6 +28,7 @@
 - Vegetation Vertex Fix — Kelly Light
 - Farmhouse02.dff Vertex Color Fix — kebi
 - Finalized Pickups — H-G
+- Rescaled Pickups — Mugetsuga
 - Manhunt Cranes — MrFinger
 - Sprunk Can Model — SlingShot753
 - Save Pickup Model — SlingShot753
