@@ -20,7 +20,7 @@
 # Mods Used (and their authors)
 ## Models:
 - Converted PS2 Models — aap
-- Z PC Maps + Fixes — ernestin1, El Dorado, Reyks, Clara
+- Z PC Maps + Fixes — ernestin1, El Dorado, Reyks, Jessica
 - SA XBOX Map Features — Hrod Wolf
 - XBOX Gym Equipment — Mugetsuga
 - Map Fixes — BMWSauberF1.08
@@ -48,8 +48,8 @@
 - High Quality Textures — Ash_735, DimZet13, 5d0, Scooper
 - Cutscene Liberty City Xbox Textures — Blackbird88
 - Neons And Shadows — KDST
-- Optimized Map — Clara
-- Map Textures Fix — YOEL_44, ernestin1, Blackbird88, Sneed, Clara
+- Optimized Map — Jessica
+- Map Textures Fix — YOEL_44, ernestin1, Blackbird88, Sneed, Jessica
 - Single Notes Fix — H-G
 - Pizza Price Fix — kebi
 - Beta Leftovers Fix — MrFinger, Kalvin
@@ -73,6 +73,7 @@
 - 4Arty for fixed models
 - Fenton for original models and textures
 - Whokilledcaptainalex? for item placement
+- Junior and Jessica for motivation and quality control
 - Everybody in [The Warehouse](https://discord.gg/uVsEnha) for feedback, suggestions and support!
 - Rockstar Games for making this great (but rushed) game!
 
