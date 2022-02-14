@@ -2,9 +2,6 @@
 
 ### Community-driven project focusing on fixing and expanding the San Andreas map.
 
-*Check the latest progress in the [changelog](https://github.com/UnitedMel/-SA-Community-Map-Fixes/blob/main/CHANGELOG.md)*!
-##### We're using these IDs: 13564-13589!
-
 # Installation:
 1. Copy the folder "SA Community Map Fixes" to your ModLoader folder (install latest [ModLoader](https://github.com/thelink2012/modloader/releases)).
 
@@ -58,6 +55,7 @@
 ## Item Placement:
 - Four Dragons Casino Lamps Fix — kebi
 - LS Railroad Crossings — IvanArsov
+- LOD Vegetation — Junior_Djjr
 ## Collisions:
 - Easter Basin Water Fix — Inadequate
 - Escalator Physics Fix — H-G
