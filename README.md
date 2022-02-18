@@ -1,8 +1,8 @@
 ![alt](https://i.imgur.com/3I8mEQI.png)
 
-### Community-driven project focusing on fixing and expanding the San Andreas map.
+<h2 align="center">Media</h2>
 
-<p align="left">
+<p align="center">
   <img width="350" src="https://media.giphy.com/media/y8oSzN4m3mqPYvgajb/giphy.gif" alt="Venturas-Sign"> <img width="350" src="https://media.giphy.com/media/9cn2KlIBZ8h9rogBmA/giphy.gif" alt="Las-Venturas-Spray"> <img width="350" src="https://media.giphy.com/media/baa5ujV5LUZzxFMqsi/giphy.gif" alt="Los-Santos-Bushes"> <img width="350" src="https://media.giphy.com/media/b1agEhwNiMNK3lDsEL/giphy.gif" alt="Los-Santos-Roads">
 </p>
 
