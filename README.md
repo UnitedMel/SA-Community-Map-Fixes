@@ -1,12 +1,15 @@
-![alt](https://i.imgur.com/3I8mEQI.png)
+<p align="center">
+  <img width="1000" src="https://i.imgur.com/3I8mEQI.png" alt="Map-Fixes-Logo">
+</p>
 
-<h2 align="center">Media</h2>
+<h1 align="center">Media</h1>
 
 <p align="center">
   <img width="350" src="https://media.giphy.com/media/y8oSzN4m3mqPYvgajb/giphy.gif" alt="Venturas-Sign"> <img width="350" src="https://media.giphy.com/media/9cn2KlIBZ8h9rogBmA/giphy.gif" alt="Las-Venturas-Spray"> <img width="350" src="https://media.giphy.com/media/baa5ujV5LUZzxFMqsi/giphy.gif" alt="Los-Santos-Bushes"> <img width="350" src="https://media.giphy.com/media/b1agEhwNiMNK3lDsEL/giphy.gif" alt="Los-Santos-Roads">
 </p>
 
-# Installation:
+<h1 align="center">Installation</h1>
+
 1. Copy the folder "SA Community Map Fixes" to your ModLoader folder (install latest [ModLoader](https://github.com/thelink2012/modloader/releases)).
 
 2. Replace SALodLights.dat in your scripts folder (install [Project2DFX](https://github.com/ThirteenAG/III.VC.SA.IV.Project2DFX/releases/tag/gtasa)).
@@ -15,10 +18,12 @@
 
 4. Start New Game.
 
-# Optional Improvements:
+<h1 align="center">Optional Improvements</h1>
+
 - [Script Fixes](https://gtaforums.com/topic/937827-gta-sa-script-fixes-finding-and-fixing-script-glitches/) - fixed mission script (main.scm).
 
-# Mods Used (and their authors)
+<h1 align="center">Mods Used</h1>
+
 ## Models:
 - Converted PS2 Models — aap
 - Z PC Maps + Fixes — ernestin1, El Dorado, Reyks, Jessica
