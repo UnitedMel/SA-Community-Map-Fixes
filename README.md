@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="1000" src="https://i.imgur.com/3I8mEQI.png" alt="Map-Fixes-Logo">
+  <img width="2000" src="https://i.imgur.com/xaIw0PN.png" alt="Map-Fixes-Logo">
 </p>
 
 <h1 align="center">Media</h1>
