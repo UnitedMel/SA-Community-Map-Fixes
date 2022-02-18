@@ -2,6 +2,11 @@
 
 ### Community-driven project focusing on fixing and expanding the San Andreas map.
 
+![alt](https://media.giphy.com/media/y8oSzN4m3mqPYvgajb/giphy.gif)
+![alt](https://media.giphy.com/media/9cn2KlIBZ8h9rogBmA/giphy.gif)
+![alt](https://media.giphy.com/media/baa5ujV5LUZzxFMqsi/giphy.gif)
+![alt](https://media.giphy.com/media/b1agEhwNiMNK3lDsEL/giphy.gif)
+
 # Installation:
 1. Copy the folder "SA Community Map Fixes" to your ModLoader folder (install latest [ModLoader](https://github.com/thelink2012/modloader/releases)).
 
