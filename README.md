@@ -24,16 +24,17 @@
 
 <h1 align="center">Mods Used</h1>
 
+Used ID range: 6526-6862 (337)
+
 ## Models:
-- Converted PS2 Models — aap
+- Converted PS2 Models — aap, Tomasak, Inadequate, Mugetsuga, KDST
 - Z PC Maps + Fixes — ernestin1, El Dorado, Reyks, Jessica
 - SA XBOX Map Features — Hrod Wolf
 - XBOX Gym Equipment — Mugetsuga
 - Map Fixes — BMWSauberF1.08
 - Vertex Colours Fix — atfburner, RJSanModder, d3jan
-- Vegetation Vertex Fix — Kelly Light
-- Farmhouse02.dff Vertex Color Fix — kebi
-- Finalized Pickups — H-G
+- Vegetation Vertex Color Fix — Kelly Light
+- Farmhouse Vertex Color Fix — kebi
 - Rescaled Pickups — Mugetsuga
 - Manhunt Cranes — MrFinger
 - Sprunk Can Model — SlingShot753
@@ -66,6 +67,7 @@
 - Four Dragons Casino Lamps Fix — kebi
 - LS Railroad Crossings — IvanArsov
 - LOD Vegetation — Junior_Djjr
+- Watts Towers Water Fix — Sanya1990
 ## Collisions:
 - Easter Basin Water Fix — Inadequate
 - Escalator Physics Fix — H-G
