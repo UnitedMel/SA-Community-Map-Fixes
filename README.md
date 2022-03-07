@@ -35,7 +35,7 @@ Used ID range: 6526-6862 (337)
 - Vertex Colours Fix — atfburner, RJSanModder, d3jan
 - Vegetation Vertex Color Fix — Kelly Light
 - Farmhouse Vertex Color Fix — kebi
-- Rescaled Pickups — Mugetsuga
+- Rescaled Pickup Icons — Mugetsuga
 - Manhunt Cranes — MrFinger
 - Sprunk Can Model — SlingShot753
 - Save Pickup Model — SlingShot753
