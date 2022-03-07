@@ -1,6 +1,6 @@
 objs
 4550, LibrTow1_LAn, skyscr1_lan2, 220, 128
-4551, LAriverSec2_LAn, sunset1_lan2, 150, 0
+4551, LAriverSec2_LAn, sunset1_lan2, 150, 1
 4552, amubloksun1_LAn, ammu_lan2, 150, 0
 4553, road12_LAn2, roadlan2, 135, 1
 4554, LibBase1_LAn, skyscr1_lan2, 150, 64
@@ -39,7 +39,7 @@ objs
 4587, skyscrapn203, skyscrapelan2, 150, 0
 4588, roofshitlan2, sunset1_lan2, 50, 0
 4589, road15_LAn2, roadlan2, 150, 1
-4590, grasspatchlan2, lanlacmab_lan2, 150, 0
+4590, grasspatchlan2, lanlacmab_lan2, 150, 1
 4591, lan2shit03, stolenbuild01, 150, 0
 4592, lan2shit04, stolenbuild01, 140, 0
 4593, lan2buildblk01, buildblk55, 150, 0
