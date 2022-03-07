@@ -52,6 +52,7 @@ Used ID range: 6526-6862 (337)
 - VC Guardhouse — Mystertv
 - LitChurch — Zeneric
 - Welcome to Las Venturas Sign Remastered — Andrey 50 AND
+- (Bits of) Proper Fixes — GTA Community
 ## Textures:
 - High Quality Textures — Ash_735, DimZet13, 5d0, Scooper
 - Cutscene Liberty City Xbox Textures — Blackbird88
