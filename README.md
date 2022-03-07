@@ -84,6 +84,7 @@ Used ID range: 6526-6862 (337)
 - 4Arty for fixed models
 - Fenton for original models and textures
 - Whokilledcaptainalex? for item placement
+- Justin "The Dude" for corona lights reflections
 - Junior and Jessica for motivation and quality control
 - Everybody in [The Warehouse](https://discord.gg/uVsEnha) for feedback, suggestions and support!
 - Rockstar Games for making this great (but rushed) game!
