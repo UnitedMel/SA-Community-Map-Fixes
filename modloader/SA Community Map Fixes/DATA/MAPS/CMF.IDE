@@ -9,6 +9,7 @@ objs
 6539, sw_bigburb_02d, CE_burbhouse, 80, 2097156
 6540, sw_bigburb_03d, CE_burbhouse, 80, 2097156
 6541, sw_bigburb_04d, CE_burbhouse, 80, 2097156
+6542, la_redcar, la_fuckcar, 80, 132
 end
 tobj
 6527, bowln, neontex, 225, 4, 20, 6
