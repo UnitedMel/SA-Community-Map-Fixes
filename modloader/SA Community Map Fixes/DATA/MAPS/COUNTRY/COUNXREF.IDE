@@ -24,8 +24,8 @@ objs
 3253, des_westrn11_, cxref_oldwest, 299, 0
 3255, ref_oiltank01, refinery, 150, 2097156
 3256, refchimny01, refinery, 150, 2097156
-3257, refinerybox1, refinery, 150, 2097156
-3258, refthinchim1, refinery, 150, 2097156
+3257, refinerybox1, refinery, 150, 2097152
+3258, refthinchim1, refinery, 150, 2097152
 3259, refcondens1, refinery, 150, 4
 3260, oldwoodpanel, country_breakable, 200, 0
 3261, grasshouse, grasshouse, 299, 4
@@ -69,9 +69,9 @@ objs
 3300, lod_conhoos4, lod_cxrefhooses, 450, 128
 3301, lod_conhoos5, lod_cxrefhooses, 450, 128
 3302, cxrf_corpanel, country_breakable, 150, 2097152
-3303, des_bighus03, des_bighus, 150, 2097152
-3304, des_bighus02, des_bighus, 150, 2097152
-3305, des_bighus01, des_bighus, 150, 2097152
+3303, des_bighus03, des_bighus, 150, 2097156
+3304, des_bighus02, des_bighus, 150, 2097156
+3305, des_bighus01, des_bighus, 150, 2097156
 3306, swburbhaus02, cunte_house1, 80, 2097156
 3307, swburbhaus01, cunte_house1, 80, 2097156
 3308, swburbhaus03, cunte_house1, 80, 2097156
@@ -114,12 +114,12 @@ objs
 3345, lodtrail6_01, lod_cxref, 400, 0
 3346, lod_airstrm_sml_, lod_cxref, 400, 0
 3347, lod_airstrm_med_, lod_cxref, 400, 0
-3350, torino_mic, cxref_desert, 100, 128
+3350, torino_mic, cxref_desert, 100, 132
 3351, sw_bigburbsave, CE_burbhouse, 80, 2097156
 3352, burbdoorRENAME_ME, CE_burbhouse, 80, 2176
 3353, sw_bigburbsave2, CE_burbhouse, 80, 2097156
 3354, burbdoor2REF, CE_burbhouse, 80, 2176
-3355, cxrf_savhus1_, cxref_savhus, 150, 128
+3355, cxrf_savhus1_, cxref_savhus, 150, 132
 3356, cxrf_savhus2_, cxref_savhus, 150, 128
 3357, cxrf_lod_savhs1_, lod_cxrefhooses, 450, 128
 3358, cxrf_lod_savhs2_, lod_cxrefhooses, 450, 128
@@ -196,9 +196,9 @@ end
 2dfx
 end
 anim
-3425 ,nt_windmill ,farmstuff ,counxref ,150 ,2097152
-3426 ,nt_noddonkbase ,des_xoilfield ,counxref ,200 ,2097152
-3427 ,derrick01 ,des_xoilfield ,counxref ,200 ,2097152
+3425 ,nt_windmill ,farmstuff ,counxref ,150 ,2097156
+3426 ,nt_noddonkbase ,des_xoilfield ,counxref ,200 ,2097156
+3427 ,derrick01 ,des_xoilfield ,counxref ,200 ,2097156
 3428 ,oilplodbitbase ,lod_cxrf ,counxref ,400 ,2097152
 end
 txdp
