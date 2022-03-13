@@ -48,7 +48,7 @@ Used ID range: 6526-6862 (337)
 - Open Ironworks — SergeF1988
 - Animated Airport Radar — AVALS343
 - Vault Door Fix — Marsi4eg
-- eCola Vending Machine — Fenton
+- eCola Vending Machine — Fenton, AlexanderLB
 - VC Guardhouse — Mystertv
 - LitChurch — Zeneric
 - Welcome to Las Venturas Sign Remastered — Andrey 50 AND
