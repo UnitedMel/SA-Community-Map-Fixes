@@ -55,7 +55,6 @@ Used ID range: 6526-6862 (337)
 - Proper Fixes — GTA Community
 - avals343's Model Fixes - avals343
 ## Textures:
-- High Quality Textures — Ash_735, DimZet13, 5d0, Scooper
 - Cutscene Liberty City Xbox Textures — Blackbird88
 - Neons And Shadows — KDST
 - Optimized Map — Jessica
@@ -79,7 +78,8 @@ Used ID range: 6526-6862 (337)
 - Unofficial Patch — Kurtis, Sleepy93HUN
 
 # Big Thanks To
-- 5d0 for HQ textures, differences between platforms reporting and support
+- Ash_735, DimZet13, 5d0, Graven, Scooper for high quality textures
+- 5d0 for differences between platforms reporting and support
 - Inadequate for technical information and fixed models
 - Craccosan for fixed models
 - sunny driver for fixed collision files
