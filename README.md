@@ -14,11 +14,11 @@
 
 2. Replace SALodLights.dat in your scripts folder (install [Project2DFX](https://github.com/ThirteenAG/III.VC.SA.IV.Project2DFX/releases/tag/gtasa)).
 
-3. Download [IMG archives](https://mega.nz/file/8BcnXKDb#qoSpz5CU17xk-ThF7L5g7uHT8-SETCYyJqVWdq7XJ6A). Or take them from Optimized Map mod.
+3. Download [IMG archives](https://mega.nz/file/8BcnXKDb#qoSpz5CU17xk-ThF7L5g7uHT8-SETCYyJqVWdq7XJ6A) with MipMapped PS2 style textures.
 
 4. Start New Game.
 
-<h1 align="center">Optional Improvements</h1>
+<h1 align="center">Recommended Mods</h1>
 
 - [Script Fixes](https://gtaforums.com/topic/937827-gta-sa-script-fixes-finding-and-fixing-script-glitches/) - fixed mission script (main.scm).
 
@@ -52,7 +52,7 @@ Used ID range: 6526-6862 (337)
 - VC Guardhouse — Mystertv
 - LitChurch — Zeneric
 - Welcome to Las Venturas Sign Remastered — Andrey 50 AND
-- (Bits of) Proper Fixes — GTA Community
+- Proper Fixes — GTA Community
 - avals343's Model Fixes - avals343
 ## Textures:
 - High Quality Textures — Ash_735, DimZet13, 5d0, Scooper
@@ -92,7 +92,7 @@ Used ID range: 6526-6862 (337)
 - Everybody in [The Warehouse](https://discord.gg/uVsEnha) for feedback, suggestions and support!
 - Rockstar Games for making this great (but rushed) game!
 
-# Main Developers
+# Current Developers
 - mpPako — 3d modeling, UV-mapping, vertex painting
 - savidge — 3d modeling, UV-mapping, vertex painting, item placement
 - UnitedMel — texture design, UV-mapping, vertex painting
