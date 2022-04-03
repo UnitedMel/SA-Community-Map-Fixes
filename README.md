@@ -16,11 +16,11 @@
 
 3. Download [IMG archives](https://mega.nz/file/8BcnXKDb#qoSpz5CU17xk-ThF7L5g7uHT8-SETCYyJqVWdq7XJ6A) with MipMapped PS2 style textures.
 
-4. Start New Game.
+4. Start New Game. Or use this [compatibility patch for existing saves](https://mega.nz/file/hMdFRJhA#u8qH1EXsZPGD4W8I9LN38KOcWUuTio75frVuXVGmvVo).
 
 <h1 align="center">Recommended Mods</h1>
 
-- [Script Fixes](https://gtaforums.com/topic/937827-gta-sa-script-fixes-finding-and-fixing-script-glitches/) - fixed mission script (main.scm).
+- [Script Fixes](https://gtaforums.com/topic/937827-gta-sa-script-fixes-finding-and-fixing-script-glitches/) - Fixed mission script.
 
 <h1 align="center">Mods Used</h1>
 
@@ -68,6 +68,7 @@ Used ID range: 6526-6862 (337)
 - Four Dragons Casino Lamps Fix — kebi
 - LS Railroad Crossings — IvanArsov
 - LOD Vegetation — Junior_Djjr
+- San Andreas Remapped — Reyks
 ## Data Files:
 - Watts Towers Water Fix — Sanya1990
 - More Realistic Traction — B Dawg
