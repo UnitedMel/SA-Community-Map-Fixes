@@ -1,6 +1,6 @@
 #6526-6862 (337)
 objs
-6526, smb_sculpture, santamonicalaw2, 130, 0
+6526, smb_sculpture, cmf_LA, 80, 128
 6534, LODswbigburb01d, CE_burbLOD, 450, 128
 6535, LODswbigburb02d, CE_burbLOD, 450, 128
 6536, LODswbigburb03d, CE_burbLOD, 450, 128
@@ -9,15 +9,57 @@ objs
 6539, sw_bigburb_02d, CE_burbhouse, 80, 2097156
 6540, sw_bigburb_03d, CE_burbhouse, 80, 2097156
 6541, sw_bigburb_04d, CE_burbhouse, 80, 2097156
-6542, la_fucktram, wreckshare, 80, 132
-6543, la_fucktruk, wreckshare, 80, 132
+6542, la_fucktram, wreckshare, 80, 2097152
+6543, la_fucktruk, wreckshare, 80, 2097152
+6544, la_fuckbus, wreckshare, 80, 2097156
+6545, back_box_L0, flatterthanpizza, 299, 0
+6546, doc_crane_leggs, flatterthanpizza, 299, 4
+#
+#	Scripted Objects
+#
+18802, doc_crane_cab, flatterthanpizza, 299, 4
+18803, crushertop, flatterthanpizza, 299, 0
 end
 tobj
-6527, bowln, neontex, 225, 4, 20, 6
-6528, jlneon, neontex, 225, 4, 20, 6
-6529, churchlite3_6, churchlite, 500, 130, 3, 6
-6530, churchlite20_24, churchlite, 500, 130, 20, 24
-6531, churchlite24_3, churchlite, 500, 130, 24, 3
-6532, churchlite20_6, churchlite, 500, 130, 20, 6
-6533, lasairprt5ngtlight, las_nightlights, 299, 140, 22, 5
+6527, bowln, neonshare, 225, 4, 20, 6
+6528, jlneon, neonshare, 225, 4, 20, 6
+#6529,
+#6530,
+6531, elcidhotel_nlight, lightshare, 299, 130, 20, 6
+6532, laeJeffers06_nlight, lightshare, 299, 130, 20, 6
+6533, lasairprt5_nlight, lightshare, 299, 140, 22, 5
+end
+txdp
+#
+#	Shared Textures
+#
+nightlights1_law2, lightshare
+JUICE, vendshare
+CJ_COMMERCIAL, vendshare
+CJ_EXT_VEND, vendshare
+CJ_EXT_VEND2, vendshare
+cooler1, vendshare
+vend, vendshare
+lafuckar, wreckshare
+sw_oldshack, wreckshare
+kickstart, wreckshare
+cs_misc, wreckshare
+#
+# CS/DES
+#
+gen_country, cmf_cunt
+#
+# LA
+#
+gen_LA, cmf_LA
+cmf_LA, cmf_LA2
+cmf_LA2, cmf_LA3
+#
+# SF
+#
+gen_SF, cmf_SF
+#
+# LV
+#
+gen_vegas, cmf_LV
 end

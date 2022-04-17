@@ -1,7 +1,7 @@
 objs
 1207, tiny_rock, rock, 40, 128
 1208, washer, dynjunk, 40, 128
-1209, vendmach, vendshare, 44, 128
+1209, vendmach, vend, 44, 128
 1210, briefcase, breifcase, 40, 128
 1211, fire_hydrant, dynhydrent, 40, 128
 1212, Money, dyn_cash, 40, 128
@@ -94,7 +94,7 @@ objs
 1299, smashboxpile, boxes, 40, 128
 1300, bin1, metal, 41, 2097280
 1301, heli_magnet, helimagnet, 100, 128
-1302, vendmachfd, vendshare, 44, 128
+1302, vendmachfd, vend, 44, 128
 1303, dyn_quarryrock03, dynquarryrock, 100, 128
 1304, dyn_quarryrock02, dynquarryrock, 100, 128
 1305, dyn_quarryrock01, dynquarryrock, 100, 128

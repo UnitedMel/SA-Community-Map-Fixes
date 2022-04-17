@@ -52,8 +52,8 @@ objs
 12850, sw_block01, cunte_block1, 120, 128
 12851, cunte_roads29, cunteroads1, 299, 1
 12852, cunte_roads30, cunteroads1, 299, 1
-12853, sw_gas01, cunte_gas01, 100, 2097284
-12854, sw_gas01int, cunte_gas01, 80, 2097284
+12853, sw_gas01, cunte_gas01, 100, 4
+12854, sw_gas01int, cunte_gas01, 80, 2097152
 12855, sw_copshop, cunte_cop, 150, 2097152
 12856, sw_bridge, counte_bridge, 100, 128
 12857, CE_bridge02, counte_bridge, 80, 0
@@ -156,7 +156,7 @@ objs
 12954, sw_furnipile01, sw_furniture, 30, 128
 12955, dock_props01, alleystuff, 40, 128
 12956, sw_trailerjump, CE_loadbay, 200, 2097284
-12957, sw_pickupwreck01, wreckshare, 100, 132
+12957, sw_pickupwreck01, sw_oldshack, 100, 132
 12958, cos_sbanksteps01, cos_bankblock1, 50, 2097284
 12959, sw_library, sw_library, 100, 0
 12960, sw_church01, sw_church, 100, 2097280
@@ -560,7 +560,7 @@ objs
 13358, LODCE_Bbridge, CE_LOD_03, 1500, 128
 13359, LODcunte_roads32, CE_LOD_04, 1500, 129
 13360, CE_CATshackdoor, sw_oldshack, 299, 2097280
-13361, CE_pizza1, CE_pizza, 100, 0
+13361, CE_pizza1, CE_pizza, 100, 2097156
 13362, LODCE_pizza1, CE_LOD_03, 400, 0
 13363, CE_photoblock, CEphotoblockcs_t, 100, 2097152
 13364, CE_wtownblok1, CEtown3cs_t, 120, 0
@@ -770,7 +770,7 @@ end
 2dfx
 end
 anim
-13562 ,bigsprunkpole ,sprunkworks ,countrye ,150 ,0
+13562, bigsprunkpole, sprunkworks, countrye, 150, 0
 end
 txdp
 end

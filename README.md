@@ -10,17 +10,19 @@
 
 <h1 align="center">Installation</h1>
 
-1. Copy the folder "SA Community Map Fixes" to your ModLoader folder (install latest [ModLoader](https://github.com/thelink2012/modloader/releases)).
+1. Install [ModLoader](https://github.com/thelink2012/modloader/releases) and copy SA Community Map Fixes to your ModLoader folder.
 
-2. Replace SALodLights.dat in your scripts folder (install [Project2DFX](https://github.com/ThirteenAG/III.VC.SA.IV.Project2DFX/releases/tag/gtasa)).
+2. Install [Project2DFX](https://github.com/ThirteenAG/III.VC.SA.IV.Project2DFX/releases/tag/gtasa) and replace SALodLights.dat with CMF version.
 
-3. Download [IMG archives](https://mega.nz/file/8BcnXKDb#qoSpz5CU17xk-ThF7L5g7uHT8-SETCYyJqVWdq7XJ6A) with MipMapped PS2 style textures.
+3. Download [IMG archives (18.04.2022)](https://mega.nz/file/gEEV3ShB#V6GrU4G1tIhtm723c1JUP3_Nt73DMxqFp7ltH8b0Wto) with MipMapped PS2 style textures.
 
-4. Start New Game. Or use this [compatibility patch for existing saves](https://mega.nz/file/hMdFRJhA#u8qH1EXsZPGD4W8I9LN38KOcWUuTio75frVuXVGmvVo).
+4. (Optional) Download [Rocky24pl's Junkyard Crusher](https://gtaforums.com/topic/964795-sa-crusher/), drop Krush.cs and Cruscher01-02.mp3 into PLUGINS/CRUSHER.
+
+5. Start New Game. Or use this [compatibility patch for existing saves](https://mega.nz/file/hMdFRJhA#u8qH1EXsZPGD4W8I9LN38KOcWUuTio75frVuXVGmvVo).
 
 <h1 align="center">Recommended Mods</h1>
 
-- [Script Fixes](https://gtaforums.com/topic/937827-gta-sa-script-fixes-finding-and-fixing-script-glitches/) - Fixed mission script.
+- [Script Fixes](https://gtaforums.com/topic/937827-gta-sa-script-fixes-finding-and-fixing-script-glitches/) - Various story missions releated fixes.
 
 <h1 align="center">Mods Used</h1>
 
@@ -28,37 +30,36 @@ Used ID range: 6526-6862 (337)
 
 ## Models:
 - Converted PS2 Models — aap, Tomasak, Inadequate, Mugetsuga, KDST
-- Z PC Maps + Fixes — ernestin1, El Dorado, Reyks, Jessica
-- SA XBOX Map Features — Hrod Wolf
+- PS2 Map + Fixes : El Dorado, atfburner, The Truth, Reyks, ernestin1
+- Proper Fixes — GTA Community
+- Mugetsuga's Fixes — Mugetsuga
 - XBOX Gym Equipment — Mugetsuga
+- Rescaled Pickup Icons — Mugetsuga
+- Save Pickup Model — SlingShot753
 - Map Fixes — BMWSauberF1.08
 - Vertex Colours Fix — atfburner, RJSanModder, d3jan
 - Vegetation Vertex Color Fix — Kelly Light
 - Farmhouse Vertex Color Fix — kebi
-- Rescaled Pickup Icons — Mugetsuga
 - Manhunt Cranes — MrFinger
-- Sprunk Can Model — SlingShot753
-- Save Pickup Model — SlingShot753
-- Mugetsuga's Fixes — Mugetsuga
 - Bus Stops Ped Attractor Fix — DeeZire, Ryadica926 (Compatible with Restored Bus Fare Bonus by H-G!)
 - Bollards Fix — SergeDV
 - Pyramid 2DFX Fix — TJGM
 - Orange Bulb Lampposts — TJGM
 - Jizzy's Pleasure Dome Remastered 2DFX — TJGM
 - Open Ironworks — SergeF1988
-- Animated Airport Radar — avals343
 - Vault Door Fix — Marsi4eg
 - eCola Vending Machine — Fenton, AlexanderLB
 - VC Guardhouse — Mystertv
 - LitChurch — Zeneric
 - Welcome to Las Venturas Sign Remastered — Andrey 50 AND
-- Proper Fixes — GTA Community
+- Animated Airport Radar — avals343
 - avals343's Model Fixes - avals343
+- Junkyard Crusher - Rocky24pl
 ## Textures:
 - Cutscene Liberty City Xbox Textures — Blackbird88
 - Neons And Shadows — KDST
 - Optimized Map — Jessica
-- Map Textures Fix — YOEL_44, ernestin1, Blackbird88, Sneed, Jessica
+- Map Textures Fix — YOEL_44, ernestin1, Matt1010, Blackbird88, Sneed, Jessica
 - Single Notes Fix — H-G
 - Pizza Price Fix — kebi
 - Beta Leftovers Fix — MrFinger, Kalvin
@@ -79,7 +80,7 @@ Used ID range: 6526-6862 (337)
 - Unofficial Patch — Kurtis, Sleepy93HUN
 
 # Big Thanks To
-- Ash_735, DimZet13, 5d0, Graven, Scooper for high quality textures
+- Ash_735, DimZet13, 5d0, Graven, Scooper, Zera for high quality textures
 - 5d0 for differences between platforms reporting and support
 - Inadequate for technical information and fixed models
 - Craccosan for fixed models
