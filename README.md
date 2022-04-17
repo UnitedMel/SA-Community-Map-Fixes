@@ -16,7 +16,7 @@
 
 3. Download [IMG archives (18.04.2022)](https://mega.nz/file/gEEV3ShB#V6GrU4G1tIhtm723c1JUP3_Nt73DMxqFp7ltH8b0Wto) with MipMapped PS2 style textures.
 
-4. (Optional) Download [Rocky24pl's Junkyard Crusher](https://gtaforums.com/topic/964795-sa-crusher/), drop Krush.cs and Cruscher01-02.mp3 into PLUGINS/CRUSHER.
+4. (Optional) Download [Rocky24pl's Junkyard Crusher](https://gtaforums.com/topic/964795-sa-crusher/), drop CLEO folder into your directory.
 
 5. Start New Game. Or use this [compatibility patch for existing saves](https://mega.nz/file/hMdFRJhA#u8qH1EXsZPGD4W8I9LN38KOcWUuTio75frVuXVGmvVo).
 
