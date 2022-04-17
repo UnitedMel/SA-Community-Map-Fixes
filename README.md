@@ -26,7 +26,7 @@
 
 <h1 align="center">Mods Used</h1>
 
-Used ID ranges: 6526-6862 (337); 12004-12092 (88)
+Used ID ranges: 6526-6862 (337); 12004-12092 (88); 18802, 18803
 
 ## Models:
 - Converted PS2 Models — aap, Tomasak, Inadequate, Mugetsuga, KDST
