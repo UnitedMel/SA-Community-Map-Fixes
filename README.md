@@ -22,7 +22,7 @@
 
 <h1 align="center">Recommended Mods</h1>
 
-- [Script Fixes](https://gtaforums.com/topic/937827-gta-sa-script-fixes-finding-and-fixing-script-glitches/) - Various story missions releated fixes.
+- [Script Fixes](https://gtaforums.com/topic/937827-gta-sa-script-fixes-finding-and-fixing-script-glitches/) - Various script fixes releated to story missions.
 
 <h1 align="center">Mods Used</h1>
 
