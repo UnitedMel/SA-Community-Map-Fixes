@@ -14,7 +14,7 @@
 
 2. Install [Project2DFX](https://github.com/ThirteenAG/III.VC.SA.IV.Project2DFX/releases/tag/gtasa) and replace SALodLights.dat with CMF version.
 
-3. Download [IMG archives (18.04.2022)](https://mega.nz/file/gEEV3ShB#V6GrU4G1tIhtm723c1JUP3_Nt73DMxqFp7ltH8b0Wto) with MipMapped PS2 style textures.
+3. Download [IMG archives (27.04.2022)](https://mega.nz/file/8I8g1Tra#ee25hFw-X52Y11DOoDZzqCixvV-dTAgivBO9hzrGd6M) with MipMapped PS2 style textures.
 
 4. (Optional) Download [Rocky24pl's Junkyard Crusher](https://gtaforums.com/topic/964795-sa-crusher/), drop CLEO folder into your directory.
 
