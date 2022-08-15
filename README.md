@@ -12,7 +12,7 @@
 
 1. Install [ModLoader](https://github.com/thelink2012/modloader/releases) and copy SA Community Map Fixes to your ModLoader folder.
 
-2. Install [Project2DFX](https://github.com/ThirteenAG/III.VC.SA.IV.Project2DFX/releases/tag/gtasa) and replace SALodLights.dat with CMF version.
+2. Install [Project2DFX](https://github.com/ThirteenAG/III.VC.SA.IV.Project2DFX/releases/tag/gtasa) and replace SALodLights.dat, SALodLights.ini with CMF version.
 
 3. Download [IMG archives (27.04.2022)](https://mega.nz/file/8I8g1Tra#ee25hFw-X52Y11DOoDZzqCixvV-dTAgivBO9hzrGd6M) with MipMapped PS2 style textures.
 
