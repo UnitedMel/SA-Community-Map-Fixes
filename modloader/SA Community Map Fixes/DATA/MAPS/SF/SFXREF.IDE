@@ -1,0 +1,113 @@
+objs
+3785, bulkheadlight, bulkheadlight, 30, 132
+3786, missile_05_SFXR, missiles_SFS, 100, 65536
+3787, missile_02_SFXR, missiles_SFS, 100, 0
+3788, missile_03_SFXR, missiles_SFS, 100, 0
+3789, missile_09_SFXR, missiles_SFS, 100, 0
+3790, missile_01_SFXR, missiles_SFS, 100, 65536
+3791, missile_10_SFXR, missiles_SFS, 100, 0
+3792, missile_08_SFXR, missiles_SFS, 100, 0
+3793, missile_06_SFXR, missiles_SFS, 100, 0
+3794, missile_07_SFXR, missiles_SFS, 100, 65536
+3795, missile_04_SFXR, missiles_SFS, 100, 65536
+3796, acbox1_SFS, xrfcrates_SFS, 100, 0
+3797, missile_11_SFXR, missiles_SFS, 100, 65536
+3798, acbox3_SFS, xrfcrates_SFS, 100, 0
+3799, acbox2_SFS, xrfcrates_SFS, 100, 0
+3800, acbox4_SFS, xrfcrates_SFS, 100, 0
+3801, sfx_lite04, sfxref, 80, 4
+3802, sfx_plant03, sfxref, 80, 4
+3803, sfx_alarms03, sfxref, 80, 4
+3804, sfxref_aircon11, sfxref, 80, 4
+3805, sfxref_aircon12, sfxref, 80, 4
+3806, sfx_winplant07, sfxref, 80, 4
+3807, sfx_flag02, sfxref, 80, 4
+3808, sfx_alarms04, sfxref, 80, 4
+3809, sfx_lite05, sfxref, 80, 4
+3810, sfx_plant04, sfxref, 80, 4
+3811, sfx_winplant08, sfxref, 80, 4
+3812, sfxref_aircon13, sfxref, 80, 4
+3813, sfxref_aircon14, sfxref, 80, 4
+3814, hangar1_SFXREF, hangar1_SFXREF, 180, 0
+3815, LODhangar1_SFXREF, lodhangar_SFSXREF, 600, 0
+3816, bighangar1_SFx, bighangarSFxr, 180, 4
+3817, LODhangar1_SFx, lodhangar_SFSXREF, 600, 0
+3818, sf_frwaysig, sfroadsign, 150, 0
+3819, bleacher_SFSx, baseball_SFSX, 120, 4
+3820, box_hse_09_SFXRF, boxhses_SFSX, 70, 4
+3821, box_hse_02_SFXRF, boxhses_SFSX, 70, 0
+3822, box_hse_03_SFXRF, boxhses_SFSX, 70, 4
+3823, box_hse_11_SFXRF, boxhses_SFSX, 70, 0
+3824, box_hse_10_SFXRF, boxhses_SFSX, 70, 4
+3825, box_hse_01_SFXRF, boxhses_SFSX, 70, 0
+3826, box_hse_06_SFXRF, boxhses_SFSX, 70, 0
+3827, box_hse_07_SFXRF, boxhses_SFSX, 70, 0
+3828, box_hse_05_SFXRF, boxhses_SFSX, 70, 0
+3829, box_hse_04_SFXRF, boxhses_SFSX, 70, 4
+3830, box_hse_08_SFXRF, boxhses_SFSX, 70, 0
+3831, LOD_hse_09_SFXRF, lod_boxhses_SFSX, 600, 0
+3832, LOD_hse_02_SFXRF, lod_boxhses_SFSX, 600, 0
+3833, LOD_hse_03_SFXRF, lod_boxhses_SFSX, 600, 0
+3834, LOD_hse_11_SFXRF, lod_boxhses_SFSX, 600, 0
+3835, LOD_hse_10_SFXRF, lod_boxhses_SFSX, 600, 0
+3836, LOD_hse_08_SFXRF, lod_boxhses_SFSX, 600, 0
+3837, LOD_hse_05_SFXRF, lod_boxhses_SFSX, 600, 0
+3838, LOD_hse_07_SFXRF, lod_boxhses_SFSX, 600, 0
+3839, LOD_hse_04_SFXRF, lod_boxhses_SFSX, 600, 0
+3840, LOD_hse_06_SFXRF, lod_boxhses_SFSX, 600, 0
+3841, LOD_hse_01_SFXRF, lod_boxhses_SFSX, 600, 0
+3842, box_hse_14_SFXRF, boxhses_SFSX, 70, 0
+3843, box_hse_12_SFXRF, boxhses_SFSX, 70, 0
+3844, box_hse_15_SFXRF, boxhses_SFSX, 70, 0
+3845, box_hse_13_SFXRF, boxhses_SFSX, 70, 0
+3846, LOD_hse_13_SFXRF, lod_boxhses_SFSX, 600, 0
+3847, LOD_hse_14_SFXRF, lod_boxhses_SFSX, 600, 0
+3848, LOD_hse_15_SFXRF, lod_boxhses_SFSX, 600, 0
+3849, LOD_hse_12_SFXRF, lod_boxhses_SFSX, 600, 0
+3850, carshowbann_SFSX, carshowglass_SFSX, 50, 2098180
+3851, carshowwin_SFSX, carshowglass_SFSX, 100, 2098180
+3852, sf_jump, jump_sfxref, 180, 0
+3853, Gay_lamppost, gay_xref, 62, 2130048
+3854, GAY_telgrphpole, gay_xref, 100, 32896
+3855, GAY_TRAFFIC_LIGHT, gay_xref, 50, 32896
+3856, sf_frwaysig_half, sfroadsign, 150, 0
+3857, ottosmash3, ottos_glass, 50, 2098244
+3858, ottosmash1, ottos_glass, 50, 2098244
+3859, ottosmash04, ottos_glass, 50, 2098244
+3860, marketstall04_SFXRF, hashmarket_SFSX, 60, 128
+3861, marketstall01_SFXRF, hashmarket_SFSX, 60, 128
+3862, marketstall02_SFXRF, hashmarket_SFSX, 60, 128
+3863, marketstall03_SFXRF, hashmarket_SFSX, 60, 128
+3864, WS_floodlight, SFSE_hubstuff, 60, 4
+3865, concpipe_SFXRF, SFSE_hubstuff, 200, 0
+3866, demolish1_SFXRF, dem1_SFXRF, 150, 4
+3867, ws_scaffolding_SFX, scaffolding_SFX, 100, 4
+3868, LODscaffolding_SFX, LODscaffolding_SFX, 600, 4
+3869, LODdemolish1_SFXRF, LOD_dem_SFXRF, 600, 0
+3873, Silicon04_SFS, silicon_sfxrf, 150, 0
+3874, LODSilicon04_SFS, lod_silicon_sfxrf, 600, 0
+3875, SFtelepole, sf_telpole, 100, 0
+3876, sf_roofmast, sfroofshit, 200, 4
+3877, sf_rooflite, sfroofshit, 90, 0
+3878, headstones_SFSx, headstones_SFSx, 50, 128
+3879, ws_jetty_SFX, ws_jetty_SFX, 100, 4
+3880, LODws_jetty_SFX, LODjetty_SFX, 600, 0
+3881, airsecbooth_SFSe, apsecurity_sfxrf, 150, 4
+3882, airsecboothint_SFSe, apsecurity_sfxrf, 20, 0
+3884, samsite_SFXRF, samsite_SFXRF, 200, 0
+3885, sambase_SFXRF, samsite_SFXRF, 200, 0
+3886, ws_jettynol_SFX, ws_jetty_SFX, 100, 4
+3887, demolish4_SFXRF, dem4_SFXRF, 100, 0
+3888, LODdemolish4_SFXRF, LOD_dem_SFXRF, 600, 0
+end
+tobj
+3872, WS_floodbeams, SFSE_hubstuff, 60, 68, 21, 6
+end
+path
+end
+2dfx
+end
+anim
+end
+txdp
+end

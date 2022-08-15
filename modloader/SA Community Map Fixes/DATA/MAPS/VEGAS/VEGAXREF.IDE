@@ -1,0 +1,137 @@
+objs
+3430, vegasbooth01, vegasbooth, 120, 0
+3431, vgsclubox01, vgsclubox, 120, 128
+3432, htlcnpy02_lvs, hotelcanopy, 80, 2097280
+3433, htlcnpy01_lvs, hotelcanopy, 80, 2097280
+3434, skllsgn01_lvs, skullsign, 130, 2097280
+3435, motel01sgn_lvs, motel01sign, 110, 128
+3436, motel03_lvs, motel01, 130, 2097152
+3437, ballypllr01_lvs, ballypillar01, 130, 128
+3438, ballyring01_lvs, ballyring01, 120, 128
+3439, aprtree01_lvs, xrefairtree, 100, 128
+3440, arptpillar01_lvs, airportpillar, 100, 128
+3441, luxorpillar02_lvs, luxorpillar2, 110, 128
+3442, vegasxrexhse1, vegashse4, 150, 0
+3443, vegasxrexhse2, vegashse4, 150, 0
+3444, shabbyhouse02_lvs, vegashse8, 150, 2097156
+3445, vegasxrexhse08, vegashse6, 150, 4
+3446, vegasxrexhse10, vegashse3, 150, 4
+3447, vgstlgraphpole, vgstlgraphpole, 130, 2097284
+3448, shamcprkin, shamcpark, 100, 0
+3449, vegashsenew1, vegashse2, 150, 2097156
+3450, vegashseplot1, vegashse2, 150, 2097156
+3451, vegashsenew2, vegashse2, 150, 2097284
+3452, bballintvgn1, bballvgnint, 120, 0
+3453, bballintvgn2, bballvgnint, 120, 0
+3454, vgnhseing15, vgnxrefhse1, 120, 0
+3455, vgnhseblk1, vgnhseblk1, 120, 4
+3456, vgnhseblk3, vgnhseblk1, 120, 4
+3457, vgnhseblk2, vgnhseblk1, 120, 2097156
+3458, vgncarshade1, vgncarshade1, 110, 0
+3459, vgntelepole1, vgntelepole, 100, 32768
+3460, vegaslampost, vgnlpost, 62, 128
+3461, tikitorch01_lvs, tikitorch, 90, 128
+3462, csrangel_lvs, ceaserangel, 120, 128
+3463, vegaslampost2, vgnlpost, 62, 128
+3464, shabbyhouse03_lvs, vegashse2, 150, 2097152
+3465, vegspetrolpump, petrolpump, 100, 65536
+3466, shabbyhouse01_lvs, vegashse8, 150, 2097152
+3467, vegstreetsign1, vegstreetsign, 50, 128
+3468, vegstreetsign2, vegstreetsign, 50, 128
+3469, vegenmotel1, vegenmotel, 130, 0
+3470, vegasaircon1, vegasaircon, 110, 128
+3471, vgschinalion1, vgschinalion, 120, 128
+3472, circuslampost03, vgnlpost, 100, 128
+3473, vegenmotel12, vegenmotel, 100, 2097284
+3474, Freightcrane1, freightcrane, 120, 2097152
+3475, vgsn_fncelec_pst, vgsn_fncelec_pst, 75, 132
+3476, lodllintvgn1, bballvgnintlod, 800, 128
+3477, lodllintvgn2, bballvgnintlod, 800, 128
+3478, lodhseing15, lodxrefhse1, 800, 128
+3479, lodhseblk2, lodxrefhse1, 800, 128
+3480, lodhseblk1, lodxrefhse1, 800, 128
+3481, lodhseblk03, lodxrefhse1, 800, 128
+3482, lodlsgn01_lvs, stripxreflod, 800, 128
+3483, vegasxrexhse09, vegashse7, 150, 2097156
+3484, vegasxrexhse03, vegashse5, 150, 2097156
+3485, vegasxrexhse04, vegashse6, 150, 2097156
+3486, vegasxrexhse05, vegashse5, 150, 2097156
+3487, vegasxrexhse06, vegashse7, 150, 2097156
+3488, vegasxrexhse07, vegashse6, 150, 2097156
+3489, HANGAR1_08_LVS, vegasshangar, 250, 0
+3490, lodGAR1_08_LVS, lodvgshangar, 800, 128
+3491, vegasS_hanger2, vegasshangar, 130, 4
+3492, lodasS_hanger2, lodvgshangar, 800, 128
+3493, vgsn_carpark01, vgsn_carpark01, 80, 0
+3494, luxorpillar04_lvs, luxorpillar04, 110, 128
+3495, lodorpillar04_lvs, stripxreflod, 800, 128
+3496, vgsxrefbballnet, vgsbballnet1, 50, 2097284
+3497, vgsxrefbballnet2, vgsbballnet1, 50, 2097284
+3498, wdpillar01_lvs, woodpillar01_lvs, 30, 128
+3499, wdpillar02_lvs, woodpillar01_lvs, 40, 128
+3500, lodxrefpartm1, lodvgsxref1, 800, 128
+3501, vgsxrefpartm1, vgsxrefpart1, 130, 2097152
+3502, vgsN_con_tube, vgsncircon, 100, 128
+3503, vgsNscffple, vgsncircon, 50, 128
+3504, vgsN_portaloo, vgsncircon, 100, 128
+3505, VgsN_nitree_y01, vgsn_nitree, 120, 2097156
+3506, VgsN_nitree_y02, vgsn_nitree, 120, 2097156
+3507, VgsN_nitree_g01, vgsn_nitree, 120, 2097156
+3508, VgsN_nitree_g02, vgsn_nitree, 120, 2097156
+3509, VgsN_nitree_r01, vgsn_nitree, 120, 2097156
+3510, VgsN_nitree_r02, vgsn_nitree, 120, 2097156
+3511, VgsN_nitree_b01, vgsn_nitree, 120, 2097156
+3512, VgsN_nitree_b02, vgsn_nitree, 120, 2097156
+3513, vgs_roadsign1, vgsroadsign, 150, 128
+3514, vgs_roadsign02, vgsroadsign, 150, 128
+3515, vgsfountain, vgsfountain, 120, 128
+3516, vgsstriptlights1, vegtrafic2, 85, 32896
+3517, ceasertree02_lvs, gta_tree_oak, 120, 2097156
+3518, vgsN_rooflity, vgsn_rooflit, 70, 128
+3519, vgsN_rooflitb, vgsn_rooflit, 70, 128
+3520, vgsN_flwrbdsm, vgsn_flowers, 60, 2097284
+3521, vgsn_RBStiff, vgsn_rbstiff, 60, 128
+3522, vgsn_flwbdcrb, vgsn_flwbdcrb, 60, 0
+3523, lodenmotel13, vgsn_motel_lod, 800, 128
+3524, skullpillar01_lvs, skullpillar, 30, 128
+3525, exbrtorch01, excaliburtorch, 30, 128
+3526, vegasairportlight, vgsairprtlight, 100, 0
+3527, lodmcprkin, shamcparklod, 800, 128
+3528, vgsEdragon, vgsedragon, 100, 2097280
+3529, vgsN_constrbeam, vgsncircon, 100, 132
+3530, vgsN_constrbeam2, vgsncircon, 100, 132
+3531, trdflwrbedq, triadprops_lvs, 100, 0
+3532, triadbush, triadbush_lvs, 40, 2097284
+3533, trdpillar01, triadprops_lvs, 100, 128
+3534, trdlamp01, triadprops_lvs, 50, 128
+3535, lodashsenew1, vegashselod1, 1000, 128
+3536, lodbbyhouse03_lvs, vegashselod1, 1000, 128
+3537, lodbbyhouse02_lvs, vegashselod1, 1000, 128
+3538, lodashseplot1, vegashselod1, 1000, 128
+3539, lodbbyhouse01_lvs, vegashselod1, 1000, 128
+3540, lodasxrexhse09, lodvegashse5, 1000, 2097280
+3541, lodasxrexhse03, lodvegashse5, 1000, 2097280
+3542, lodasxrexhse04, lodvegashse5, 1000, 2097280
+3543, lodasxrexhse05, lodvegashse5, 1000, 2097280
+3544, lodasxrexhse06, lodvegashse5, 1000, 2097280
+3545, lodasxrexhse07, lodvegashse5, 1000, 2097280
+3546, lodasxrexhse08, lodvegashse5, 1000, 2097280
+3547, lodasxrexhse10, lodvegashse5, 1000, 2097280
+3548, lodasxrexhse2, lodvegashse5, 1000, 128
+3549, lodasxrexhse1, lodvegashse5, 1000, 128
+3550, vgsn_fncelec_msh, vgsn_fncelec_pst, 75, 2097284
+3551, lodn_fncelec_pst, vgsn_fncelec_lod, 800, 2097280
+3552, lodlypllr01_lvs, stripxreflod, 800, 128
+3553, lodagesign04, stripxreflod, 800, 2097280
+3554, visagesign04, skullsign, 130, 128
+end
+tobj
+end
+path
+end
+2dfx
+end
+anim
+end
+txdp
+end

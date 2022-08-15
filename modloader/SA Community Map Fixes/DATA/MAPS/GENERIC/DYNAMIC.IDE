@@ -111,12 +111,12 @@ objs
 1316, hoop, ingame, 100, 0
 1317, Cylinder, ingame, 100, 2097152
 1318, arrow, ingame, 100, 0
-1319, ws_ref_bollard, ws_roadside_DYN1, 50, 0
-1320, ws_roadwarning_05, ws_roadside_DYN1, 50, 0
-1321, ws_roadwarning_01, ws_roadside_DYN1, 50, 0
-1322, ws_roadwarning_02, ws_roadside_DYN1, 50, 0
-1323, ws_roadwarning_03, ws_roadside_DYN1, 50, 0
-1324, ws_roadwarning_04, ws_roadside_DYN1, 50, 0
+1319, ws_ref_bollard, ws_roadside_DYN1, 50, 128
+1320, ws_roadwarning_05, ws_roadside_DYN1, 50, 128
+1321, ws_roadwarning_01, ws_roadside_DYN1, 50, 128
+1322, ws_roadwarning_02, ws_roadside_DYN1, 50, 128
+1323, ws_roadwarning_03, ws_roadside_DYN1, 50, 128
+1324, ws_roadwarning_04, ws_roadside_DYN1, 50, 128
 1325, LODlBrd, BillBrd, 400, 2097280
 end
 tobj
