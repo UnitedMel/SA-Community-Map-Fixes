@@ -14,11 +14,9 @@
 
 2. Install [Project2DFX](https://github.com/ThirteenAG/III.VC.SA.IV.Project2DFX/releases/tag/gtasa) and replace SALodLights.dat, SALodLights.ini with CMF version.
 
-3. Download [IMG archives (27.04.2022)](https://mega.nz/file/8I8g1Tra#ee25hFw-X52Y11DOoDZzqCixvV-dTAgivBO9hzrGd6M) with MipMapped PS2 style textures.
+3. Download [IMG archives (27.04.2022)](https://mega.nz/file/8I8g1Tra#ee25hFw-X52Y11DOoDZzqCixvV-dTAgivBO9hzrGd6M) with MipMapped PS2 styled textures.
 
-4. (Optional) Download [Rocky24pl's Junkyard Crusher](https://gtaforums.com/topic/964795-sa-crusher/), drop CLEO folder into your directory.
-
-5. Start New Game. Or use this [compatibility patch for existing saves](https://mega.nz/file/hMdFRJhA#u8qH1EXsZPGD4W8I9LN38KOcWUuTio75frVuXVGmvVo).
+4. Start New Game. Or use this [compatibility patch for existing saves](https://mega.nz/file/hMdFRJhA#u8qH1EXsZPGD4W8I9LN38KOcWUuTio75frVuXVGmvVo).
 
 <h1 align="center">Recommended Mods</h1>
 
@@ -26,7 +24,7 @@
 
 <h1 align="center">Mods Used</h1>
 
-Used ID ranges: 6526-6862 (337); 12004-12092 (88); 18802, 18803
+Used ID ranges: 6526-6862 (337); 12004-12092 (88)
 
 ## Models:
 - Converted PS2 Models — aap, Tomasak, Inadequate, Mugetsuga, KDST
@@ -41,7 +39,7 @@ Used ID ranges: 6526-6862 (337); 12004-12092 (88); 18802, 18803
 - Vegetation Vertex Color Fix — Kelly Light
 - Farmhouse Vertex Color Fix — kebi
 - Manhunt Cranes — MrFinger
-- Bus Stops Ped Attractor Fix — DeeZire, Ryadica926 (Compatible with Restored Bus Fare Bonus by H-G!)
+- Bus Stops Ped Attractor Fix — DeeZire, Ryadica926
 - Bollards Fix — SergeDV
 - Pyramid 2DFX Fix — TJGM
 - Orange Bulb Lampposts — TJGM
@@ -49,7 +47,6 @@ Used ID ranges: 6526-6862 (337); 12004-12092 (88); 18802, 18803
 - Open Ironworks — SergeF1988
 - Vault Door Fix — Marsi4eg
 - eCola Vending Machine — Fenton, AlexanderLB
-- VC Guardhouse — Mystertv
 - LitChurch — Zeneric
 - Welcome to Las Venturas Sign Remastered — Andrey 50 AND
 - Animated Airport Radar — avals343
