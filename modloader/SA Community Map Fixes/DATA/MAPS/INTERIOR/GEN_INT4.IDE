@@ -1,0 +1,71 @@
+objs
+14842, int_policeA07, genintintpoliceA, 100, 132
+14843, int_policeA01, genintintpoliceA, 100, 132
+14844, int_policeA02, genintintpoliceA, 100, 128
+14845, int_policeA03, int_policeA03a, 100, 128
+14846, int_ppol, genintintpoliceB, 150, 0
+14847, mp_sfpd_big, mp_policeSF, 50, 0
+14848, mp_sfpd_stairs1, mp_policeSF, 50, 0
+14849, mp_sfpd_lights1, mp_policeSF, 50, 128
+14850, mp_sfpd_obj1, mp_policeSF, 50, 128
+14851, mp_sfpd_signa, mp_policeSF, 50, 128
+14852, mp_sfpd_win1, mp_policeSF, 50, 128
+14853, veg_pol_main2, gen_pol_vegas, 60, 0
+14854, countera, gen_pol_vegas, 60, 128
+14855, counterb, gen_pol_vegas, 60, 128
+14856, cellsa, gen_pol_vegas, 50, 132
+14858, veg_pol_main1, gen_pol_vegas, 60, 0
+14859, coochie-room, gf1, 50, 0
+14860, coochie-posters, gf1, 50, 128
+14861, choochie-bed, gf1, 50, 128
+14862, headboard, gf1, 50, 128
+14863, clothes, gf1, 50, 132
+14864, shoes, gf1, 50, 128
+14865, bobbi-room01, gf2, 50, 0
+14866, bobbie-bed01, gf2, 50, 128
+14867, bobbie-cupboards, gf2, 50, 128
+14868, pennants01, gf2, 50, 132
+14869, bobbie-table, gf2, 50, 128
+14870, pompom01, gf2, 50, 128
+14871, Kylie_barn, gf3, 50, 0
+14872, Kylie_logs, gf3, 50, 128
+14873, Kylie_hay, gf3, 50, 128
+14874, Kylie_stairs, gf3, 50, 128
+14875, Kylie_hay1, gf3, 50, 128
+14876, michelle-garage, gf4, 50, 0
+14877, michelle-stairs, gf4, 50, 0
+14878, michelle-barrels, gf4, 50, 128
+14879, michelle-bits, gf4, 50, 128
+14880, michelle-bed01, gf4, 50, 128
+14881, barbara-cop, gf5, 100, 0
+14882, barb-pipes, gf5, 100, 128
+14883, prison-gates, gf5, 100, 132
+14885, Vegas-signs1, gen_pol_vegas, 60, 128
+14886, polvegsigns1, gen_pol_vegas, 60, 128
+14887, polvegsigns3, gen_pol_vegas, 60, 128
+14888, Millie-headboard, gf6, 50, 128
+14889, Millie-room, gf6, 50, 0
+14890, millie-vibrators, gf6, 30, 128
+14891, millie-swing, gf6, 100, 132
+14892, mp_sfpd_win2, mp_policeSF, 50, 128
+14893, police1-exit, genintintpoliceB, 20, 0
+14894, police2-exit01, mp_policeSF, 50, 0
+14895, mp_sfpd_obj2, mp_policeSF, 50, 128
+14896, mp_sfpd_lights2a, mp_policeSF, 50, 128
+14897, mp_sfpd_lights1a, mp_policeSF, 50, 128
+14898, int_policeA03a, int_policeA03a, 100, 128
+14900, police3-exit01, mp_policeSF, 50, 0
+14901, police3-exit02, mp_policeSF, 50, 0
+14902, veg_pol_window, gen_pol_vegas, 100, 132
+14903, mp_sfpd_lights2, mp_policeSF, 100, 128
+end
+tobj
+end
+path
+end
+2dfx
+end
+anim
+end
+txdp
+end

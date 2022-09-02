@@ -1,0 +1,4 @@
+# Stories Styled Vending Machines — Loader
+# This file loads alternative version of vending models.
+# To disable, simply remove this folder.
+IDE DATA\SSVM.IDE

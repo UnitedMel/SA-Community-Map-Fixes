@@ -1,6 +1,10 @@
-#6526-6862 (337)
+# CMF.IDE
+# This file specify properties of additional objects.
+# 6526-6862 (337)
+#
 objs
 6526, smb_sculpture, cmf_LA, 80, 128
+# do not disable these
 6534, LODswbigburb01d, CE_burbLOD, 450, 128
 6535, LODswbigburb02d, CE_burbLOD, 450, 128
 6536, LODswbigburb03d, CE_burbLOD, 450, 128
@@ -9,16 +13,14 @@ objs
 6539, sw_bigburb_02d, CE_burbhouse, 80, 2097156
 6540, sw_bigburb_03d, CE_burbhouse, 80, 2097156
 6541, sw_bigburb_04d, CE_burbhouse, 80, 2097156
+# --- #
 6542, la_fucktram, wreckshare, 80, 2097152
 6543, la_fucktruk, wreckshare, 80, 2097152
 6544, la_fuckbus, wreckshare, 80, 2097156
 6545, back_box_L0, flatterthanpizza, 299, 0
 6546, doc_crane_leggs, flatterthanpizza, 299, 4
-#
-#	Scripted Objects
-#
-18802, doc_crane_cab, flatterthanpizza, 299, 4
-18803, crushertop, flatterthanpizza, 299, 0
+6547, doc_crane_cab, flatterthanpizza, 299, 4
+6548, crushertop, flatterthanpizza, 299, 0
 end
 tobj
 6527, bowln, neonshare, 225, 4, 20, 6
@@ -52,8 +54,6 @@ gen_country, cmf_cunt
 # LA
 #
 gen_LA, cmf_LA
-cmf_LA, cmf_LA2
-cmf_LA2, cmf_LA3
 #
 # SF
 #

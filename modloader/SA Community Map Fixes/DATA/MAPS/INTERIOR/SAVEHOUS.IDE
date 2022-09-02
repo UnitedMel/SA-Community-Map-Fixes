@@ -1,0 +1,52 @@
+objs
+15025, genmotelfurn_sv, savegenmotel, 15, 128
+15026, imy_roomfurn12_sv, savegenmotel, 18, 128
+15027, immy_clothes_sv, savegenmotel, 10, 132
+15028, genmotel2sh_sv, savegenmotel, 10, 128
+15029, genmotel2_sv, savegenmotel, 100, 0
+15030, genmotel_sv, savegenmotel, 100, 0
+15031, lasmall1_sv, lasmallsave, 100, 0
+15032, lasmallfurn_sv, labits, 100, 128
+15033, vegashotel_sv, vegassavesmal, 100, 0
+15034, hotelgen_sv, genhotelsave, 100, 0
+15035, kb_bed_test2_sv, vegassavesmal, 30, 128
+15036, kit_cab_washin_sv, lasmallkitch, 100, 128
+15037, MED_DINNING_2_sv, lasmalldesk, 100, 128
+15038, Plant_Pot_3_sv, genhotelsave, 100, 132
+15039, mrk_bed02_sv, genhotelsave, 30, 128
+15040, cuntbits, cuntcuts, 30, 128
+15041, cunthouse, bigsfsave, 30, 0
+15042, newhouse1, svsfsm, 30, 0
+15043, svcuntflorday, bigsfsave, 30, 68
+15046, countrysavehouse, svcunthoose, 30, 0
+15047, svvgmdshadfloor, svvgmd, 30, 68
+15048, LABIGSAVEHOUse, labigsave, 30, 0
+15049, svlabigkitchshad, svlabig, 30, 68
+15050, svlabigbits, svlabigbits, 30, 132
+15051, svlasmshad, lasmallsave, 30, 68
+15052, svsfsmshad, svsfsmbits, 30, 128
+15053, bigniceveghotel, vghotelnice, 30, 0
+15054, svvgmedhoose, savesfmid, 40, 0
+15055, savelamid, svlamid, 40, 0
+15056, svsfsmshadfloor2, svsfsm, 30, 68
+15057, bihotelshad, vghotelnice, 30, 68
+15058, midvegsavehouse, svvgmid, 50, 0
+15059, labihalfhouse, labigsave, 30, 0
+15060, svsfmdshadflr1, vgsvmdshad, 100, 68
+15061, svlamidshad, lamidsaveshad, 30, 68
+15062, lamidshadflr, lamidsaveshad, 30, 68
+15063, svmidsavebits, svbits, 30, 132
+15064, svrails, svrails, 100, 132
+end
+tobj
+15044, lamidshadfloor, savesfmid, 40, 68, 6, 21
+15045, bigLAshadow, labigshadow, 30, 68, 6, 21
+end
+path
+end
+2dfx
+end
+anim
+end
+txdp
+end

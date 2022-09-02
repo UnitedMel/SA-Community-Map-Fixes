@@ -1,30 +1,30 @@
 objs
 14530, driveschl_main, estate2, 30, 0
 14531, int_zerosrc01, int_zerosrcA, 30, 0
-14532, tv_stand_driv, drivingbit, 20, 0
+14532, tv_stand_driv, drivingbit, 20, 128
 14533, pleasure-TOP, pleas_dome, 100, 0
 14534, ab_woozies01, ab_woozieA, 100, 0
-14535, ab_woozies03, ab_woozieC, 100, 0
+14535, ab_woozies03, ab_woozieC, 100, 128
 14536, pleasure-BOT, pleas_dome, 100, 0
 14537, pdomesBar, pdomebar, 100, 0
 14538, Pdomes_Xitbox, ab_Xit_box, 100, 0
 14539, pdomes_logo, pdomes_logo, 100, 4
-14540, pdomes_extras, pdome_extras, 100, 0
+14540, pdomes_extras, pdome_extras, 100, 128
 14542, woozies_Xitbox, ab_Xit_box, 100, 0
-14543, ab_woozies04, ab_wooziec, 100, 0
-14544, ab_woozies02, ab_woozieB, 100, 0
+14543, ab_woozies04, ab_wooziec, 100, 128
+14544, ab_woozies02, ab_woozieB, 100, 128
 14545, ab_wooziesGlass, ab_woozieB, 100, 4
 14546, pleasure-MID, pleas_dome, 100, 0
 14547, pleasure-DL, pleas_dome, 100, 262148
 14548, cargo_test, ab_cargo_int, 50, 4
 14549, carge_barrels, ab_cargo_int, 40, 128
 14550, cargo_netting, ab_cargo_int, 100, 2097156
-14551, cargo_store, ab_cargo_int, 100, 0
-14552, cargo_stuff, ab_cargo_int, 100, 0
+14551, cargo_store, ab_cargo_int, 100, 128
+14552, cargo_stuff, ab_cargo_int, 100, 128
 14553, androm_des_obj, ab_cargo_int, 100, 0
-14554, ab_wooziesSHAD, ab_wooziesSHAD, 100, 4
-14556, ZEROWARDROBE, int_zerosrcA, 60, 0
-14558, MODEL_BOX15, int_zerosrcA, 100, 0
+14554, ab_wooziesSHAD, ab_wooziesSHAD, 100, 68
+14556, ZEROWARDROBE, int_zerosrcA, 60, 128
+14558, MODEL_BOX15, int_zerosrcA, 100, 128
 14559, PDomeCones, pleas_dome, 100, 4
 end
 tobj
