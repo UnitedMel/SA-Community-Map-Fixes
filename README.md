@@ -52,6 +52,8 @@ Used ID ranges: 6526-6862 (337); 12004-12092 (88)
 - Animated Airport Radar — avals343
 - avals343's Model Fixes - avals343
 - Junkyard Crusher - Rocky24pl
+- San Andreas: BETA Edition - Kalvin
+- Restored Mailboxes - The CA-studio
 ## Textures:
 - Cutscene Liberty City Xbox Textures — Blackbird88
 - Neons And Shadows — KDST

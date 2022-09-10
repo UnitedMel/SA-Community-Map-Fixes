@@ -4,6 +4,8 @@
 #
 objs
 6526, smb_sculpture, cmf_LA, 80, 128
+6529, lae2_ground04_fnc, landlae2e, 200, 2097284
+#6530,
 # do not disable these
 6534, LODswbigburb01d, CE_burbLOD, 450, 128
 6535, LODswbigburb02d, CE_burbLOD, 450, 128
@@ -25,8 +27,6 @@ end
 tobj
 6527, bowln, neonshare, 225, 4, 20, 6
 6528, jlneon, neonshare, 225, 4, 20, 6
-#6529,
-#6530,
 6531, elcidhotel_nlight, lightshare, 299, 130, 20, 6
 6532, laeJeffers06_nlight, lightshare, 299, 130, 20, 6
 6533, lasairprt5_nlight, lightshare, 299, 140, 22, 5
