@@ -11,14 +11,24 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
-      
+        with:
+          ref: addons
+          path: .addons
+
       - name: Pack Release
         uses: ThirteenAG/zip-release@master
         with:
           path: ./*
           type: 'zip'
           filename: 'cmf-latest.zip'
-          exclusions: '.git .github .readme.md .changelog.md'
+          exclusions: '.git .github readme.md changelog.md'
+          
+      - name: Pack Save Patch
+        uses: ThirteenAG/zip-release@master
+        with:
+          path: .Compatibility Patch
+          type: 'zip'
+          filename: 'cmf-compatibility-patch.zip'
 
       - name: Get Release Info
         id: release_info
@@ -36,4 +46,4 @@ jobs:
           name: ${{ steps.release_info.outputs.name }}
           body: ${{ steps.release_info.outputs.body }}
           tag: ${{ steps.release_info.outputs.tag_name }}
-          artifacts: cmf-latest.zip
+          artifacts: cmf-latest.zip,cmf-compatibility-patch.zip
