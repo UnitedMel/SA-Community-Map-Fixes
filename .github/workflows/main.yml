@@ -22,7 +22,7 @@ jobs:
         with:
           path: ./*
           type: 'zip'
-          filename: 'cmf-latest.zip'
+          filename: 'cmf-main-latest.zip'
           exclusions: '.git .github .addons readme.md changelog.md'
           
       - name: Pack Save Patch
@@ -39,6 +39,22 @@ jobs:
           path: .addons/vend-variants/*
           type: 'zip'
           filename: 'cmf-vending-variants.zip'
+          exclusions: '.git .github .main'
+          
+      - name: Pack Classic Icons
+        uses: ThirteenAG/zip-release@master
+        with:
+          path: .addons/classic-icons/*
+          type: 'zip'
+          filename: 'cmf-classic-icons.zip'
+          exclusions: '.git .github .main'
+          
+      - name: Pack "The Clam Digger" Billboard
+        uses: ThirteenAG/zip-release@master
+        with:
+          path: .addons/lcs-billboard/*
+          type: 'zip'
+          filename: 'cmf-lcs-billboard.zip'
           exclusions: '.git .github .main'
 
       - name: Get Release Info
@@ -57,4 +73,4 @@ jobs:
           name: ${{ steps.release_info.outputs.name }}
           body: ${{ steps.release_info.outputs.body }}
           tag: ${{ steps.release_info.outputs.tag_name }}
-          artifacts: cmf-latest.zip,cmf-compatibility-patch.zip
+          artifacts: cmf-main-latest.zip,cmf-compatibility-patch.zip,cmf-vending-variants.zip,cmf-classic-icons.zip,cmf-lcs-billboard.zip
