@@ -52,7 +52,7 @@
 
 <h1 align="center">Optional Tweaks</h1>
 
-### [Compatibility Patch](https://mega.nz/file/hMdFRJhA#u8qH1EXsZPGD4W8I9LN38KOcWUuTio75frVuXVGmvVo)
+### [Compatibility Patch](https://github.com/UnitedMel/SA-Community-Map-Fixes/releases/download/latest/cmf-compatibility-patch.zip)
 > Install to /GTA San Andreas/modloader/SA Community Map Fixes/
 #### For use with old vanilla saves.
 #### This patch fixes: missing collisions, mission objects being stuck in random places, unconnected LODs.
