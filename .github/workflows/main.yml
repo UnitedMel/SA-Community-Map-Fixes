@@ -10,11 +10,6 @@ jobs:
     runs-on: windows-2022
 
     steps:
-      - uses: actions/checkout@v3
-      - uses: actions/checkout@v3
-        with:
-          ref: resources
-          path: .resources
 
       - name: Pack Release
         uses: ThirteenAG/zip-release@master
@@ -40,4 +35,4 @@ jobs:
           name: ${{ steps.release_info.outputs.name }}
           body: ${{ steps.release_info.outputs.body }}
           tag: ${{ steps.release_info.outputs.tag_name }}
-          artifacts: cmf_latest.zip
+          artifacts: "cmf_latest.zip"
