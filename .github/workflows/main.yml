@@ -12,6 +12,7 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
+      - uses: actions/checkout@v3
         with:
           ref: addons
           path: .addons
