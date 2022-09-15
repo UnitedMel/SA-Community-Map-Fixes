@@ -2,33 +2,83 @@
   <img width="2000" src="https://i.imgur.com/cGDiOPN.png" alt="Map-Fixes-Logo">
 </p>
 
-<h1 align="center">Media</h1>
+<h1 align="center">Preview</h1>
 
 <p align="center">
-  <img width="350" src="https://media.giphy.com/media/y8oSzN4m3mqPYvgajb/giphy.gif" alt="Venturas-Sign"> <img width="350" src="https://media.giphy.com/media/9cn2KlIBZ8h9rogBmA/giphy.gif" alt="Las-Venturas-Spray"> <img width="350" src="https://media.giphy.com/media/baa5ujV5LUZzxFMqsi/giphy.gif" alt="Los-Santos-Bushes"> <img width="350" src="https://media.giphy.com/media/b1agEhwNiMNK3lDsEL/giphy.gif" alt="Los-Santos-Roads">
+  <img width="350" src="https://media.giphy.com/media/y8oSzN4m3mqPYvgajb/giphy.gif" alt="Las-Venturas-Sign"> <img width="350" src="https://media.giphy.com/media/9cn2KlIBZ8h9rogBmA/giphy.gif" alt="Las-Venturas-Spray"> <img width="350" src="https://media.giphy.com/media/baa5ujV5LUZzxFMqsi/giphy.gif" alt="Los-Santos-Bushes"> <img width="350" src="https://media.giphy.com/media/b1agEhwNiMNK3lDsEL/giphy.gif" alt="Los-Santos-Roads">
 </p>
 
-<h1 align="center">Installation</h1>
+<h1 align="center">Requirements & Installation Process</h1>
 
-1. Install [ModLoader](https://github.com/thelink2012/modloader/releases) and copy SA Community Map Fixes to your ModLoader folder.
+### [Ultimate ASI Loader and WidescreenFix](https://github.com/ThirteenAG/WidescreenFixesPack/releases/tag/gtasa)
+> Install **vorbisFile.dll** to /GTA San Andreas/
 
-2. Install [Project2DFX](https://github.com/ThirteenAG/III.VC.SA.IV.Project2DFX/releases/tag/gtasa) and replace SALodLights.dat, SALodLights.ini with CMF version.
+> Install **GTASA.WidescreenFix.asi**, **GTASA.WidescreenFix.ini** to /GTA San Andreas/scripts/
+#### Adds ASI plugin loading functionality.
+#### Improves widescreen resolutions support and fixes HUD aspect ratio.
 
-3. Download [IMG archives (27.04.2022)](https://mega.nz/file/8I8g1Tra#ee25hFw-X52Y11DOoDZzqCixvV-dTAgivBO9hzrGd6M) with MipMapped PS2 styled textures.
+### [SilentPatch](https://cookieplmonster.github.io/mods/gta-sa/)
+> Install **SilentPatchSA.asi**, **SilentPatchSA.ini** to /GTA San Andreas/scripts/
+#### Patch which fixes large amount of game bugs.
+#### Improves the transition from day to night pre-lighting on models.
 
-4. Start New Game. Or use this [compatibility patch for existing saves](https://mega.nz/file/hMdFRJhA#u8qH1EXsZPGD4W8I9LN38KOcWUuTio75frVuXVGmvVo).
+### [ModLoader](https://github.com/thelink2012/modloader/releases)
+> Install to /GTA San Andreas/
+#### Adds an easy and user-friendly way to install and uninstall modifications into the game.
+
+### [Open Limit Adjuster and Project2DFX](https://github.com/ThirteenAG/III.VC.SA.IV.Project2DFX/releases/tag/gtasa)
+> Install to /GTA San Andreas/scripts/
+#### Turns whatever previously was limited into unlimited, being only limited by the machine/application capacity.
+#### Adds LOD corona effect to a game map, making LOD-world look a lot better.
+
+### [PC Archives Fix (3.1)](https://mega.nz/file/8I8g1Tra#ee25hFw-X52Y11DOoDZzqCixvV-dTAgivBO9hzrGd6M)
+> Install to /GTA San Andreas/
+#### Vanilla IMGs with QOL features. Can be safely used standalone.
+#### What's inside:
+#### - Texture MipMaps
+#### - TXDP Generics (Optimised Map)
+#### - PS2 Styled PC Textures
+#### - Uncompressed Textures From III/VC/MH1
+#### - PS2 Vehicles
+#### - Girlfriends Models Uncut
+
+### [SA Community Map Fixes](https://github.com/UnitedMel/SA-Community-Map-Fixes/archive/refs/heads/main.zip)
+> Install **SA Community Map Fixes** to /GTA San Andreas/modloader/
+
+> Replace **SALodLights.dat, SALodLights.ini**, **SilentPatchSA.ini**, **SkyGfx.ini** inside /GTA San Andreas/scripts/
+
+> Open GTA: San Andreas and start **New Game**.
+#### Compilation of map bug fixes with additional improvements.
+
+<h1 align="center">Optional Tweaks</h1>
+
+### [Compatibility Patch](https://mega.nz/file/hMdFRJhA#u8qH1EXsZPGD4W8I9LN38KOcWUuTio75frVuXVGmvVo)
+> Install to /GTA San Andreas/modloader/SA Community Map Fixes/
+#### For use with old vanilla saves.
+#### This patch fixes: missing collisions, mission objects being stuck in random places, unconnected LODs.
+#### Keep in mind that this isn't a perfect solution and it still can cause some visual bugs here and there.
+
+### [Alternative Vending Machines](soon)
+> Choose variation and install to /GTA San Andreas/modloader/
+#### If the default ones are boring to you.
+
+### [Classic Pickup Icons](soon)
+> Install to /GTA San Andreas/modloader/
+#### Based version of original icons.
 
 <h1 align="center">Recommended Mods</h1>
 
-- [Script Fixes](https://gtaforums.com/topic/937827-gta-sa-script-fixes-finding-and-fixing-script-glitches/) - Various script fixes releated to story missions.
+### [Script Fixes](https://gtaforums.com/topic/937827-gta-sa-script-fixes-finding-and-fixing-script-glitches/)
+> Install to /GTA San Andreas/modloader/
+#### Aims to fix some script related issues/glitches/bugs left out by Rockstar Games in the PC version of San Andreas.
 
-<h1 align="center">Mods Used</h1>
+<h1 align="center">Mods Used Here</h1>
 
-Used ID ranges: 6526-6862 (337); 12004-12092 (88)
+> Occupied IDs: 6526-6862 (337); 12004-12092 (88)
 
 ## Models:
 - Converted PS2 Models — aap, Tomasak, Inadequate, Mugetsuga, KDST
-- PS2 Map + Fixes : El Dorado, atfburner, The Truth, Reyks, ernestin1
+- PS2 Map + Fixes — El Dorado, atfburner, The Truth, Reyks, ernestin1
 - Proper Fixes — GTA Community
 - Mugetsuga's Fixes — Mugetsuga
 - XBOX Gym Equipment — Mugetsuga
@@ -57,13 +107,14 @@ Used ID ranges: 6526-6862 (337); 12004-12092 (88)
 ## Textures:
 - Cutscene Liberty City Xbox Textures — Blackbird88
 - Neons And Shadows — KDST
-- Optimized Map — Jessica
+- Optimised Map — Jessica
 - Map Textures Fix — YOEL_44, ernestin1, Matt1010, Blackbird88, Sneed, Jessica
 - Single Notes Fix — H-G
 - Pizza Price Fix — kebi
 - Beta Leftovers Fix — MrFinger, Kalvin
 - ORG Patch — DimZet13
 - Candy Suxx Billboard — Mr. Explosive, Eastwood J.C.
+- SA Better Quality Textures - Matt1010
 ## Item Placement:
 - Four Dragons Casino Lamps Fix — kebi
 - LS Railroad Crossings — IvanArsov
@@ -71,7 +122,6 @@ Used ID ranges: 6526-6862 (337); 12004-12092 (88)
 - San Andreas Remapped — Reyks
 ## Data Files:
 - Watts Towers Water Fix — Sanya1990
-- More Realistic Traction — B Dawg
 ## Collisions:
 - Easter Basin Water Fix — Inadequate
 - Escalator Physics Fix — H-G
@@ -79,21 +129,22 @@ Used ID ranges: 6526-6862 (337); 12004-12092 (88)
 - Unofficial Patch — Kurtis, Sleepy93HUN
 
 # Big Thanks To
-- Ash_735, DimZet13, 5d0, Graven, Scooper, Zera for high quality textures
+- Ash_735, DimZet13, 5d0, Graven, Matt1010 for high quality textures
 - 5d0 for differences between platforms reporting and support
 - Inadequate for technical information and fixed models
 - Craccosan for fixed models
+- CarlJohnson(Cj) for improved models and textures
 - sunny driver for fixed collision files
-- direct for original models and textures
+- direct for improved models and textures
 - 4Arty for fixed models
-- Fenton for original models and textures
-- Whokilledcaptainalex? for item placement
+- Fenton for improved models and textures
+- Whokilledcaptainalex? for improved item placement
 - Justin "The Dude" for corona lights reflections
-- Junior and Jessica for motivation and quality control
+- Junior and Jessica for motivation and quality control!!
 - Everybody in [The Warehouse](https://discord.gg/uVsEnha) for feedback, suggestions and support!
 - Rockstar Games for making this great (but rushed) game!
 
-# Current Developers
-- mpPako — 3d modeling, UV-mapping, vertex painting
+# Project Developers
+- mpPako — 3d modeling, UV-mapping, vertex painting, item placement
 - savidge — 3d modeling, UV-mapping, vertex painting, item placement
-- UnitedMel — texture design, UV-mapping, vertex painting
+- UnitedMel — texture design, UV-mapping, vertex painting, item placement
