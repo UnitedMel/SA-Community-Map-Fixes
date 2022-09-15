@@ -2,7 +2,10 @@ name: Upload Release
 
 on:
   push:
-    branches: [ "main" ]
+    branches:
+      - main
+      - addons
+
   workflow_dispatch:
 
 jobs:
@@ -26,7 +29,7 @@ jobs:
       - name: Pack Save Patch
         uses: ThirteenAG/zip-release@master
         with:
-          path: .save-patch/*
+          path: .addons/save-patch/*
           type: 'zip'
           filename: 'cmf-compatibility-patch.zip'
 
