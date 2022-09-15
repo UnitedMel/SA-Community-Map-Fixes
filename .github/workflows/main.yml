@@ -2,9 +2,7 @@ name: Upload Release
 
 on:
   push:
-    branches:
-      - main
-      - addons
+    branches: [ "main" ]
 
   workflow_dispatch:
 
@@ -13,7 +11,6 @@ jobs:
     runs-on: windows-2022
 
     steps:
-      - uses: actions/checkout@v3
       - uses: actions/checkout@v3
         with:
           ref: addons
@@ -30,7 +27,7 @@ jobs:
       - name: Pack Save Patch
         uses: ThirteenAG/zip-release@master
         with:
-          path: .save-patch/*
+          path: .addons/save-patch/*
           type: 'zip'
           filename: 'cmf-compatibility-patch.zip'
           exclusions: '.git .github .main'
