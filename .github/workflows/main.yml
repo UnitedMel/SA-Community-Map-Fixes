@@ -1,0 +1,43 @@
+name: Upload Release
+
+on:
+  push:
+    branches: [ "main" ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: windows-2022
+
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/checkout@v3
+        with:
+          ref: resources
+          path: .resources
+
+      - name: Pack Release
+        uses: ThirteenAG/zip-release@master
+        with:
+          path: ./*
+          type: 'zip'
+          filename: 'cmf_latest.zip'
+          exclusions: '.git .github .readme.md .changelog.md'
+
+      - name: Get Release Info
+        id: release_info
+        uses: cardinalby/git-get-release-action@1.2.2
+        env:
+         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag: latest
+
+      - name: Upload Release
+        uses: ncipollo/release-action@v1
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          allowUpdates: true
+          name: ${{ steps.release_info.outputs.name }}
+          body: ${{ steps.release_info.outputs.body }}
+          tag: ${{ steps.release_info.outputs.tag_name }}
+          artifacts: cmf_latest.zip
