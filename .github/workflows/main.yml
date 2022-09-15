@@ -26,7 +26,7 @@ jobs:
       - name: Pack Save Patch
         uses: ThirteenAG/zip-release@master
         with:
-          path: .save-patch
+          path: .save-patch/*
           type: 'zip'
           filename: 'cmf-compatibility-patch.zip'
 
