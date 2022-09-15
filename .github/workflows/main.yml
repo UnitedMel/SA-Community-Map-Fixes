@@ -14,8 +14,8 @@ jobs:
       - uses: actions/checkout@v3
       - uses: actions/checkout@v3
         with:
-          ref: addons
-          path: .addons
+          ref: tweaks
+          path: .tweaks
 
       - name: Pack Release
         uses: ThirteenAG/zip-release@master
@@ -23,12 +23,12 @@ jobs:
           path: ./*
           type: 'zip'
           filename: 'SA.CommunityMapFixes.zip'
-          exclusions: '.git .github .addons readme.md'
+          exclusions: '.git .github .tweaks readme.md'
           
       - name: Pack Save Patch
         uses: ThirteenAG/zip-release@master
         with:
-          path: .addons/save-patch/*
+          path: .tweaks/save-patch/*
           type: 'zip'
           filename: 'Tweaks.CompatibilityPatch.zip'
           exclusions: '.git .github .main'
@@ -36,7 +36,7 @@ jobs:
       - name: Pack Vending Variants
         uses: ThirteenAG/zip-release@master
         with:
-          path: .addons/vend-variants/*
+          path: .tweaks/vend-variants/*
           type: 'zip'
           filename: 'Tweaks.VendingVariants.zip'
           exclusions: '.git .github .main'
@@ -44,7 +44,7 @@ jobs:
       - name: Pack Classic Pickups
         uses: ThirteenAG/zip-release@master
         with:
-          path: .addons/classic-icons/*
+          path: .tweaks/classic-icons/*
           type: 'zip'
           filename: 'Tweaks.ClassicPickups.zip'
           exclusions: '.git .github .main'
@@ -52,7 +52,7 @@ jobs:
       - name: Pack "The Clam Digger" Billboard
         uses: ThirteenAG/zip-release@master
         with:
-          path: .addons/lcs-billboard/*
+          path: .tweaks/lcs-billboard/*
           type: 'zip'
           filename: 'Tweaks.LCSBillboard.zip'
           exclusions: '.git .github .main'
