@@ -42,7 +42,7 @@
 #### - PS2 Vehicles
 #### - Girlfriends Models Uncut
 
-### [SA Community Map Fixes](https://github.com/UnitedMel/SA-Community-Map-Fixes/releases/download/latest/cmf-latest.zip)
+### [SA Community Map Fixes](https://github.com/UnitedMel/SA-Community-Map-Fixes/releases/download/latest/SA.CommunityMapFixes.zip)
 > Install **SA Community Map Fixes** to /GTA San Andreas/modloader/
 
 > Replace **SALodLights.dat, SALodLights.ini**, **SilentPatchSA.ini**, **SkyGfx.ini** inside /GTA San Andreas/scripts/
@@ -52,17 +52,21 @@
 
 <h1 align="center">Optional Tweaks</h1>
 
-### [Compatibility Patch](https://github.com/UnitedMel/SA-Community-Map-Fixes/releases/download/latest/cmf-compatibility-patch.zip)
+### [Compatibility Patch](https://github.com/UnitedMel/SA-Community-Map-Fixes/releases/download/latest/Tweaks.CompatibilityPatch.zip)
 > Install to /GTA San Andreas/modloader/SA Community Map Fixes/
 #### For use with old vanilla saves.
 #### This patch fixes: missing collisions, mission objects being stuck in random places, unconnected LODs.
 #### Keep in mind that this isn't a perfect solution and it still can cause some visual bugs here and there.
 
-### [Alternative Vending Machines](soon)
+### ["The Clam Digger" Billboard](https://github.com/UnitedMel/SA-Community-Map-Fixes/releases/download/latest/Tweaks.LCSBillboard.zip)
+> Install to /GTA San Andreas/modloader/
+#### Unused LCS billboard. Replaces ZIP billboard in Los Santos. Looks fancy.
+
+### [Vending Machine Variants](https://github.com/UnitedMel/SA-Community-Map-Fixes/releases/download/latest/Tweaks.VendingVariants.zip)
 > Choose variation and install to /GTA San Andreas/modloader/
 #### If the default ones are boring to you.
 
-### [Classic Pickup Icons](soon)
+### [Classic Pickups](https://github.com/UnitedMel/SA-Community-Map-Fixes/releases/download/latest/Tweaks.ClassicPickups.zip)
 > Install to /GTA San Andreas/modloader/
 #### Based version of original icons.
 

@@ -22,15 +22,15 @@ jobs:
         with:
           path: ./*
           type: 'zip'
-          filename: 'cmf-main-latest.zip'
-          exclusions: '.git .github .addons readme.md changelog.md'
+          filename: 'SA.CommunityMapFixes.zip'
+          exclusions: '.git .github .addons readme.md'
           
       - name: Pack Save Patch
         uses: ThirteenAG/zip-release@master
         with:
           path: .addons/save-patch/*
           type: 'zip'
-          filename: 'cmf-compatibility-patch.zip'
+          filename: 'Tweaks.CompatibilityPatch.zip'
           exclusions: '.git .github .main'
           
       - name: Pack Vending Variants
@@ -38,15 +38,15 @@ jobs:
         with:
           path: .addons/vend-variants/*
           type: 'zip'
-          filename: 'cmf-vending-variants.zip'
+          filename: 'Tweaks.VendingVariants.zip'
           exclusions: '.git .github .main'
           
-      - name: Pack Classic Icons
+      - name: Pack Classic Pickups
         uses: ThirteenAG/zip-release@master
         with:
           path: .addons/classic-icons/*
           type: 'zip'
-          filename: 'cmf-classic-icons.zip'
+          filename: 'Tweaks.ClassicPickups.zip'
           exclusions: '.git .github .main'
           
       - name: Pack "The Clam Digger" Billboard
@@ -54,7 +54,7 @@ jobs:
         with:
           path: .addons/lcs-billboard/*
           type: 'zip'
-          filename: 'cmf-lcs-billboard.zip'
+          filename: 'Tweaks.LCSBillboard.zip'
           exclusions: '.git .github .main'
 
       - name: Get Release Info
@@ -73,4 +73,4 @@ jobs:
           name: ${{ steps.release_info.outputs.name }}
           body: ${{ steps.release_info.outputs.body }}
           tag: ${{ steps.release_info.outputs.tag_name }}
-          artifacts: cmf-main-latest.zip,cmf-compatibility-patch.zip,cmf-vending-variants.zip,cmf-classic-icons.zip,cmf-lcs-billboard.zip
+          artifacts: SA.CommunityMapFixes.zip,Tweaks.CompatibilityPatch.zip,Tweaks.VendingVariants.zip,Tweaks.ClassicPickups.zip,Tweaks.LCSBillboard.zip
