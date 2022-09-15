@@ -42,7 +42,7 @@
 #### - PS2 Vehicles
 #### - Girlfriends Models Uncut
 
-### [SA Community Map Fixes](https://github.com/UnitedMel/SA-Community-Map-Fixes/archive/refs/heads/main.zip)
+### [SA Community Map Fixes](https://github.com/UnitedMel/SA-Community-Map-Fixes/releases/download/latest/cmf-latest.zip)
 > Install **SA Community Map Fixes** to /GTA San Andreas/modloader/
 
 > Replace **SALodLights.dat, SALodLights.ini**, **SilentPatchSA.ini**, **SkyGfx.ini** inside /GTA San Andreas/scripts/
@@ -140,6 +140,7 @@
 - Fenton for improved models and textures
 - Whokilledcaptainalex? for improved item placement
 - Justin "The Dude" for corona lights reflections
+- ThirteenAG for github workflow template
 - Junior and Jessica for motivation and quality control!!
 - Everybody in [The Warehouse](https://discord.gg/uVsEnha) for feedback, suggestions and support!
 - Rockstar Games for making this great (but rushed) game!
