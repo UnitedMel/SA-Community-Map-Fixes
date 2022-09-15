@@ -32,6 +32,14 @@ jobs:
           type: 'zip'
           filename: 'cmf-compatibility-patch.zip'
           exclusions: '.git .github .main'
+          
+      - name: Pack Vending Variants
+        uses: ThirteenAG/zip-release@master
+        with:
+          path: .addons/vend-variants/*
+          type: 'zip'
+          filename: 'cmf-vending-variants.zip'
+          exclusions: '.git .github .main'
 
       - name: Get Release Info
         id: release_info
