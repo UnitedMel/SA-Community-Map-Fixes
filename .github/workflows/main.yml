@@ -33,7 +33,7 @@ jobs:
           path: .addons/save-patch/*
           type: 'zip'
           filename: 'cmf-compatibility-patch.zip'
-          exclusions: '.git .github .main
+          exclusions: '.git .github
 
       - name: Get Release Info
         id: release_info
