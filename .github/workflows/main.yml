@@ -66,7 +66,7 @@ jobs:
       - uses: actions/checkout@v3
       - name: Build IMGs
         shell: cmd
-        run: ./build_all.bat
+        run: build_all.bat
 
       - name: Pack IMGs
         uses: ThirteenAG/zip-release@master
@@ -74,7 +74,7 @@ jobs:
           path: .img/*
           type: 'zip'
           filename: 'SA.PCArchivesFix.zip'
-          exclusions: '.git .github .main .tweaks cutscene_img gta3_img gta_int_img build_all.cmd cdimage_v2.py readme.md'
+          exclusions: '.git .github .main .tweaks cutscene_img gta3_img gta_int_img build_all.cmd build_all.bat cdimage_v2.py readme.md'
 
       - name: Get Release Info
         id: release_info
