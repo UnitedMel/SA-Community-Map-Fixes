@@ -19,7 +19,10 @@ jobs:
 
       - name: Build IMGs
         shell: cmd
-        run: pack_all.bat
+        run: |
+          cd .img/.models
+          call build_all.cmd
+          cd ../..
 
       - name: Pack IMGs
         uses: ThirteenAG/zip-release@master
