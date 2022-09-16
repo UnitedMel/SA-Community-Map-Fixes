@@ -39,7 +39,7 @@ jobs:
           type: 'zip'
           filename: 'SA.CommunityMapFixes.zip'
           exclusions: '.git .github .tweaks .img readme.md'
-=
+
       - name: Pack Save Patch
         uses: ThirteenAG/zip-release@master
         with:
