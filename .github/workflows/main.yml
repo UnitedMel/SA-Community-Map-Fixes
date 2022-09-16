@@ -62,9 +62,13 @@ jobs:
         with:
           ref: img
           path: .img
+
       - name: Build IMGs
         shell: cmd
-        run: build_all.bat
+        run: |
+            cd models
+            call build_all.cmd
+            cd ..
 
       - name: Pack IMGs
         uses: ThirteenAG/zip-release@master
