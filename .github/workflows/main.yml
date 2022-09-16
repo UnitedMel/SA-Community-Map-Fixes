@@ -12,25 +12,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
-      - uses: actions/checkout@v3
-        with:
-          ref: img
-          path: .img
-
-      - name: Build IMGs
-        shell: cmd
-        run: |
-          cd .img/.models
-          call build_all.cmd
-          cd ../..
-
-      - name: Pack IMGs
-        uses: ThirteenAG/zip-release@master
-        with:
-          path: .img/*
-          type: 'zip'
-          filename: 'SA.PCArchivesFix.zip'
-          exclusions: '.git .github .main .tweaks .cutscene_img .gta3_img .gta_int_img build_all.cmd pack_all.bat cdimage_v2.py readme.md'
           
       - name: Pack Release
         uses: ThirteenAG/zip-release@master
@@ -76,6 +57,26 @@ jobs:
           type: 'zip'
           filename: 'Tweaks.LCSBillboard.zip'
           exclusions: '.git .github .main .img readme.md'
+
+      - uses: actions/checkout@v3
+        with:
+          ref: img
+          path: .img
+
+      - name: Build IMGs
+        shell: cmd
+        run: |
+          cd .img/.models
+          call build_all.cmd
+          cd ../..
+
+      - name: Pack IMGs
+        uses: ThirteenAG/zip-release@master
+        with:
+          path: .img/*
+          type: 'zip'
+          filename: 'SA.PCArchivesFix.zip'
+          exclusions: '.git .github .main .tweaks .cutscene_img .gta3_img .gta_int_img build_all.cmd pack_all.bat cdimage_v2.py readme.md'
 
       - name: Get Release Info
         id: release_info
