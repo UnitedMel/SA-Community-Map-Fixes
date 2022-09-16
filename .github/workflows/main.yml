@@ -63,11 +63,10 @@ jobs:
           ref: img
           path: .img
 
+      - uses: actions/checkout@v3
       - name: Build IMGs
         shell: cmd
-        run: |
-        cd .img/models
-        call build_all.cmd
+        run: ./build_all.bat
 
       - name: Pack IMGs
         uses: ThirteenAG/zip-release@master
