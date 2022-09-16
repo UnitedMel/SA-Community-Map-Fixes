@@ -8,7 +8,7 @@ on:
 
 jobs:
   build:
-    runs-on: windows-2022
+    runs-on: windows-latest
 
     steps:
       - uses: actions/checkout@v3
@@ -66,9 +66,7 @@ jobs:
       - name: Build IMGs
         shell: cmd
         run: |
-          cd ../models/
-          call build_all.cmd
-          cd ../..
+          cd ./models/build_all.cmd
 
       - name: Pack IMGs
         uses: ThirteenAG/zip-release@master
