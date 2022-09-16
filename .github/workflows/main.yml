@@ -22,7 +22,9 @@ jobs:
           path: .img
 
       - name: Build IMGs
+
         shell: cmd
+        path: .img/*
         run: pack_all.bat
 
       - name: Pack IMGs
