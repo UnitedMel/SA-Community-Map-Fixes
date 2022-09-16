@@ -71,7 +71,7 @@ jobs:
           path: .img/*
           type: 'zip'
           filename: 'SA.PCArchivesFix.zip'
-          exclusions: '.git .github .main .tweaks .cutscene_img .gta3_img .gta_int_img build.cmd cdimage_v2.py readme.md'
+          exclusions: '.git .github .main .tweaks .cutscene_img .gta3_img .gta_int_img build.bat cdimage_v2.py readme.md'
           
       - name: Get Release Info
         id: release_info
