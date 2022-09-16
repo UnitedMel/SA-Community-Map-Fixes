@@ -22,6 +22,18 @@
 #### Patch which fixes large amount of game bugs.
 #### Improves the transition from day to night pre-lighting on models.
 
+### [SkyGfx](https://github.com/aap/skygfx/releases)
+> Install **neo**, **stream.ini** to /GTA San Andreas/
+
+> Install **colorcycle.dat**, to /GTA San Andreas/data/
+
+> Install **Mobile_details.txd**, **texdb.txt** to /GTA San Andreas/models/
+
+> Install **skygfx.asi**, **skygfx1.ini** to /GTA San Andreas/scripts/
+
+#### Brings accurate PS2 and Xbox graphics to the PC version of San Andreas.
+#### Fixes bugs and improves rendering of textures with transparency.
+
 ### [ModLoader](https://github.com/thelink2012/modloader/releases)
 > Install to /GTA San Andreas/
 #### Adds an easy and user-friendly way to install and uninstall modifications into the game.
@@ -40,12 +52,14 @@
 #### - PS2 Styled PC Textures
 #### - Uncompressed Textures From III/VC/MH1
 #### - PS2 Vehicles
-#### - Girlfriends Models Uncut
+#### - Girlfriend Models Uncut
 
 ### [SA Community Map Fixes](https://github.com/UnitedMel/SA-Community-Map-Fixes/releases/download/latest/SA.CommunityMapFixes.zip)
 > Install **SA Community Map Fixes** to /GTA San Andreas/modloader/
 
-> Replace **SALodLights.dat, SALodLights.ini**, **SilentPatchSA.ini**, **SkyGfx.ini** inside /GTA San Andreas/scripts/
+> Replace **SALodLights.dat, SALodLights.ini**, **SilentPatchSA.ini**, **skygfx1.ini** inside /GTA San Andreas/scripts/
+
+> Replace **Mobile_details.txd** inside /GTA San Andreas/models/
 
 > Open GTA: San Andreas and start **New Game**.
 #### Compilation of map bug fixes with additional improvements.
