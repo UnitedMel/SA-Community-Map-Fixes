@@ -13,25 +13,40 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - uses: actions/checkout@v3
+      - uses: actions/checkout@v3
         with:
           ref: tweaks
           path: .tweaks
+          ref: img
+          path: .img
 
+      - name: Build IMGs
+        shell: cmd
+        run: build.bat
+
+      - name: Pack IMGs
+        uses: ThirteenAG/zip-release@master
+        with:
+          path: .img/*
+          type: 'zip'
+          filename: 'SA.PCArchivesFix.zip'
+          exclusions: '.git .github .main .tweaks .cutscene_img .gta3_img .gta_int_img build.cmd cdimage_v2.py readme.md'
+          
       - name: Pack Release
         uses: ThirteenAG/zip-release@master
         with:
           path: ./*
           type: 'zip'
           filename: 'SA.CommunityMapFixes.zip'
-          exclusions: '.git .github .tweaks readme.md'
-          
+          exclusions: '.git .github .tweaks .img readme.md'
+=
       - name: Pack Save Patch
         uses: ThirteenAG/zip-release@master
         with:
           path: .tweaks/save-patch/*
           type: 'zip'
           filename: 'Tweaks.CompatibilityPatch.zip'
-          exclusions: '.git .github .main'
+          exclusions: '.git .github .main .img readme.md'
           
       - name: Pack Vending Variants
         uses: ThirteenAG/zip-release@master
@@ -39,7 +54,7 @@ jobs:
           path: .tweaks/vend-variants/*
           type: 'zip'
           filename: 'Tweaks.VendingVariants.zip'
-          exclusions: '.git .github .main'
+          exclusions: '.git .github .main .img readme.md'
           
       - name: Pack Classic Pickups
         uses: ThirteenAG/zip-release@master
@@ -47,7 +62,7 @@ jobs:
           path: .tweaks/classic-icons/*
           type: 'zip'
           filename: 'Tweaks.ClassicPickups.zip'
-          exclusions: '.git .github .main'
+          exclusions: '.git .github .main .img readme.md'
           
       - name: Pack "The Clam Digger" Billboard
         uses: ThirteenAG/zip-release@master
@@ -55,7 +70,7 @@ jobs:
           path: .tweaks/lcs-billboard/*
           type: 'zip'
           filename: 'Tweaks.LCSBillboard.zip'
-          exclusions: '.git .github .main'
+          exclusions: '.git .github .main .img readme.md'
 
       - name: Get Release Info
         id: release_info
@@ -73,4 +88,4 @@ jobs:
           name: ${{ steps.release_info.outputs.name }}
           body: ${{ steps.release_info.outputs.body }}
           tag: ${{ steps.release_info.outputs.tag_name }}
-          artifacts: SA.CommunityMapFixes.zip,Tweaks.CompatibilityPatch.zip,Tweaks.VendingVariants.zip,Tweaks.ClassicPickups.zip,Tweaks.LCSBillboard.zip
+          artifacts: SA.PCArchivesFix.zip,SA.CommunityMapFixes.zip,Tweaks.CompatibilityPatch.zip,Tweaks.VendingVariants.zip,Tweaks.ClassicPickups.zip,Tweaks.LCSBillboard.zip
