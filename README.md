@@ -43,7 +43,7 @@
 #### Turns whatever previously was limited into unlimited, being only limited by the machine/application capacity.
 #### Adds LOD corona effect to a game map, making LOD-world look a lot better.
 
-### [PC Archives Fix (3.1)](https://mega.nz/file/8I8g1Tra#ee25hFw-X52Y11DOoDZzqCixvV-dTAgivBO9hzrGd6M)
+### [PC Archives Fix (3.2)](https://mega.nz/file/pUMDWLKC#c3u3RdpjTtNK2QaePNhchihhPcpTEFT48QZf7ik4dR8)
 > Install to /GTA San Andreas/
 #### Vanilla IMGs with QOL features. Can be safely used standalone.
 #### What's inside:
