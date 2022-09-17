@@ -3,7 +3,7 @@
 # 6526-6862 (337)
 #
 objs
-6526, smb_sculpture, cmf_LA, 80, 128
+6526, smb_sculpture, dicke, 80, 128
 6529, lae2_ground04_fnc, landlae2e, 200, 2097284
 #6530,
 # do not disable these
@@ -30,36 +30,4 @@ tobj
 6531, elcidhotel_nlight, lightshare, 299, 130, 20, 6
 6532, laeJeffers06_nlight, lightshare, 299, 130, 20, 6
 6533, lasairprt5_nlight, lightshare, 299, 140, 22, 5
-end
-txdp
-#
-#	Shared Textures
-#
-nightlights1_law2, lightshare
-JUICE, vendshare
-CJ_COMMERCIAL, vendshare
-CJ_EXT_VEND, vendshare
-CJ_EXT_VEND2, vendshare
-cooler1, vendshare
-vend, vendshare
-lafuckar, wreckshare
-sw_oldshack, wreckshare
-kickstart, wreckshare
-cs_misc, wreckshare
-#
-# CS/DES
-#
-gen_country, cmf_cunt
-#
-# LA
-#
-gen_LA, cmf_LA
-#
-# SF
-#
-gen_SF, cmf_SF
-#
-# LV
-#
-gen_vegas, cmf_LV
 end
