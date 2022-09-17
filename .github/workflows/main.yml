@@ -58,25 +58,25 @@ jobs:
           filename: 'Tweaks.LCSBillboard.zip'
           exclusions: '.git .github .main .img readme.md'
 
-      - uses: actions/checkout@v3
-        with:
-          ref: img
-          path: .img
-
-      - name: Build IMGs
-        shell: cmd
-        run: |
-            cd models
-            call build_all.cmd
-            cd ..
-
-      - name: Pack IMGs
-        uses: ThirteenAG/zip-release@master
-        with:
-          path: .img/*
-          type: 'zip'
-          filename: 'SA.PCArchivesFix.zip'
-          exclusions: '.git .github .main .tweaks cutscene_img gta3_img gta_int_img build_all.cmd build_all.bat cdimage_v2.py readme.md'
+#      - uses: actions/checkout@v3
+#        with:
+#          ref: img
+#          path: .img
+#
+#      - name: Build IMGs
+#        shell: cmd
+#        run: |
+#            cd models
+#            call build_all.cmd
+#            cd ..
+#
+#      - name: Pack IMGs
+#        uses: ThirteenAG/zip-release@master
+#        with:
+#          path: .img/*
+#          type: 'zip'
+#          filename: 'SA.PCArchivesFix.zip'
+#          exclusions: '.git .github .main .tweaks cutscene_img gta3_img gta_int_img build_all.cmd build_all.bat cdimage_v2.py readme.md'
 
       - name: Get Release Info
         id: release_info
@@ -94,4 +94,4 @@ jobs:
           name: ${{ steps.release_info.outputs.name }}
           body: ${{ steps.release_info.outputs.body }}
           tag: ${{ steps.release_info.outputs.tag_name }}
-          artifacts: SA.PCArchivesFix.zip,SA.CommunityMapFixes.zip,Tweaks.CompatibilityPatch.zip,Tweaks.VendingVariants.zip,Tweaks.ClassicPickups.zip,Tweaks.LCSBillboard.zip
+          artifacts: SA.CommunityMapFixes.zip,Tweaks.CompatibilityPatch.zip,Tweaks.VendingVariants.zip,Tweaks.ClassicPickups.zip,Tweaks.LCSBillboard.zip
