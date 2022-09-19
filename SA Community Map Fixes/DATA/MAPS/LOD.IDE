@@ -3,12 +3,6 @@
 # 12004-12092 (88)
 #
 objs
-783, lod_vegvbbigbrn, lod_vegb, 1600, 2097284
-784, lod_redwoodgrp, lod_vegb, 1600, 2097284
-785, lod_vbg_fir_co, lod_vegb, 1600, 2097284
-786, lod_largefurs06, lod_vegb, 1600, 2097284
-787, lod_largefurs07, lod_vegb, 1600, 2097284
-788, lod_largefurs05, lod_vegb, 1600, 2097284
 12004, lodveg_tree7vbig, lod_vegb, 1000, 2097284
 12005, lodveg_palwee03, lod_vegb, 1000, 2097284
 12006, lodveg_tree3, lod_vegb, 1000, 2097284
