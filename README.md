@@ -56,7 +56,7 @@
 #### - PS2 Styled PC Textures
 #### - Uncompressed Textures From III/VC/MH1
 #### - Unpatched Girlfriend Models
-#### - PS2 Vehicles Models
+#### - PS2 Vehicle Models
 #### - PS2 Timecycle
 #### - PS2 Ped Behaviour
 
