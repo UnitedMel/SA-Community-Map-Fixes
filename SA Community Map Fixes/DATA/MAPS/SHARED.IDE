@@ -36,5 +36,6 @@ gen_vegas,			cmf_LV
 cj_kitchen,			cmf_INT
 cj_office,			cmf_INT
 skate_shop,			cmf_INT
+trailerkb,			cmf_INT
 ;
 end

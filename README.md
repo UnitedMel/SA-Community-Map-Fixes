@@ -43,6 +43,10 @@
 #### Turns whatever previously was limited into unlimited, being only limited by the machine/application capacity.
 #### Adds LOD corona effect to a game map, making LOD-world look a lot better.
 
+### [CLEO](https://github.com/cleolibrary/CLEO4/releases)
+> Install **cleo**, **bass.dll**, **cleo.asi** to /GTA San Andreas/
+#### Library plugin which brings new possibilities in scripting, allowing the use of thousands of unique mods which change or expand the gameplay.
+
 ### [PC Archives Fix (3.2)](https://mega.nz/file/pUMDWLKC#c3u3RdpjTtNK2QaePNhchihhPcpTEFT48QZf7ik4dR8)
 > Install to /GTA San Andreas/
 #### Vanilla IMGs with QOL features. Can be safely used standalone.
@@ -57,7 +61,7 @@
 ### [SA Community Map Fixes](https://github.com/UnitedMel/SA-Community-Map-Fixes/releases/download/latest/SA.CommunityMapFixes.zip)
 > Install **SA Community Map Fixes** to /GTA San Andreas/modloader/
 
-> Replace **SALodLights.dat, SALodLights.ini**, **SilentPatchSA.ini**, **skygfx1.ini** inside /GTA San Andreas/scripts/
+> Replace **scripts** folder inside /GTA San Andreas/
 
 > Replace **Mobile_details.txd** inside /GTA San Andreas/models/
 
@@ -86,6 +90,10 @@
 
 <h1 align="center">Recommended Mods</h1>
 
+### [PS2 Timecycle](https://drive.google.com/uc?id=1wFhHexi_CPxLztYAakoG839sn_dRmBXY&export=download&authuser=0)
+> Install to  /GTA San Andreas/data
+#### Restores some broken values or totally missing in the PC. Recommeded to be used with SkyGfx.
+
 ### [Script Fixes](https://gtaforums.com/topic/937827-gta-sa-script-fixes-finding-and-fixing-script-glitches/)
 > Install to /GTA San Andreas/modloader/
 #### Aims to fix some script related issues/glitches/bugs left out by Rockstar Games in the PC version of San Andreas.
@@ -93,6 +101,11 @@
 <h1 align="center">Mods Used Here</h1>
 
 > Occupied IDs: 6526-6862 (337); 12004-12092 (88)
+
+## Scripts:
+- Trailer Park — Rocky24pl
+- GRGX Script — Link2012
+- ENEX Script — Silent
 
 ## Models:
 - Converted PS2 Models — aap, Tomasak, Inadequate, Mugetsuga, KDST
@@ -118,10 +131,11 @@
 - LitChurch — Zeneric
 - Welcome to Las Venturas Sign Remastered — Andrey 50 AND
 - Animated Airport Radar — avals343
-- avals343's Model Fixes - avals343
-- Junkyard Crusher - Rocky24pl
-- San Andreas: BETA Edition - Kalvin
-- Restored Mailboxes - The CA-studio
+- avals343's Model Fixes — avals343
+- Junkyard Crusher — Rocky24pl
+- San Andreas: BETA Edition — Kalvin
+- Restored Mailboxes — The CA-studio
+- Исправление разных текстур (Various Textures Fix) — Таир
 ## Textures:
 - Cutscene Liberty City Xbox Textures — Blackbird88
 - Neons And Shadows — KDST
@@ -132,7 +146,7 @@
 - Beta Leftovers Fix — MrFinger, Kalvin
 - ORG Patch — DimZet13
 - Candy Suxx Billboard — Mr. Explosive, Eastwood J.C.
-- SA Better Quality Textures - Matt1010
+- SA Better Quality Textures — Matt1010
 ## Item Placement:
 - Four Dragons Casino Lamps Fix — kebi
 - LS Railroad Crossings — IvanArsov

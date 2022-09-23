@@ -23,6 +23,14 @@ objs
 6546, doc_crane_leggs, flatterthanpizza, 299, 4
 6547, doc_crane_cab, flatterthanpizza, 299, 4
 6548, crushertop, flatterthanpizza, 299, 0
+6549, trailer_safehouse, trailers, 200, 0
+6550, trailer_safewindows, trailerkb, 50, 4
+6551, trailer_garage, trailers, 299, 0
+6552, trailer_garagedoor, contachou1_lae2, 200, 2048
+6553, trailer_safestairs, trailers, 100, 0
+6554, LODtrailer_safehus, lod_cxref, 500, 0
+6555, LODtrailer_garage, CE_burbLOD, 500, 0
+6556, kb_tr_bits2, tr_kb_bits, 50, 0
 end
 tobj
 6527, bowln, neonshare, 225, 4, 20, 6
