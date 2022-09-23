@@ -47,16 +47,18 @@
 > Install **cleo**, **bass.dll**, **cleo.asi** to /GTA San Andreas/
 #### Library plugin which brings new possibilities in scripting, allowing the use of thousands of unique mods which change or expand the gameplay.
 
-### [PC Archives Fix (3.2)](https://mega.nz/file/pUMDWLKC#c3u3RdpjTtNK2QaePNhchihhPcpTEFT48QZf7ik4dR8)
+### [PC Archives Patch (3.3)](https://mega.nz/file/YZ0TUBgI#NMX9GPfVZtpR-N_i0tp47iN9TZg528nz5OCdOVGx9DU)
 > Install to /GTA San Andreas/
-#### Vanilla IMGs with QOL features. Can be safely used standalone.
+#### Vanilla IMGs with QOL features and restored values from PS2. Can be safely used standalone.
 #### What's inside:
 #### - Texture MipMaps
 #### - TXDP Generics (Optimised Map)
 #### - PS2 Styled PC Textures
 #### - Uncompressed Textures From III/VC/MH1
-#### - PS2 Vehicles
-#### - Girlfriend Models Uncut
+#### - Unpatched Girlfriend Models
+#### - PS2 Vehicles Models
+#### - PS2 Timecycle
+#### - PS2 Ped Behaviour
 
 ### [SA Community Map Fixes](https://github.com/UnitedMel/SA-Community-Map-Fixes/releases/download/latest/SA.CommunityMapFixes.zip)
 > Install **SA Community Map Fixes** to /GTA San Andreas/modloader/
@@ -89,10 +91,6 @@
 #### Based version of original icons.
 
 <h1 align="center">Recommended Mods</h1>
-
-### [PS2 Timecycle](https://drive.google.com/uc?id=1wFhHexi_CPxLztYAakoG839sn_dRmBXY&export=download&authuser=0)
-> Install to  /GTA San Andreas/data
-#### Restores some broken values or totally missing in the PC. Recommeded to be used with SkyGfx.
 
 ### [Script Fixes](https://gtaforums.com/topic/937827-gta-sa-script-fixes-finding-and-fixing-script-glitches/)
 > Install to /GTA San Andreas/modloader/
