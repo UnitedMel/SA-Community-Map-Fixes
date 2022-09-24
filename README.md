@@ -10,6 +10,8 @@
 
 <h1 align="center">Requirements & Installation Process</h1>
 
+> Supported exe version: 1.0 US
+
 ### [Ultimate ASI Loader and WidescreenFix](https://github.com/ThirteenAG/WidescreenFixesPack/releases/tag/gtasa)
 > Install **vorbisFile.dll** to /GTA San Andreas/
 
@@ -49,16 +51,17 @@
 
 ### [PC Archives Patch (3.3)](https://mega.nz/file/YZ0TUBgI#NMX9GPfVZtpR-N_i0tp47iN9TZg528nz5OCdOVGx9DU)
 > Install to /GTA San Andreas/
-#### Vanilla IMGs with QOL features and restored values from PS2. Can be safely used standalone.
-#### What's inside:
-#### - Texture MipMaps
-#### - TXDP Generics (Optimised Map)
-#### - PS2 Styled PC Textures
-#### - Uncompressed Textures From III/VC/MH1
-#### - Unpatched Girlfriend Models
-#### - PS2 Vehicle Models
-#### - PS2 Timecycle
-#### - PS2 Ped Behaviour
+#### Image archives based on 1.0 US version of GTA San Andreas with optimised textures and restored values from PS2.
+#### Can be safely used standalone.
+#### Features:
+- Texture MipMaps
+- TXDP Generic Texture Loading
+- Uncompressed Textures From III/VC/MH1
+- Hot Coffee Assets
+- PS2-Styled PC Textures
+- PS2 Vehicle Models
+- PS2 Timecycle
+- PS2 Ped Behaviour
 
 ### [SA Community Map Fixes](https://github.com/UnitedMel/SA-Community-Map-Fixes/releases/download/latest/SA.CommunityMapFixes.zip)
 > Install **SA Community Map Fixes** to /GTA San Andreas/modloader/
@@ -69,6 +72,7 @@
 
 > Open GTA: San Andreas and start **New Game**.
 #### Compilation of map bug fixes with additional improvements.
+#### *Additionally it comes with pre-configured .ini files, which we recommend to use or at least try :)*
 
 <h1 align="center">Optional Tweaks</h1>
 
@@ -95,6 +99,34 @@
 ### [Script Fixes](https://gtaforums.com/topic/937827-gta-sa-script-fixes-finding-and-fixing-script-glitches/)
 > Install to /GTA San Andreas/modloader/
 #### Aims to fix some script related issues/glitches/bugs left out by Rockstar Games in the PC version of San Andreas.
+
+### [aap's PortableGTA](http://gta.rockstarvision.com/workshop/portablegta.dll)
+> Install **portablegta.dll** to /GTA San Andreas/scripts/
+
+> Rename **portablegta.dll** to **portablegta.asi** (If you don't know how to do it, search "Enabling File Extensions")
+#### Makes III/VC/SA use gamedir/userfiles instead of "My Documents/GTA bla User Files".
+
+### [SkyGrad](https://www.dropbox.com/s/e4493knjlbltptm/skygrad.rar)
+> Install **skygrad.asi** to /GTA San Andreas/scripts/
+#### Fixes sky banding that made the gradient looking blocky.
+
+### [Vehicle Lights Fix](https://www.dropbox.com/s/lyyays2yulz71n7/vehlightsfix.rar)
+> Install **vehlightsfix.asi** to /GTA San Andreas/scripts/
+#### Fixes headlights and taillights rendering bugs. (Not compatible with Fastman Limit Adjuster!)
+
+### [GInput](https://cookieplmonster.github.io/mods/gta-sa/)
+> Install **ps3btns.txd**, **sixaxis.txd**, **x360btns.txd** to /GTA San Andreas/models/
+
+> Install **GInputSA.asi**, **GInputSA.ini** to /GTA San Andreas/scripts/
+#### Completely rewrites GTA controls handling. This way, your PlayStation 3 and XBOX 360 gamepads will be handled by the game just perfectly.
+
+### [SkyUI](https://gtaforums.com/topic/899738-skyui/)
+> Install **fronten1.txd**, **hud.txd** to /GTA San Andreas/models/
+
+> Install **text** folder to /GTA San Andreas/
+
+> Install **skyui.asi** to /GTA San Andreas/scripts
+#### This plugin aims to bring a most accurate version of the PS2/Xbox User Interface to PC.
 
 <h1 align="center">Mods Used Here</h1>
 
@@ -131,13 +163,14 @@
 - Animated Airport Radar — avals343
 - avals343's Model Fixes — avals343
 - Junkyard Crusher — Rocky24pl
+- Trailer Park — Rocky24pl
 - San Andreas: BETA Edition — Kalvin
 - Restored Mailboxes — The CA-studio
 - Исправление разных текстур (Various Textures Fix) — Таир
 ## Textures:
 - Cutscene Liberty City Xbox Textures — Blackbird88
 - Neons And Shadows — KDST
-- Optimised Map — Jessica
+- Optimized Map — Jessica
 - Map Textures Fix — YOEL_44, ernestin1, Matt1010, Blackbird88, Sneed, Jessica
 - Single Notes Fix — H-G
 - Pizza Price Fix — kebi
