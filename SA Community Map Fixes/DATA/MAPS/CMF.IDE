@@ -31,6 +31,15 @@ objs
 6554, LODtrailer_safehus, lod_cxref, 500, 0
 6555, LODtrailer_garage, CE_burbLOD, 500, 0
 6556, kb_tr_bits2, tr_kb_bits, 50, 0
+6557, ce_safeglas, lahills_safe1, 299, 196
+6558, ce_safehaus_int, lahills_safe1, 299, 0
+6559, ce_safeshad, lahills_safe1, 299, 232
+6560, cj_mlight17, cj_lighting, 299, 128
+6561, cj_mulfurn1, lahills_safe1, 299, 128
+6562, cj_mulfurn2, lahills_safe1, 299, 128
+6563, cj_mulfurn3, lahills_safe1, 299, 136
+6564, cj_mulfurn4, lahills_safe1, 299, 128
+6565, cj_mulplant, lahills_safe1, 299, 128
 end
 tobj
 6527, bowln, neonshare, 225, 4, 20, 6
@@ -38,4 +47,5 @@ tobj
 6531, elcidhotel_nlight, lightshare, 299, 130, 20, 6
 6532, laeJeffers06_nlight, lightshare, 299, 130, 20, 6
 6533, lasairprt5_nlight, lightshare, 299, 140, 22, 5
+6566, ce_safeglas2, lahills_safe1, 299, 2, 21, 6
 end

@@ -133,9 +133,10 @@
 > Occupied IDs: 6526-6862 (337); 12004-12092 (88)
 
 ## Scripts:
-- Trailer Park — Rocky24pl
 - GRGX Script — Link2012
 - ENEX Script — Silent
+- Beta Mulholland Safehouse — Kalvin, CML99, Robson Martins
+- Trailer Park — Rocky24pl
 
 ## Models:
 - Converted PS2 Models — aap, Tomasak, Inadequate, Mugetsuga, KDST
@@ -164,9 +165,10 @@
 - avals343's Model Fixes — avals343
 - Junkyard Crusher — Rocky24pl
 - Trailer Park — Rocky24pl
-- San Andreas: BETA Edition — Kalvin
+- San Andreas: Beta Edition — Kalvin
 - Restored Mailboxes — The CA-studio
 - Исправление разных текстур (Various Textures Fix) — Таир
+- Beta Mulholland Safehouse — Kalvin, CML99, Robson Martins
 ## Textures:
 - Cutscene Liberty City Xbox Textures — Blackbird88
 - Neons And Shadows — KDST
