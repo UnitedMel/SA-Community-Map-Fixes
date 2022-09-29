@@ -180,7 +180,7 @@
 - ORG Patch — DimZet13
 - Candy Suxx Billboard — Mr. Explosive, Eastwood J.C.
 - SA Better Quality Textures — Matt1010
-## Item Placement:
+## Prop Placement:
 - Four Dragons Casino Lamps Fix — kebi
 - LS Railroad Crossings — IvanArsov
 - LOD Vegetation — Junior_Djjr
@@ -194,18 +194,22 @@
 - Unofficial Patch — Kurtis, Sleepy93HUN
 
 # Big Thanks To
-- Ash_735, DimZet13, 5d0, Graven, Matt1010 for high quality textures
-- 5d0 for differences between platforms reporting and support
-- Inadequate for technical information and fixed models
-- Craccosan for fixed models
-- CarlJohnson(Cj) for improved models and textures
-- sunny driver for fixed collision files
-- direct for improved models and textures
 - 4Arty for fixed models
+- 5d0 for high quality textures, differences between platforms reporting and support
+- Ash_735 for high quality textures
+- CarlJohnson(Cj) for improved models and textures
+- Craccosan for fixed models
+- DimZet13 for high quality textures
 - Fenton for improved models and textures
-- Whokilledcaptainalex? for improved item placement
+- Graven for high quality textures
+- Inadequate for technical information and fixed models
 - Justin "The Dude" for corona lights reflections
+- Matt1010 for high quality textures
+- Reyks for improved IDE flags and collisions
 - ThirteenAG for github workflow template
+- Whokilledcaptainalex? for IPL prop placements
+- direct for improved models and textures
+- sunny driver for fixed collisions
 - Junior and Jessica for motivation and quality control!!
 - Everybody in [The Warehouse](https://discord.gg/uVsEnha) for feedback, suggestions and support!
 - Rockstar Games for making this great (but rushed) game!
