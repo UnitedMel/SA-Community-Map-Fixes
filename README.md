@@ -194,27 +194,27 @@
 - Unofficial Patch — Kurtis, Sleepy93HUN
 
 # Big Thanks To
-- 4Arty for fixed models
-- 5d0 for high quality textures, differences between platforms reporting and support
-- Ash_735 for high quality textures
-- CarlJohnson(Cj) for improved models and textures
-- Craccosan for fixed models
-- DimZet13 for high quality textures
-- Fenton for improved models and textures
-- Graven for high quality textures
-- Inadequate for technical information and fixed models
-- Justin "The Dude" for corona lights reflections
-- Matt1010 for high quality textures
-- Reyks for improved IDE flags and collisions
-- ThirteenAG for github workflow template
-- Whokilledcaptainalex? for IPL prop placements
-- direct for improved models and textures
-- sunny driver for fixed collisions
-- Junior and Jessica for motivation and quality control!!
-- Everybody in [The Warehouse](https://discord.gg/uVsEnha) for feedback, suggestions and support!
-- Rockstar Games for making this great (but rushed) game!
+- **4Arty** for fixed models
+- **5d0** for high quality textures, differences between platforms reporting and support
+- **Ash_735** for high quality textures
+- **CarlJohnson(Cj)** for improved models and textures
+- **Craccosan** for fixed models
+- **DimZet13** for high quality textures
+- **Fenton** for improved models and textures
+- **Graven** for high quality textures
+- **Inadequate** for technical information and fixed models
+- **Justin "The Dude"** for corona lights reflections
+- **Matt1010** for high quality textures
+- **Reyks** for improved IDE flags and collisions
+- **ThirteenAG** for github workflow template
+- **Whokilledcaptainalex?** for IPL prop placements
+- **direct** for improved models and textures
+- **sunny driver** for fixed collisions
+- **Junior** and **Jessica** for motivation and quality control!!
+- **Everybody** in [The Warehouse](https://discord.gg/uVsEnha) for feedback, suggestions and support!
+- **Rockstar Games** for making this great (but rushed) game!
 
 # Project Developers
-- mpPako — 3d modeling, UV-mapping, vertex painting, item placement
-- savidge — 3d modeling, UV-mapping, vertex painting, item placement
-- UnitedMel — texture design, UV-mapping, vertex painting, item placement
+- **mpPako** — 3d modeling, UV-mapping, vertex painting, prop placement
+- **savidge** — 3d modeling, UV-mapping, vertex painting, prop placement
+- **UnitedMel** — texture design, UV-mapping, vertex painting, prop placement
