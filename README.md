@@ -97,7 +97,7 @@
 
 > Rename **portablegta.dll** to **portablegta.asi** (If you don't know how to do it, search "Enabling File Extensions")
 #### Makes III/VC/SA use gamedir/userfiles instead of "My Documents/GTA bla User Files".
-#### *If link dosen't work for you, manually copy and paste it to a search bar*
+#### *If the link doesn't work, manually copy and paste it into search bar*
 
 ### [SkyGrad](https://www.dropbox.com/s/e4493knjlbltptm/skygrad.rar)
 > Install **skygrad.asi** to /GTA San Andreas/scripts/
