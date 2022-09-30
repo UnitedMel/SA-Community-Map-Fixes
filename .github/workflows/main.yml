@@ -26,13 +26,13 @@ jobs:
           ref: tweaks
           path: .tweaks
 
-      - name: Pack Save Patch
-        uses: ThirteenAG/zip-release@master
-        with:
-          path: .tweaks/save-patch/*
-          type: 'zip'
-          filename: 'Tweaks.CompatibilityPatch.zip'
-          exclusions: '.git .github .main .img readme.md'
+#      - name: Pack Save Patch
+#        uses: ThirteenAG/zip-release@master
+#        with:
+#          path: .tweaks/save-patch/*
+#          type: 'zip'
+#          filename: 'Tweaks.CompatibilityPatch.zip'
+#          exclusions: '.git .github .main .img readme.md'
           
       - name: Pack Vending Variants
         uses: ThirteenAG/zip-release@master
@@ -94,4 +94,4 @@ jobs:
           name: ${{ steps.release_info.outputs.name }}
           body: ${{ steps.release_info.outputs.body }}
           tag: ${{ steps.release_info.outputs.tag_name }}
-          artifacts: SA.CommunityMapFixes.zip,Tweaks.CompatibilityPatch.zip,Tweaks.VendingVariants.zip,Tweaks.ClassicPickups.zip,Tweaks.LCSBillboard.zip
+          artifacts: SA.CommunityMapFixes.zip,Tweaks.VendingVariants.zip,Tweaks.ClassicPickups.zip,Tweaks.LCSBillboard.zip

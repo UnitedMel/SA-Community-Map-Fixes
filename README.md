@@ -57,7 +57,6 @@
 - Texture MipMaps
 - TXDP Generic Texture Loading
 - Uncompressed Textures From III/VC/MH1
-- Hot Coffee Assets
 - PS2-Styled PC Textures
 - PS2 Vehicle Models
 - PS2 Timecycle
@@ -69,22 +68,10 @@
 > Replace **scripts** folder inside /GTA San Andreas/
 
 > Replace **Mobile_details.txd** inside /GTA San Andreas/models/
-
-> Open GTA: San Andreas and start **New Game**.
 #### Compilation of map bug fixes with additional improvements.
 #### *Additionally it comes with pre-configured .ini files, which we recommend to use or at least try :)*
 
 <h1 align="center">Optional Tweaks</h1>
-
-### [Compatibility Patch](https://github.com/UnitedMel/SA-Community-Map-Fixes/releases/download/latest/Tweaks.CompatibilityPatch.zip)
-> Install to /GTA San Andreas/modloader/SA Community Map Fixes/
-#### For use with old vanilla saves.
-#### This patch fixes: missing collisions, mission objects being stuck in random places, unconnected LODs.
-#### Keep in mind that this isn't a perfect solution and it still can cause some visual bugs here and there.
-
-### ["The Clam Digger" Billboard](https://github.com/UnitedMel/SA-Community-Map-Fixes/releases/download/latest/Tweaks.LCSBillboard.zip)
-> Install to /GTA San Andreas/modloader/
-#### Unused LCS billboard. Replaces ZIP billboard in Los Santos. Looks fancy.
 
 ### [Vending Machine Variants](https://github.com/UnitedMel/SA-Community-Map-Fixes/releases/download/latest/Tweaks.VendingVariants.zip)
 > Choose variation and install to /GTA San Andreas/modloader/
@@ -92,7 +79,12 @@
 
 ### [Classic Pickups](https://github.com/UnitedMel/SA-Community-Map-Fixes/releases/download/latest/Tweaks.ClassicPickups.zip)
 > Install to /GTA San Andreas/modloader/
-#### Based version of original icons.
+#### III/VC/LCS/VCS styled pickup icons.
+
+### ["The Clam Digger" Billboard](https://github.com/UnitedMel/SA-Community-Map-Fixes/releases/download/latest/Tweaks.LCSBillboard.zip)
+> Install to /GTA San Andreas/modloader/
+#### Unused LCS billboard. Replaces ZIP billboard in Los Santos. Looks fancy.
+
 
 <h1 align="center">Recommended Mods</h1>
 
@@ -105,6 +97,7 @@
 
 > Rename **portablegta.dll** to **portablegta.asi** (If you don't know how to do it, search "Enabling File Extensions")
 #### Makes III/VC/SA use gamedir/userfiles instead of "My Documents/GTA bla User Files".
+#### *If link dosen't work for you, manually copy and paste it to a search bar*
 
 ### [SkyGrad](https://www.dropbox.com/s/e4493knjlbltptm/skygrad.rar)
 > Install **skygrad.asi** to /GTA San Andreas/scripts/
