@@ -49,7 +49,7 @@
 > Install **cleo**, **bass.dll**, **cleo.asi** to /GTA San Andreas/
 #### Library plugin which brings new possibilities in scripting, allowing the use of thousands of unique mods which change or expand the gameplay.
 
-### [PC Archives Patch (3.3)](https://mega.nz/file/YZ0TUBgI#NMX9GPfVZtpR-N_i0tp47iN9TZg528nz5OCdOVGx9DU)
+### [PC Archives Patch (3.4)](https://mega.nz/file/gNlAgLIZ#cXgx5Z9-DQDD8aMMk3V0TXBhYlq8LmDQK75Zn9yAFrk)
 > Install to /GTA San Andreas/
 #### Image archives based on 1.0 US version of GTA San Andreas with optimised textures and restored values from PS2.
 #### Can be safely used standalone.
