@@ -19,7 +19,7 @@ jobs:
           path: ./*
           type: 'zip'
           filename: 'SA.CommunityMapFixes.zip'
-          exclusions: '.git .github .tweaks .img readme.md'
+          exclusions: '.git .github .tweaks .img readme.md guide.md'
 
       - uses: actions/checkout@v3
         with:
@@ -32,7 +32,7 @@ jobs:
 #          path: .tweaks/save-patch/*
 #          type: 'zip'
 #          filename: 'Tweaks.CompatibilityPatch.zip'
-#          exclusions: '.git .github .main .img readme.md'
+#          exclusions: '.git .github .main .img readme.md guide.md'
           
       - name: Pack Vending Variants
         uses: ThirteenAG/zip-release@master
@@ -40,7 +40,7 @@ jobs:
           path: .tweaks/vend-variants/*
           type: 'zip'
           filename: 'Tweaks.VendingVariants.zip'
-          exclusions: '.git .github .main .img readme.md'
+          exclusions: '.git .github .main .img readme.md guide.md'
           
       - name: Pack Classic Pickups
         uses: ThirteenAG/zip-release@master
@@ -48,16 +48,16 @@ jobs:
           path: .tweaks/classic-icons/*
           type: 'zip'
           filename: 'Tweaks.ClassicPickups.zip'
-          exclusions: '.git .github .main .img readme.md'
+          exclusions: '.git .github .main .img readme.md guide.md'
           
-      - name: Pack "The Clam Digger" Billboard
-        uses: ThirteenAG/zip-release@master
-        with:
-          path: .tweaks/lcs-billboard/*
-          type: 'zip'
-          filename: 'Tweaks.LCSBillboard.zip'
-          exclusions: '.git .github .main .img readme.md'
-
+#     - name: Pack "The Clam Digger" Billboard
+#       uses: ThirteenAG/zip-release@master
+#       with:
+#         path: .tweaks/lcs-billboard/*
+#         type: 'zip'
+#         filename: 'Tweaks.LCSBillboard.zip'
+#         exclusions: '.git .github .main .img readme.md guide.md'
+#
 #      - uses: actions/checkout@v3
 #        with:
 #          ref: img
@@ -94,4 +94,4 @@ jobs:
           name: ${{ steps.release_info.outputs.name }}
           body: ${{ steps.release_info.outputs.body }}
           tag: ${{ steps.release_info.outputs.tag_name }}
-          artifacts: SA.CommunityMapFixes.zip,Tweaks.VendingVariants.zip,Tweaks.ClassicPickups.zip,Tweaks.LCSBillboard.zip
+          artifacts: SA.CommunityMapFixes.zip,Tweaks.VendingVariants.zip,Tweaks.ClassicPickups.zip

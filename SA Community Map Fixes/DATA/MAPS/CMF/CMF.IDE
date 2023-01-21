@@ -40,6 +40,19 @@ objs
 6563, cj_mulfurn3, lahills_safe1, 299, 136
 6564, cj_mulfurn4, lahills_safe1, 299, 128
 6565, cj_mulplant, lahills_safe1, 299, 128
+# junior the biggest? gtaforums mafia sends their regards.
+6567, telewires4cs, cw_wires2cs_t, 299, 2097156
+6568, telewires5cs, cw_wires2cs_t, 299, 2097156
+6569, telewires6cs, cw_wires2cs_t, 299, 2097156
+6570, telewires7cs, cw_wires2cs_t, 299, 2097156
+6571, telewires8cs, cw_wires2cs_t, 299, 2097156
+6572, telewires9cs, cw_wires2cs_t, 299, 2097156
+6573, telewires10cs, cw_wires2cs_t, 299, 2097156
+6574, telewires11cs, cw_wires2cs_t, 299, 2097156
+6575, telewires12cs, cw_wires2cs_t, 299, 2097156
+6576, telewires13cs, cw_wires2cs_t, 299, 2097156
+6577, telewires14cs, cw_wires2cs_t, 299, 2097156
+6578, telewires15cs, cw_wires2cs_t, 299, 2097156
 end
 tobj
 6527, bowln, neonshare, 225, 4, 20, 6
