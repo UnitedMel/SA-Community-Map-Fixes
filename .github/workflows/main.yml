@@ -3,17 +3,16 @@ name: Upload Release
 on:
   push:
     branches: [ "main" ]
-    
   workflow_dispatch:
   
 jobs:
-    build:
+  build:
     runs-on: windows-latest
     
     steps:
-        - uses: actions/checkout@v3
+      - uses: actions/checkout@v3
           
-        - name: Pack Release
+      - name: Pack Release
         uses: ThirteenAG/zip-release@master
         with:
           path: ./*
@@ -21,12 +20,12 @@ jobs:
           filename: 'SA.CommunityMapFixes.zip'
           exclusions: '.git .github .tweaks .img .ini readme.md guide.md'
 
-        - uses: actions/checkout@v3
+      - uses: actions/checkout@v3
         with:
           ref: tweaks
           path: .tweaks
 
-        - name: Pack Vending Variants
+      - name: Pack Vending Variants
         uses: ThirteenAG/zip-release@master
         with:
           path: .tweaks/vend-variants/*
@@ -34,7 +33,7 @@ jobs:
           filename: 'Tweaks.VendingVariants.zip'
           exclusions: '.git .github .main .img readme.md guide.md'
 
-        - name: Pack Classic Pickups
+      - name: Pack Classic Pickups
         uses: ThirteenAG/zip-release@master
         with:
           path: .tweaks/classic-icons/*
@@ -42,7 +41,7 @@ jobs:
           filename: 'Tweaks.ClassicPickups.zip'
           exclusions: '.git .github .main .img readme.md guide.md'
 
-        - name: Pack "The Clam Digger" Billboard
+      - name: Pack "The Clam Digger" Billboard
         uses: ThirteenAG/zip-release@master
         with:
          path: .tweaks/lcs-billboard/*
@@ -50,44 +49,44 @@ jobs:
          filename: 'Tweaks.LCSBillboard.zip'
          exclusions: '.git .github .main .img readme.md guide.md'
 
-#        - uses: actions/checkout@v3
-#        with:
-#          ref: ini
-#          path: .ini
-#
-#        - name: Pack WidescreenFix Pre-configured INI
-#        uses: ThirteenAG/zip-release@master
-#        with:
-#         path: .ini/wsfix/*
-#         type: 'zip'
-#         filename: 'INI.WidescreenFix.zip'
-#         exclusions: '.git .github .main .tweaks .img readme.md guide.md'
-#
-#        - name: Pack Project2DFX Pre-configured INI
-#        uses: ThirteenAG/zip-release@master
-#        with:
-#         path: .ini/p2dfx/*
-#         type: 'zip'
-#         filename: 'INI.Project2DFX.zip'
-#         exclusions: '.git .github .main .tweaks .img readme.md guide.md'
-#
-#        - name: Pack SilentPatch Pre-configured INI
-#        uses: ThirteenAG/zip-release@master
-#        with:
-#         path: .ini/silentpatch/*
-#         type: 'zip'
-#         filename: 'INI.SilentPatch.zip'
-#         exclusions: '.git .github .main .tweaks .img readme.md guide.md'
-#
-#        - name: Pack SkyGfx Pre-configured INI
-#        uses: ThirteenAG/zip-release@master
-#        with:
-#         path: .ini/skygfx/*
-#         type: 'zip'
-#         filename: 'INI.SkyGfx.zip'
-#         exclusions: '.git .github .main .tweaks .img readme.md guide.md'
+      - uses: actions/checkout@v3
+        with:
+          ref: ini
+          path: .ini
 
-        - name: Get Release Info
+      - name: Pack WidescreenFix Pre-configured INI
+        uses: ThirteenAG/zip-release@master
+        with:
+         path: .ini/wsfix/*
+         type: 'zip'
+         filename: 'INI.WidescreenFix.zip'
+         exclusions: '.git .github .main .tweaks .img readme.md guide.md'
+
+      - name: Pack Project2DFX Pre-configured INI
+        uses: ThirteenAG/zip-release@master
+        with:
+         path: .ini/p2dfx/*
+         type: 'zip'
+         filename: 'INI.Project2DFX.zip'
+         exclusions: '.git .github .main .tweaks .img readme.md guide.md'
+
+      - name: Pack SilentPatch Pre-configured INI
+        uses: ThirteenAG/zip-release@master
+        with:
+         path: .ini/silentpatch/*
+         type: 'zip'
+         filename: 'INI.SilentPatch.zip'
+         exclusions: '.git .github .main .tweaks .img readme.md guide.md'
+
+      - name: Pack SkyGfx Pre-configured INI
+        uses: ThirteenAG/zip-release@master
+        with:
+         path: .ini/skygfx/*
+         type: 'zip'
+         filename: 'INI.SkyGfx.zip'
+         exclusions: '.git .github .main .tweaks .img readme.md guide.md'
+
+      - name: Get Release Info
         id: release_info
         uses: cardinalby/git-get-release-action@1.2.2
         env:
@@ -95,7 +94,7 @@ jobs:
         with:
           tag: latest
 
-        - name: Upload Release
+      - name: Upload Release
         uses: ncipollo/release-action@v1
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
