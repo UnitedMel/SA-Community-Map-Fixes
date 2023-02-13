@@ -3,24 +3,23 @@ name: Upload Release
 on:
   push:
     branches: [ "main" ]
-
+    
   workflow_dispatch:
-
+  
 jobs:
   build:
     runs-on: windows-latest
-
+    
     steps:
       - uses: actions/checkout@v3
           
-
       - name: Pack Release
         uses: ThirteenAG/zip-release@master
         with:
           path: ./*
           type: 'zip'
           filename: 'SA.CommunityMapFixes.zip'
-          exclusions: '.git .github .tweaks .ini .img readme.md guide.md'
+          exclusions: '.git .github .tweaks .img .ini readme.md guide.md'
 
       - uses: actions/checkout@v3
         with:
