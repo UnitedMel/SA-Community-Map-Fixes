@@ -20,40 +20,6 @@ jobs:
           filename: 'SA.CommunityMapFixes.zip'
           exclusions: '.git .github .tweaks .img .ini readme.md guide.md'
 
-      - uses: actions/checkout@v3
-        with:
-          ref: tweaks
-          path: .tweaks
-
-      - name: Pack Vending Variants
-        uses: ThirteenAG/zip-release@master
-        with:
-          path: .tweaks/vend-variants/*
-          type: 'zip'
-          filename: 'Tweaks.VendingVariants.zip'
-          exclusions: '.git .github .main .img readme.md guide.md'
-
-      - name: Pack Classic Pickups
-        uses: ThirteenAG/zip-release@master
-        with:
-          path: .tweaks/classic-icons/*
-          type: 'zip'
-          filename: 'Tweaks.ClassicPickups.zip'
-          exclusions: '.git .github .main .img readme.md guide.md'
-
-      - name: Pack "The Clam Digger" Billboard
-        uses: ThirteenAG/zip-release@master
-        with:
-         path: .tweaks/lcs-billboard/*
-         type: 'zip'
-         filename: 'Tweaks.LCSBillboard.zip'
-         exclusions: '.git .github .main .img readme.md guide.md'
-
-      - uses: actions/checkout@v3
-        with:
-          ref: ini
-          path: .ini
-
       - name: Pack WidescreenFix Pre-configured INI
         uses: ThirteenAG/zip-release@master
         with:
@@ -85,6 +51,35 @@ jobs:
          type: 'zip'
          filename: 'INI.SkyGfx.zip'
          exclusions: '.git .github .main .tweaks .img readme.md guide.md'
+
+      - uses: actions/checkout@v3
+        with:
+          ref: tweaks
+          path: .tweaks
+
+      - name: Pack Vending Variants
+        uses: ThirteenAG/zip-release@master
+        with:
+          path: .tweaks/vend-variants/*
+          type: 'zip'
+          filename: 'Tweaks.VendingVariants.zip'
+          exclusions: '.git .github .main .img readme.md guide.md'
+
+      - name: Pack Classic Pickups
+        uses: ThirteenAG/zip-release@master
+        with:
+          path: .tweaks/classic-icons/*
+          type: 'zip'
+          filename: 'Tweaks.ClassicPickups.zip'
+          exclusions: '.git .github .main .img readme.md guide.md'
+
+      - name: Pack "The Clam Digger" Billboard
+        uses: ThirteenAG/zip-release@master
+        with:
+         path: .tweaks/lcs-billboard/*
+         type: 'zip'
+         filename: 'Tweaks.LCSBillboard.zip'
+         exclusions: '.git .github .main .img readme.md guide.md'
 
       - name: Get Release Info
         id: release_info
