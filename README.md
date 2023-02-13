@@ -17,6 +17,7 @@
 ### Download: [SA.PCArchivesPatch.7z (26.11.2022)](https://mega.nz/file/gNlAgLIZ#cXgx5Z9-DQDD8aMMk3V0TXBhYlq8LmDQK75Zn9yAFrk)
 ### Download: [Tweaks.VendingVariants.zip](https://github.com/UnitedMel/SA-Community-Map-Fixes/releases/download/latest/Tweaks.VendingVariants.zip)
 ### Download: [Tweaks.ClassicPickups.zip](https://github.com/UnitedMel/SA-Community-Map-Fixes/releases/download/latest/Tweaks.ClassicPickups.zip)
+### Download: [Tweaks.LCSBillboard.zip](https://github.com/UnitedMel/SA-Community-Map-Fixes/releases/download/latest/Tweaks.LCSBillboard.zip)
 
 ### [Instructions unclear. I'm stuck in the microwave. (Modding Guide)](https://github.com/UnitedMel/SA-Community-Map-Fixes/blob/main/GUIDE.md)
 

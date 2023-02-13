@@ -12,6 +12,7 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
+          
 
       - name: Pack Release
         uses: ThirteenAG/zip-release@master
@@ -57,6 +58,11 @@ jobs:
          type: 'zip'
          filename: 'Tweaks.LCSBillboard.zip'
          exclusions: '.git .github .main .img readme.md guide.md'
+
+      - uses: actions/checkout@v3
+        with:
+          ref: ini
+          path: .ini
 
      - name: Pack WidescreenFix Pre-configured INI
        uses: ThirteenAG/zip-release@master
