@@ -52,7 +52,6 @@ without relying on any modpacks with ***necessary***, ***essential*** or ***prop
 **Turns whatever previously was limited into unlimited, being only limited by the machine/application capacity.**
 ## Installation:
 - Extract **III.VC.SA.LimitAdjuster.asi**, **III.VC.SA.LimitAdjuster.ini** to **scripts**
-> *(Optional) [Pre-configured .ini file]()*
 
 ### [CLEO4](https://github.com/cleolibrary/CLEO4/releases)
 **Library plugin which brings new possibilities in scripting.**
@@ -71,13 +70,13 @@ without relying on any modpacks with ***necessary***, ***essential*** or ***prop
 ## Installation:
 - Extract **GTASA.WidescreenFix.asi**, **GTASA.WidescreenFix.ini** to **scripts**
 - *(Optional)* Extract **LOADSCS.txd** to **gamedir/models/txd**
-> *(Optional) [Pre-configured .ini file]()*
+> *(Optional) [Pre-configured .ini file](https://github.com/UnitedMel/SA-Community-Map-Fixes/releases/download/latest/INI.WidescreenFix.zip)*
 
 ## [SilentPatch](https://cookieplmonster.github.io/mods/gta-sa/)
 **Fixes numerous bugs.**
 ## Installation:
 - Extract **SilentPatchSA.asi**, **SilentPatchSA.ini** to **scripts**
-> *(Optional) [Pre-configured .ini file]()*
+> *(Optional) [Pre-configured .ini file](https://github.com/UnitedMel/SA-Community-Map-Fixes/releases/download/latest/INI.SilentPatch.zip)*
 
 ## [Vehicle Lights Fix](https://www.dropbox.com/s/lyyays2yulz71n7/vehlightsfix.rar)
 **Fixes rendering bugs of vehicle lights.**
@@ -99,7 +98,7 @@ without relying on any modpacks with ***necessary***, ***essential*** or ***prop
 - Extract **colorcycle.dat**, to **data**
 - Extract **Mobile_details.txd**, **texdb.txt** to **models**
 - Extract **skygfx.asi**, **skygfx1.ini** to **scripts**
-> *(Optional) [Pre-configured .ini file]()*
+> *(Optional) [Pre-configured .ini file](https://github.com/UnitedMel/SA-Community-Map-Fixes/releases/download/latest/INI.SkyGfx.zip)*
 
 ## [SkyGrad](https://www.dropbox.com/s/e4493knjlbltptm/skygrad.rar)
 **Fixes sky banding that made the gradient looking blocky.**
@@ -110,7 +109,7 @@ without relying on any modpacks with ***necessary***, ***essential*** or ***prop
 **Adds LOD corona effect to a game map, making LOD-world look a lot better.**
 ## Installation:
 - Extract **SALodLights.asi**, **SALodLights.ini**, **SALodLights.dat** to **scripts**
-> *(Optional) [Pre-configured .ini file]()*
+> *(Optional) [Pre-configured .ini file](https://github.com/UnitedMel/SA-Community-Map-Fixes/releases/download/latest/INI.Project2DFX.zip)*
 
 ## [PC Archives Patch](https://mega.nz/file/gNlAgLIZ#cXgx5Z9-DQDD8aMMk3V0TXBhYlq8LmDQK75Zn9yAFrk)
 **Optimized IMG archives including: uncompressed map textures with enabled mipmaps from III/VC/MH, restored data values and vehicle models from PS2.**
@@ -125,9 +124,23 @@ without relying on any modpacks with ***necessary***, ***essential*** or ***prop
 - Extract **skyui.asi** to **scripts**
 > *Causes crash on using Trip Skip feature.*
 
+# Audio:
+
+## [Uncompressed SFX Pack](https://gtaforums.com/topic/957917-sa-uncompressed-sfx-pack/)
+**This modification gives you an experience on what the sounds are like without much compression.**
+## Installation:
+- Extract **Uncompressed SFX Pack** to **modloader**
+> *"Bonus" folder is optional.*
+
+## *(Optional)* [High Quality Radios](https://gtaforums.com/topic/988001-sa-high-quality-radios/)
+**High quality radio stations converted from GTA SA Definitive Edition.**
+## Installation:
+- Extract **audio** to **gamedir**
+> *Sometimes this may cause music to stop playing until the radio station is changed, or it can simply crash.*
+
 # Map:
 > *Mods are usually incompatible with each other if they use the same files and maps are no exception.*
-> *Always compare the features of the same type of mods. They may include the same things that can cause issues or crashes.*
+> *Always compare the features of the same type of mods.*
 
 ## [SA Community Map Fixes](https://github.com/UnitedMel/SA-Community-Map-Fixes/releases/download/latest/SA.CommunityMapFixes.zip)
 > *PC Archives Patch is required.*
@@ -149,5 +162,12 @@ without relying on any modpacks with ***necessary***, ***essential*** or ***prop
 > *Add-on for CMF.*
 
 **III/VC/LCS/VCS styled pickup icons.**
+## Installation:
+- Extract to **modloader**
+
+## ["The Clam Digger" Billboard](https://github.com/UnitedMel/SA-Community-Map-Fixes/releases/download/latest/Tweaks.LCSBillboard.zip)
+> *Add-on for CMF.*
+
+**Unused LCS billboard. Replaces ZIP billboard in Los Santos. Looks fancy.**
 ## Installation:
 - Extract to **modloader**

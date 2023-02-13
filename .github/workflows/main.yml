@@ -12,14 +12,14 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
-          
+
       - name: Pack Release
         uses: ThirteenAG/zip-release@master
         with:
           path: ./*
           type: 'zip'
           filename: 'SA.CommunityMapFixes.zip'
-          exclusions: '.git .github .tweaks .img readme.md guide.md'
+          exclusions: '.git .github .tweaks .ini .img readme.md guide.md'
 
       - uses: actions/checkout@v3
         with:
@@ -33,7 +33,7 @@ jobs:
 #          type: 'zip'
 #          filename: 'Tweaks.CompatibilityPatch.zip'
 #          exclusions: '.git .github .main .img readme.md guide.md'
-          
+
       - name: Pack Vending Variants
         uses: ThirteenAG/zip-release@master
         with:
@@ -41,7 +41,7 @@ jobs:
           type: 'zip'
           filename: 'Tweaks.VendingVariants.zip'
           exclusions: '.git .github .main .img readme.md guide.md'
-          
+
       - name: Pack Classic Pickups
         uses: ThirteenAG/zip-release@master
         with:
@@ -49,14 +49,46 @@ jobs:
           type: 'zip'
           filename: 'Tweaks.ClassicPickups.zip'
           exclusions: '.git .github .main .img readme.md guide.md'
-          
-#     - name: Pack "The Clam Digger" Billboard
-#       uses: ThirteenAG/zip-release@master
-#       with:
-#         path: .tweaks/lcs-billboard/*
-#         type: 'zip'
-#         filename: 'Tweaks.LCSBillboard.zip'
-#         exclusions: '.git .github .main .img readme.md guide.md'
+
+     - name: Pack "The Clam Digger" Billboard
+       uses: ThirteenAG/zip-release@master
+       with:
+         path: .tweaks/lcs-billboard/*
+         type: 'zip'
+         filename: 'Tweaks.LCSBillboard.zip'
+         exclusions: '.git .github .main .img readme.md guide.md'
+
+     - name: Pack WidescreenFix Pre-configured INI
+       uses: ThirteenAG/zip-release@master
+       with:
+         path: .ini/wsfix/*
+         type: 'zip'
+         filename: 'INI.WidescreenFix.zip'
+         exclusions: '.git .github .main .tweaks .img readme.md guide.md'
+
+     - name: Pack Project2DFX Pre-configured INI
+       uses: ThirteenAG/zip-release@master
+       with:
+         path: .ini/p2dfx/*
+         type: 'zip'
+         filename: 'INI.Project2DFX.zip'
+         exclusions: '.git .github .main .tweaks .img readme.md guide.md'
+
+     - name: Pack SilentPatch Pre-configured INI
+       uses: ThirteenAG/zip-release@master
+       with:
+         path: .ini/silentpatch/*
+         type: 'zip'
+         filename: 'INI.SilentPatch.zip'
+         exclusions: '.git .github .main .tweaks .img readme.md guide.md'
+
+     - name: Pack SkyGfx Pre-configured INI
+       uses: ThirteenAG/zip-release@master
+       with:
+         path: .ini/skygfx/*
+         type: 'zip'
+         filename: 'INI.SkyGfx.zip'
+         exclusions: '.git .github .main .tweaks .img readme.md guide.md'
 #
 #      - uses: actions/checkout@v3
 #        with:
@@ -94,4 +126,4 @@ jobs:
           name: ${{ steps.release_info.outputs.name }}
           body: ${{ steps.release_info.outputs.body }}
           tag: ${{ steps.release_info.outputs.tag_name }}
-          artifacts: SA.CommunityMapFixes.zip,Tweaks.VendingVariants.zip,Tweaks.ClassicPickups.zip
+          artifacts: SA.CommunityMapFixes.zip,Tweaks.VendingVariants.zip,Tweaks.ClassicPickups.zip,Tweaks.LCSBillboard.zip,INI.WidescreenFix.zip,INI.Project2DFX.zip,INI.SilentPatch.zip,INI.SkyGfx.zip
