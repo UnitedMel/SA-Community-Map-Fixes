@@ -53,12 +53,12 @@ without relying on any modpacks with ***necessary***, ***essential*** or ***prop
 ## Installation:
 - Extract **III.VC.SA.LimitAdjuster.asi**, **III.VC.SA.LimitAdjuster.ini** to **scripts**
 
-### [CLEO4](https://github.com/cleolibrary/CLEO4/releases)
+## [CLEO4](https://github.com/cleolibrary/CLEO4/releases)
 **Library plugin which brings new possibilities in scripting.**
 ## Installation:
 - Extract all contents to **gamedir**
 
-### [ModLoader](https://github.com/thelink2012/modloader/releases)
+## [ModLoader](https://github.com/thelink2012/modloader/releases)
 **Adds an easy and user-friendly way to install and uninstall modifications into the game.**
 ## Installation:
 - Extract all contents to **gamedir**

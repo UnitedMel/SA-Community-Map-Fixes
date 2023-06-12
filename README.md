@@ -15,6 +15,7 @@
 
 ### Download: [SA.CommunityMapFixes.zip](https://github.com/UnitedMel/SA-Community-Map-Fixes/releases/download/latest/SA.CommunityMapFixes.zip)
 ### Download: [SA.PCArchivesPatch.7z (26.11.2022)](https://mega.nz/file/gNlAgLIZ#cXgx5Z9-DQDD8aMMk3V0TXBhYlq8LmDQK75Zn9yAFrk)
+#
 ### Download: [Tweaks.VendingVariants.zip](https://github.com/UnitedMel/SA-Community-Map-Fixes/releases/download/latest/Tweaks.VendingVariants.zip)
 ### Download: [Tweaks.ClassicPickups.zip](https://github.com/UnitedMel/SA-Community-Map-Fixes/releases/download/latest/Tweaks.ClassicPickups.zip)
 ### Download: [Tweaks.LCSBillboard.zip](https://github.com/UnitedMel/SA-Community-Map-Fixes/releases/download/latest/Tweaks.LCSBillboard.zip)
@@ -59,7 +60,7 @@
 - **Junkyard Crusher** — Rocky24pl
 - **Trailer Park** — Rocky24pl
 - **San Andreas: Beta Edition** — Kalvin
-- **Restored Mailboxes** — The CA-studio
+- **Restored Mailboxes** — Pyltham
 - **Исправление разных текстур (Various Texture Fixes)** — Таир
 - **Beta Mulholland Safehouse** — Kalvin, CML99, Robson Martins
 ### Textures:

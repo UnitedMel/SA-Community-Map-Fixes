@@ -5,8 +5,8 @@
 objs
 6526, smb_sculpture, dicke, 80, 128
 6529, lae2_ground04_fnc, landlae2e, 200, 2097284
-#6530,
 # do not disable these
+6530, hillhouse06b_LA, hillhousex13_6, 80, 0
 6534, LODswbigburb01d, CE_burbLOD, 450, 128
 6535, LODswbigburb02d, CE_burbLOD, 450, 128
 6536, LODswbigburb03d, CE_burbLOD, 450, 128
