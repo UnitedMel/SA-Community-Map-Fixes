@@ -42,6 +42,8 @@ without relying on any modpacks with ***necessary***, ***essential*** or ***prop
 - Rename ```portablegta.dll``` to ```portablegta.asi``` 
 > *If you don't know how to do it, search "Enabling File Extensions".*
 
+If the game crashes on startup, please make shure your **gamedir** isn't Read-Only (the corresponding flag in the **gamedir** properties shouldn't be ticked).
+
 ## [GInput](https://cookieplmonster.github.io/mods/gta-sa/)
 **Completely rewrites GTA controls handling. This way, your PS3 and Xbox 360 gamepads will be handled by the game just perfectly.**
 ## Installation:
