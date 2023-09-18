@@ -1,1 +1,1 @@
-# SA Community Map Fixes - PC Archives Fix
+# SA Community Map Fixes - Binary IPL sources and extracted IMGs
