@@ -1,7 +1,6 @@
 <h1 align="center">SA Modding for Dummies</h1>
 
-**SA Modding for Dummies** will quickly teach you how to install mods yourself 
-without relying on any modpacks with ***necessary***, ***essential*** or ***proper*** in the name.
+**SA Modding for Dummies** is a simple modding guide that will quickly teach you how to install mods on GTA San Andreas.
 
 # Glossary:
 - **gamedir** — The main directory where the GTA executable file is located.
@@ -32,7 +31,7 @@ without relying on any modpacks with ***necessary***, ***essential*** or ***prop
 - Remove existing **vorbisFile.dll**
 - Rename ```dinput8.dll``` to ```vorbisFile.dll```
 
-## [aap's PortableGTA](http://gta.rockstarvision.com/workshop/portablegta.dll)
+## [PortableGTA](http://gta.rockstarvision.com/workshop/portablegta.dll)
 > *If the link does not work, manually copy and paste it into the search bar.*
 
 **Makes III/VC/SA use gamedir/userfiles for saves and settings instead of Documents/GTA User Files.**
@@ -42,7 +41,17 @@ without relying on any modpacks with ***necessary***, ***essential*** or ***prop
 - Rename ```portablegta.dll``` to ```portablegta.asi``` 
 > *If you don't know how to do it, search "Enabling File Extensions".*
 
-If the game crashes on startup, please make shure your **gamedir** isn't Read-Only (the corresponding flag in the **gamedir** properties shouldn't be ticked).
+> *Please make sure your **gamedir** isn't Read-Only (the corresponding flag in the **gamedir** properties shouldn't be ticked).*
+
+## [Debug Menu](https://github.com/aap/debugmenu/releases/)
+**An in-game menu for III, VC and SA to tweak values and execute commands from within the game.**
+## Installation:
+- Extract **debugmenu.dll** from archive's "SA" folder to **gamedir**
+
+- Download [gtadebug](https://github.com/aap/gtadebug/releases/)
+- Extract **sa_debug.dll** to **scripts**
+- Rename ```sa_debug.dll``` to ```sa_debug.asi```
+> *Controls: CTRL+M to enable/disable menu; CTRL+B to enable/disable free camera mode, while enabled press CTRL+C to switch player control.*
 
 ## [GInput](https://cookieplmonster.github.io/mods/gta-sa/)
 **Completely rewrites GTA controls handling. This way, your PS3 and Xbox 360 gamepads will be handled by the game just perfectly.**
@@ -65,6 +74,13 @@ If the game crashes on startup, please make shure your **gamedir** isn't Read-On
 ## Installation:
 - Extract all contents to **gamedir**
 
+## *(Optional)* [Euryopa](http://aap.papnet.eu/gta/utils/librw_bin/euryopa.exe)
+> *If the link does not work, manually copy and paste it into the search bar.*
+
+**Map viewer for III/VC/SA/LCS/VCS.**
+## Installation:
+- Move **euryopa.exe** to **gamedir**
+
 # Bug Fixes:
 
 ## [Widescreen Fix](https://github.com/ThirteenAG/WidescreenFixesPack/releases/tag/gtasa)
@@ -84,12 +100,7 @@ If the game crashes on startup, please make shure your **gamedir** isn't Read-On
 **Fixes rendering bugs of vehicle lights.**
 ## Installation:
 - Extract **vehlightsfix.asi** to **scripts**
-> *Incompatible with some Fastman Limit Adjuster features.*
-
-## [Script Fixes](https://gtaforums.com/topic/937827-gta-sa-script-fixes-finding-and-fixing-script-glitches/)
-**Aims to fix some script related bugs left out by Rockstar Games in the PC version of San Andreas.**
-## Installation:
-- Extract to **modloader**
+> *Incompatible with some Fastman Limit Adjuster's features.*
 
 # Visuals:
 
@@ -125,20 +136,6 @@ If the game crashes on startup, please make shure your **gamedir** isn't Read-On
 - Extract **text** folder contents to **text**
 - Extract **skyui.asi** to **scripts**
 > *Causes crash on using Trip Skip feature.*
-
-# Audio:
-
-## [Uncompressed SFX Pack](https://gtaforums.com/topic/957917-sa-uncompressed-sfx-pack/)
-**This modification gives you an experience on what the sounds are like without much compression.**
-## Installation:
-- Extract **Uncompressed SFX Pack** to **modloader**
-> *"Bonus" folder is optional.*
-
-## *(Optional)* [High Quality Radios](https://gtaforums.com/topic/988001-sa-high-quality-radios/)
-**High quality radio stations converted from GTA SA Definitive Edition.**
-## Installation:
-- Extract **audio** to **gamedir**
-> *Sometimes this may cause music to stop playing until the radio station is changed, or it can simply crash.*
 
 # Map:
 > *Mods are usually incompatible with each other if they use the same files and maps are no exception.*
