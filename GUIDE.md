@@ -67,7 +67,8 @@
 ## [CLEO4](https://github.com/cleolibrary/CLEO4/releases)
 **Library plugin which brings new possibilities in scripting.**
 ## Installation:
-- Extract all contents to **gamedir**
+- Extract **cleo** and **scripts** folders to **gamedir**
+- Extract **bass.dll** and **CLEO.asi** to **gamedir**
 
 ## [ModLoader](https://github.com/thelink2012/modloader/releases)
 **Adds an easy and user-friendly way to install and uninstall modifications into the game.**
