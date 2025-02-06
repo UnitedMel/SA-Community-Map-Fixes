@@ -3,6 +3,8 @@
 # 12004-12092 (88)
 #
 objs
+6579, veg_palwee04, gta_tree_palm, 150, 2113668
+6580, lodveg_palwee04, lod_vegb, 1000, 2097284
 12004, lodveg_tree7vbig, lod_vegb, 1000, 2097284
 12005, lodveg_palwee03, lod_vegb, 1000, 2097284
 12006, lodveg_tree3, lod_vegb, 1000, 2097284
