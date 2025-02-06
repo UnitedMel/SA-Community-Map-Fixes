@@ -411,7 +411,7 @@ objs
 9893, gardsfw02, boxybld_sfw, 100, 0
 9894, blokmod2_sfw, vict_sfw, 150, 0
 9895, bigboxtmp19, bigboxtemp1, 140, 0
-9896, hosbi2al_sfw, hosbibalsfw, 160, 68
+9896, hosbi2al_sfw, hosbibalsfw, 160, 2097156
 9897, hosbibal3b_sfw, hosbibalsfw, 150, 68
 end
 tobj

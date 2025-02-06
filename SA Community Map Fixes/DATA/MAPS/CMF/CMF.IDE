@@ -61,4 +61,10 @@ tobj
 6532, laeJeffers06_nlight, lightshare, 299, 130, 20, 6
 6533, lasairprt5_nlight, lightshare, 299, 140, 22, 5
 6566, ce_safeglas2, lahills_safe1, 299, 2, 21, 6
+# SIGN_NIGHT_LIGHTS
+17539, cuntwmotsignCJ_lh, signshare, 60, 132, 20, 7
+17540, vegasmotsignCJ_lh, signshare, 60, 132, 20, 7
+1539, lamotsig1_LA_lh, signshare, 60, 132, 20, 7
+3856, lamotsig2_LA_lh, signshare, 60, 132, 20, 7
+#3818, sf_frwaysig, sfroadsign, 150, 0 //RESERVED FOR SOMETHING I DUNNO
 end

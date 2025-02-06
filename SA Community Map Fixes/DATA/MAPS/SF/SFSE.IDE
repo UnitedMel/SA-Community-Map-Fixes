@@ -608,8 +608,8 @@ objs
 11356, LODtrainstuff37, lod_sfse, 800, 128
 11357, LODstunnel3a, lod_sfse2, 1500, 128
 11358, LODstunnel1A, lod_sfse2, 1400, 128
-11359, oldgrgedoor3_sfse, oldgarage_sfse, 100, 0
-11360, oldgrgedoor4_sfse, oldgarage_sfse, 100, 0
+11359, oldgrgedoor3_sfse, oldgarage_sfse, 100, 2048
+11360, oldgrgedoor4_sfse, oldgarage_sfse, 100, 2048
 11361, LODport_14B_SFSe, lod_sfse3, 1400, 128
 11362, Silicon11_land, silicon2_sfse, 280, 0
 11363, Silicon11_land2, silicon2_sfse, 280, 0
@@ -637,9 +637,9 @@ objs
 11385, ctscene2_sfse, airportgnd_sfse, 299, 4
 11386, nuroad_sfse, genroads_sfse, 240, 1
 11387, oldgarage_SFS, oldgarage_sfse, 100, 0
-11388, hubintroof_SFSe, newhubgrg1_sfse, 100, 4
+11388, hubintroof_SFSe, newhubgrg1_sfse, 100, 64
 11389, hubinterior_SFS, hubint1_sfse, 100, 0
-11390, hubgirders_SFSE, hubint2, 100, 4
+11390, hubgirders_SFSE, hubint2, 100, 0
 11391, hubprops6_SFSe, hubprops2_sfse, 100, 0
 11392, hubfloorstains_SFSe, hubprops1_sfse, 100, 4
 11393, hubprops1_SFS, hubprops2_sfse, 100, 0
@@ -664,7 +664,7 @@ objs
 11416, hbgdSFS, oldgarage_sfse, 100, 2048
 end
 tobj
-11394, hubgrgbeams_SFSe, newhubgrg1_sfse, 100, 4, 7, 17
+11394, hubgrgbeams_SFSe, newhubgrg1_sfse, 100, 68, 7, 17
 11410, nightlights01_SFSE, nightlights_sfse, 550, 4, 20, 6
 11411, nightlights02_SFSE, nightlights_sfse, 550, 4, 20, 6
 11412, nightlights03_SFSE, nightlights_sfse, 550, 4, 20, 6
