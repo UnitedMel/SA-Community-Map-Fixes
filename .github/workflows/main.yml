@@ -22,7 +22,7 @@ jobs:
           path: ./*
           type: 'zip'
           filename: 'SA.PCArchivesPatch.7z'
-          exclusions: 'modloader scripts *.bat *7z *.md'
+          exclusions: 'extras modloader scripts *.bat *7z *.md'
 
       - name: Pack Release
         uses: ThirteenAG/zip-release@master
@@ -30,15 +30,15 @@ jobs:
           path: ./*
           type: 'zip'
           filename: 'SA.CommunityMapFixes.7z'
-          exclusions: 'data models *.bat *7z *.md *.img'
+          exclusions: 'data extras models *.bat *7z *.md *.img'
 
       - name: Pack Extras
         uses: ThirteenAG/zip-release@master
         with:
-         path: ./.extras/modloader/*
+         path: extras/modloader/*
          type: 'zip'
          filename: 'SA.CommunityMapExtras.7z'
-          exclusions: 'modloader data models scripts *.bat *7z *.md *.img'
+         exclusions: 'modloader data models scripts *.bat *7z *.md *.img'
 
       - name: Get Release Info
         id: release_info
