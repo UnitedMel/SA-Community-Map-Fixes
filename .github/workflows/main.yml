@@ -22,7 +22,7 @@ jobs:
           path: ./*
           type: 'zip'
           filename: 'SA.PCArchivesPatch.7z'
-          exclusions: '.git .github .cdimages .extras .ipls modloader scripts *.bat *7z *.md *.txd'
+          exclusions: 'modloader scripts *.bat *7z *.md'
 
       - name: Pack Release
         uses: ThirteenAG/zip-release@master
@@ -30,7 +30,7 @@ jobs:
           path: ./*
           type: 'zip'
           filename: 'SA.CommunityMapFixes.7z'
-          exclusions: '.git .github .cdimages .extras .ipls data models *.bat *7z *.md *.img'
+          exclusions: 'data models *.bat *7z *.md *.img'
 
       - name: Get Release Info
         id: release_info
