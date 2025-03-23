@@ -1,30 +1,40 @@
 <p align="center">
-  <img width="2000" src="https://i.imgur.com/cGDiOPN.png" alt="Map-Fixes-Logo">
+	<img width="2000" src="https://github.com/UnitedMel/SA-Community-Map-Fixes/tree/main/.github/logo.png" alt="CMF-Logo">
 </p>
 
 # Requirements:
 
 - Grand Theft Auto: San Andreas v1.0
 - Ultimate ASI Loader
-- CLEO4
+- CLEO
 - Open Limit Adjuster
 - SkyGfx
-- PC Archives Patch
+- PCArchivesPatch
 
 # Installation:
 
-### Download: [SA.CommunityMapFixes.zip](https://github.com/UnitedMel/SA-Community-Map-Fixes/releases/download/latest/SA.CommunityMapFixes.zip)
-### Download: [SA.PCArchivesPatch.7z (26.11.2022)](https://mega.nz/file/gNlAgLIZ#cXgx5Z9-DQDD8aMMk3V0TXBhYlq8LmDQK75Zn9yAFrk)
+### Download: [SA.CommunityMapFixes.7z](https://github.com/UnitedMel/SA-Community-Map-Fixes/releases/download/latest/SA.CommunityMapFixes.7z)
+### Download: [SA.PCArchivesPatch.7z](https://github.com/UnitedMel/SA-Community-Map-Fixes/releases/download/latest/[SA.PCArchivesPatch.7z)
 #
-### Download: [Tweaks.VendingVariants.zip](https://github.com/UnitedMel/SA-Community-Map-Fixes/releases/download/latest/Tweaks.VendingVariants.zip)
-### Download: [Tweaks.ClassicPickups.zip](https://github.com/UnitedMel/SA-Community-Map-Fixes/releases/download/latest/Tweaks.ClassicPickups.zip)
-### Download: [Tweaks.LCSBillboard.zip](https://github.com/UnitedMel/SA-Community-Map-Fixes/releases/download/latest/Tweaks.LCSBillboard.zip)
+### Download: [Tweaks.VendingVariants.7z](https://github.com/UnitedMel/SA-Community-Map-Fixes/releases/download/latest/Tweaks.VendingVariants.7z)
+### Download: [Tweaks.ClassicPickups.7z](https://github.com/UnitedMel/SA-Community-Map-Fixes/releases/download/latest/Tweaks.ClassicPickups.7z)
+### Download: [Tweaks.LCSBillboard.7z](https://github.com/UnitedMel/SA-Community-Map-Fixes/releases/download/latest/Tweaks.LCSBillboard.7z)
 
-### [Instructions unclear. I'm stuck in the microwave. (Modding Guide)](https://github.com/UnitedMel/SA-Community-Map-Fixes/blob/main/GUIDE.md)
+### ~~[Instructions unclear. I'm stuck in the microwave. (Modding Guide)](https://github.com/UnitedMel/SA-Community-Map-Fixes/blob/main/GUIDE.md)~~ (Temporary outdated)
 
 # Credits:
 
 > Occupied IDs: 6526-6862 (337); 12004-12092 (88)
+
+### Tools:
+- **BinaryIPLDecompiler** — ocram
+- **DragonFF** — Parik27
+- **Collision File Editor II** — steve-m
+- **RW Analyze** — steve-m
+- **2DFX Tool** — DK22Pac
+- **MagicTXD** — DK22Pac, The_GTA
+- **euryopa** — aap
+- **cdimage_make** — aap
 
 ### Scripts:
 - **GRGX Script** — Link2012
@@ -105,7 +115,6 @@
 - **direct** for improved models and textures
 - **sunny driver** for fixed collisions
 - **Junior** and **Jessica** for motivation and quality control!!
-- **Everybody** in [The Warehouse](https://discord.gg/uVsEnha) for feedback, suggestions and support!
 - **Rockstar Games** for making this great (but rushed) game!
 
 # Project Developers:

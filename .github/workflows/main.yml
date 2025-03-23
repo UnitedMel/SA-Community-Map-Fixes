@@ -17,7 +17,7 @@ jobs:
         with:
           path: ./*
           type: 'zip'
-          filename: 'SA.CommunityMapFixes.zip'
+          filename: 'SA.CommunityMapFixes.7z'
           exclusions: '.git .github .tweaks .img .ini readme.md guide.md'
 
       - name: Pack WidescreenFix Pre-configured INI
@@ -25,7 +25,7 @@ jobs:
         with:
          path: .ini/wsfix/*
          type: 'zip'
-         filename: 'INI.WidescreenFix.zip'
+         filename: 'INI.WidescreenFix.7z'
          exclusions: '.git .github .main .tweaks .img readme.md guide.md'
 
       - name: Pack Project2DFX Pre-configured INI
@@ -33,7 +33,7 @@ jobs:
         with:
          path: .ini/p2dfx/*
          type: 'zip'
-         filename: 'INI.Project2DFX.zip'
+         filename: 'INI.Project2DFX.7z'
          exclusions: '.git .github .main .tweaks .img readme.md guide.md'
 
       - name: Pack SilentPatch Pre-configured INI
@@ -41,7 +41,7 @@ jobs:
         with:
          path: .ini/silentpatch/*
          type: 'zip'
-         filename: 'INI.SilentPatch.zip'
+         filename: 'INI.SilentPatch.7z'
          exclusions: '.git .github .main .tweaks .img readme.md guide.md'
 
       - name: Pack SkyGfx Pre-configured INI
@@ -49,7 +49,7 @@ jobs:
         with:
          path: .ini/skygfx/*
          type: 'zip'
-         filename: 'INI.SkyGfx.zip'
+         filename: 'INI.SkyGfx.7z'
          exclusions: '.git .github .main .tweaks .img readme.md guide.md'
 
       - uses: actions/checkout@v3
@@ -62,7 +62,7 @@ jobs:
         with:
           path: .tweaks/vend-variants/*
           type: 'zip'
-          filename: 'Tweaks.VendingVariants.zip'
+          filename: 'Tweaks.VendingVariants.7z'
           exclusions: '.git .github .main .img readme.md guide.md'
 
       - name: Pack Classic Pickups
@@ -70,7 +70,7 @@ jobs:
         with:
           path: .tweaks/classic-icons/*
           type: 'zip'
-          filename: 'Tweaks.ClassicPickups.zip'
+          filename: 'Tweaks.ClassicPickups.7z'
           exclusions: '.git .github .main .img readme.md guide.md'
 
       - name: Pack "The Clam Digger" Billboard
@@ -78,8 +78,21 @@ jobs:
         with:
          path: .tweaks/lcs-billboard/*
          type: 'zip'
-         filename: 'Tweaks.LCSBillboard.zip'
+         filename: 'Tweaks.LCSBillboard.7z'
          exclusions: '.git .github .main .img readme.md guide.md'
+         
+      - uses: actions/checkout@v3
+        with:
+          ref: img
+          path: .img
+
+      - name: Pack IMGs
+        uses: ThirteenAG/zip-release@master
+        with:
+          path: ./*
+          type: 'zip'
+          filename: 'SA.PCArchivesPatch.7z'
+          exclusions: '.git .github .main .cdimages .ipls build_all.bat readme.md'
 
       - name: Get Release Info
         id: release_info
@@ -97,4 +110,4 @@ jobs:
           name: ${{ steps.release_info.outputs.name }}
           body: ${{ steps.release_info.outputs.body }}
           tag: ${{ steps.release_info.outputs.tag_name }}
-          artifacts: SA.CommunityMapFixes.zip,Tweaks.VendingVariants.zip,Tweaks.ClassicPickups.zip,Tweaks.LCSBillboard.zip,INI.WidescreenFix.zip,INI.Project2DFX.zip,INI.SilentPatch.zip,INI.SkyGfx.zip
+          artifacts: SA.CommunityMapFixes.7z,SA.PCArchivesPatch.7z,Tweaks.VendingVariants.7z,Tweaks.ClassicPickups.7z,Tweaks.LCSBillboard.7z,INI.WidescreenFix.7z,INI.Project2DFX.7z,INI.SilentPatch.7z,INI.SkyGfx.7z
