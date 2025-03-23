@@ -30,7 +30,7 @@ jobs:
           path: ./*
           type: 'zip'
           filename: 'SA.CommunityMapFixes.7z'
-          exclusions: '.git .github .cdimages .extras .ipls *.bat *7z *.md *.txd'
+          exclusions: '.git .github .cdimages .extras .ipls *.bat *7z *.md *.txd *.img'
 
       - name: Get Release Info
         id: release_info

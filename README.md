@@ -3,29 +3,25 @@
 </p>
 
 # Requirements:
+- **Grand Theft Auto: San Andreas v1.0**
+- [Ultimate ASI Loader](https://github.com/ThirteenAG/Ultimate-ASI-Loader/releases/download/Win32-latest/vorbisFile-Win32.zip)
+- [CLEO](https://github.com/cleolibrary/CLEO5/releases/download/v5.0.0-RC5/SA.CLEO_v5.0.0-RC5.zip)
+- [Open Limit Adjuster](https://github.com/GTAmodding/III.VC.SA.LimitAdjuster/releases)
+- [SkyGfx](https://github.com/aap/skygfx/releases)
+- [PCArchivesPatch](https://github.com/UnitedMel/SA-Community-Map-Fixes/releases/download/latest/[SA.PCArchivesPatch.7z)
 
-- Grand Theft Auto: San Andreas v1.0
-- Ultimate ASI Loader
-- CLEO
-- Open Limit Adjuster
-- SkyGfx
-- PCArchivesPatch
-
-# Installation:
-
-### Download: [SA.CommunityMapFixes.7z](https://github.com/UnitedMel/SA-Community-Map-Fixes/releases/download/latest/SA.CommunityMapFixes.7z)
-### Download: [SA.PCArchivesPatch.7z](https://github.com/UnitedMel/SA-Community-Map-Fixes/releases/download/latest/[SA.PCArchivesPatch.7z)
+# Latest Release:
+### Download: [CommunityMapFixes](https://github.com/UnitedMel/SA-Community-Map-Fixes/releases/download/latest/SA.CommunityMapFixes.7z)
+### Download: [PCArchivesPatch](https://github.com/UnitedMel/SA-Community-Map-Fixes/releases/download/latest/[SA.PCArchivesPatch.7z)
 #
-### Download: [Tweaks.VendingVariants.7z](https://github.com/UnitedMel/SA-Community-Map-Fixes/releases/download/latest/Tweaks.VendingVariants.7z)
-### Download: [Tweaks.ClassicPickups.7z](https://github.com/UnitedMel/SA-Community-Map-Fixes/releases/download/latest/Tweaks.ClassicPickups.7z)
-### Download: [Tweaks.LCSBillboard.7z](https://github.com/UnitedMel/SA-Community-Map-Fixes/releases/download/latest/Tweaks.LCSBillboard.7z)
-
-### ~~[Instructions unclear. I'm stuck in the microwave. (Modding Guide)](https://github.com/UnitedMel/SA-Community-Map-Fixes/blob/main/GUIDE.md)~~ (Temporary outdated)
-
-# Credits:
-
+<!---### Download: [VendingVariants](https://github.com/UnitedMel/SA-Community-Map-Fixes/releases/download/latest/Tweaks.VendingVariants.7z)--->
+<!---### Download: [ClassicPickups](https://github.com/UnitedMel/SA-Community-Map-Fixes/releases/download/latest/Tweaks.ClassicPickups.7z)--->
+<!---### Download: [LCSBillboard](https://github.com/UnitedMel/SA-Community-Map-Fixes/releases/download/latest/Tweaks.LCSBillboard.7z)--->
+#
+<!---### [Instructions unclear. I'm stuck in the microwave. (Modding Guide)](https://github.com/UnitedMel/SA-Community-Map-Fixes/blob/main/GUIDE.md)--->
 > Occupied IDs: 6526-6862 (337); 12004-12092 (88)
 
+# Credits:
 ### Tools:
 - **BinaryIPLDecompiler** — ocram
 - **DragonFF** — Parik27
@@ -35,13 +31,11 @@
 - **MagicTXD** — DK22Pac, The_GTA
 - **euryopa** — aap
 - **cdimage_make** — aap
-
 ### Scripts:
 - **GRGX Script** — Link2012
 - **ENEX Script** — Silent
 - **Beta Mulholland Safehouse** — Kalvin, CML99, Robson Martins
 - **Trailer Park** — Rocky24pl
-
 ### Models:
 - **Converted PS2 Models** — aap, Tomasak, Inadequate, Mugetsuga, KDST
 - **PS2 Map + Fixes** — El Dorado, atfburner, The Truth, Reyks, ernestin1
@@ -96,7 +90,6 @@
 - **Escalator Physics Fix** — H-G
 - **КИ - Коллизия Интерьеров (IC - Interiors Collision)** — Eastwood J.C., SergeDV, andre500
 - **Unofficial Patch** — Kurtis, Sleepy93HUN
-
 # Big Thanks To:
 - **4Arty** for fixed models
 - **5d0** for high quality textures, differences between platforms reporting and support
@@ -116,7 +109,6 @@
 - **sunny driver** for fixed collisions
 - **Junior** and **Jessica** for motivation and quality control!!
 - **Rockstar Games** for making this great (but rushed) game!
-
 # Project Developers:
 - **mpPako** — 3d modeling, UV-mapping, vertex painting, prop placement
 - **savidge** — 3d modeling, UV-mapping, vertex painting, prop placement
