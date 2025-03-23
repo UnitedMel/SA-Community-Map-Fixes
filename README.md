@@ -12,12 +12,11 @@
 
 # Latest Release:
 ### Download: [CommunityMapFixes](https://github.com/UnitedMel/SA-Community-Map-Fixes/releases/download/latest/SA.CommunityMapFixes.7z)
-### Download: [PCArchivesPatch](https://github.com/UnitedMel/SA-Community-Map-Fixes/releases/download/latest/[SA.PCArchivesPatch.7z)
+### Download: [PCArchivesPatch](https://github.com/UnitedMel/SA-Community-Map-Fixes/releases/download/latest/SA.PCArchivesPatch.7z)
 #
 <!---### Download: [VendingVariants](https://github.com/UnitedMel/SA-Community-Map-Fixes/releases/download/latest/Tweaks.VendingVariants.7z)--->
 <!---### Download: [ClassicPickups](https://github.com/UnitedMel/SA-Community-Map-Fixes/releases/download/latest/Tweaks.ClassicPickups.7z)--->
 <!---### Download: [LCSBillboard](https://github.com/UnitedMel/SA-Community-Map-Fixes/releases/download/latest/Tweaks.LCSBillboard.7z)--->
-#
 <!---### [Instructions unclear. I'm stuck in the microwave. (Modding Guide)](https://github.com/UnitedMel/SA-Community-Map-Fixes/blob/main/GUIDE.md)--->
 > Occupied IDs: 6526-6862 (337); 12004-12092 (88)
 
