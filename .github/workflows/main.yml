@@ -35,7 +35,7 @@ jobs:
       - name: Pack Extras
         uses: ThirteenAG/zip-release@master
         with:
-         path: .extras/modloader/*
+         path: ./.extras/modloader/*
          type: 'zip'
          filename: 'SA.CommunityMapExtras.7z'
           exclusions: 'modloader data models scripts *.bat *7z *.md *.img'
