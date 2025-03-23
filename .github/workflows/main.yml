@@ -8,10 +8,30 @@ on:
 jobs:
   build:
     runs-on: windows-latest
-    
+
     steps:
       - uses: actions/checkout@v3
-          
+        with:
+          ref: img
+          path: .img
+
+      - name: Build All
+        shell: cmd
+        run: build_all.bat
+
+      - name: Pack IMGs
+        uses: ThirteenAG/zip-release@master
+        with:
+          path: ./*
+          type: 'zip'
+          filename: 'SA.PCArchivesPatch.7z'
+          exclusions: '.git .github .main .cdimages .ipls build_all.bat SA Community Map Fixes scripts *7z *.md *.txd'
+
+      - uses: actions/checkout@v3
+        with:
+          ref: main
+          path: .main
+
       - name: Pack Release
         uses: ThirteenAG/zip-release@master
         with:
@@ -80,23 +100,6 @@ jobs:
          type: 'zip'
          filename: 'Tweaks.LCSBillboard.7z'
          exclusions: '.git .github .main .img *.md'
-         
-      - uses: actions/checkout@v3
-        with:
-          ref: img
-          path: .img
-
-      - name: Build All
-        shell: cmd
-        run: build_all.bat
-
-      - name: Pack IMGs
-        uses: ThirteenAG/zip-release@master
-        with:
-          path: ./*
-          type: 'zip'
-          filename: 'SA.PCArchivesPatch.7z'
-          exclusions: '.git .github .main .cdimages .ipls build_all.bat SA Community Map Fixes scripts *7z *.md *.txd'
 
       - name: Get Release Info
         id: release_info
