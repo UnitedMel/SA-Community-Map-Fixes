@@ -1,0 +1,4 @@
+# Classic Styled Vending Machines — Loader
+# This file loads alternative version of vending models.
+#
+IDE DATA\CSVM.IDE

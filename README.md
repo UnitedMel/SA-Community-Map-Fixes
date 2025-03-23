@@ -1,5 +1,5 @@
 <p align="center">
-	<img width="2000" src="https://github.com/UnitedMel/SA-Community-Map-Fixes/tree/main/.github/logo.png" alt="CMF-Logo">
+	<img width="2000" src="https://github.com/UnitedMel/SA-Community-Map-Fixes/blob/main/.cdimages/logo.png" alt="CMF-Logo">
 </p>
 
 # Requirements:
