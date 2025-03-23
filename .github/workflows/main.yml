@@ -32,6 +32,14 @@ jobs:
           filename: 'SA.CommunityMapFixes.7z'
           exclusions: 'data models *.bat *7z *.md *.img'
 
+      - name: Pack Extras
+        uses: ThirteenAG/zip-release@master
+        with:
+         path: .extras/modloader/*
+         type: 'zip'
+         filename: 'SA.CommunityMapExtras.7z'
+          exclusions: 'modloader data models scripts *.bat *7z *.md *.img'
+
       - name: Get Release Info
         id: release_info
         uses: cardinalby/git-get-release-action@1.2.2
@@ -48,4 +56,4 @@ jobs:
           name: ${{ steps.release_info.outputs.name }}
           body: ${{ steps.release_info.outputs.body }}
           tag: ${{ steps.release_info.outputs.tag_name }}
-          artifacts: SA.CommunityMapFixes.7z,SA.PCArchivesPatch.7z
+          artifacts: SA.CommunityMapFixes.7z,SA.PCArchivesPatch.7z,SA.CommunityMapExtras.7z

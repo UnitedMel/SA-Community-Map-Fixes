@@ -8,15 +8,14 @@
 - [CLEO](https://github.com/cleolibrary/CLEO5/releases/download/v5.0.0-RC5/SA.CLEO_v5.0.0-RC5.zip)
 - [Open Limit Adjuster](https://github.com/GTAmodding/III.VC.SA.LimitAdjuster/releases)
 - [SkyGfx](https://github.com/aap/skygfx/releases)
-- [PCArchivesPatch](https://github.com/UnitedMel/SA-Community-Map-Fixes/releases/download/latest/[SA.PCArchivesPatch.7z)
+- [PC Archives Patch](https://github.com/UnitedMel/SA-Community-Map-Fixes/releases/download/latest/SA.PCArchivesPatch.7z)
 
 # Latest Release:
-### Download: [CommunityMapFixes](https://github.com/UnitedMel/SA-Community-Map-Fixes/releases/download/latest/SA.CommunityMapFixes.7z)
-### Download: [PCArchivesPatch](https://github.com/UnitedMel/SA-Community-Map-Fixes/releases/download/latest/SA.PCArchivesPatch.7z)
+### Download: [Community Map Fixes](https://github.com/UnitedMel/SA-Community-Map-Fixes/releases/download/latest/SA.CommunityMapFixes.7z)
+### Download: [PC Archives Patch](https://github.com/UnitedMel/SA-Community-Map-Fixes/releases/download/latest/SA.PCArchivesPatch.7z)
 #
-<!---### Download: [VendingVariants](https://github.com/UnitedMel/SA-Community-Map-Fixes/releases/download/latest/Tweaks.VendingVariants.7z)--->
-<!---### Download: [ClassicPickups](https://github.com/UnitedMel/SA-Community-Map-Fixes/releases/download/latest/Tweaks.ClassicPickups.7z)--->
-<!---### Download: [LCSBillboard](https://github.com/UnitedMel/SA-Community-Map-Fixes/releases/download/latest/Tweaks.LCSBillboard.7z)--->
+### Download: [Community Map Extras](https://github.com/UnitedMel/SA-Community-Map-Fixes/releases/download/latest/SA.CommunityMapExtras.7z)
+#
 <!---### [Instructions unclear. I'm stuck in the microwave. (Modding Guide)](https://github.com/UnitedMel/SA-Community-Map-Fixes/blob/main/GUIDE.md)--->
 > Occupied IDs: 6526-6862 (337); 12004-12092 (88)
 
