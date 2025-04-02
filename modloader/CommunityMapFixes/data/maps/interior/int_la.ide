@@ -142,7 +142,6 @@ objs
 14524, im_couchsa, imy_mtlcouch, 60, 128
 14525, imy_otherbit, imy_motel2, 60, 0
 14526, sweetsmain, sweetsmain, 30, 128
-14527, fannyfan, sweetslites, 30, 132
 14528, sweetshadows, sweetshads, 30, 68
 end
 tobj
@@ -153,6 +152,7 @@ end
 2dfx
 end
 anim
+14527 ,fannyfan ,sweetslites ,fannyfan ,30 ,4
 end
 txdp
 end
