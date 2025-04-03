@@ -10,6 +10,10 @@
 - [SkyGfx](https://github.com/aap/skygfx/releases)
 - [PC Archives Patch](https://github.com/UnitedMel/SA-Community-Map-Fixes/releases/download/latest/SA.PCArchivesPatch.7z)
 
+# Recommended:
+### Download: [Community Cutscene Fixes](https://github.com/Cleoude/SA-Community-Cutscene-Fixes)
+> Make sure CMF has a higher priority set in the modloader!
+
 # Latest Release:
 ### Download: [Community Map Fixes](https://github.com/UnitedMel/SA-Community-Map-Fixes/releases/download/latest/SA.CommunityMapFixes.7z)
 ### Download: [PC Archives Patch](https://github.com/UnitedMel/SA-Community-Map-Fixes/releases/download/latest/SA.PCArchivesPatch.7z)
