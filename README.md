@@ -17,7 +17,7 @@
 # Latest Release:
 ### Download: [Community Map Fixes](https://github.com/UnitedMel/SA-Community-Map-Fixes/releases/download/latest/SA.CommunityMapFixes.7z)
 ### Download: [PC Archives Patch](https://drive.google.com/file/d/1149vzFtfhAOttE5ttwK8sEaleU2I-Rn8/view?usp=drive_link)
-> It’s recommended to install Archives Patch directly into the game's root folder, but if you really want to use modloader make sure to give it low priority. 
+> It’s recommended to install Archives Patch directly into the game's root folder. 
 #
 ### Download: [Community Map Extras](https://github.com/UnitedMel/SA-Community-Map-Fixes/releases/download/latest/SA.CommunityMapExtras.7z)
 #
