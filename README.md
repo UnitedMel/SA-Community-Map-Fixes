@@ -8,7 +8,7 @@
 - [CLEO](https://github.com/cleolibrary/CLEO5/releases/download/v5.0.0-RC5/SA.CLEO_v5.0.0-RC5.zip)
 - [Open Limit Adjuster](https://github.com/GTAmodding/III.VC.SA.LimitAdjuster/releases)
 - [SkyGfx](https://github.com/aap/skygfx/releases)
-- [PC Archives Patch](https://github.com/UnitedMel/SA-Community-Map-Fixes/releases/download/latest/SA.PCArchivesPatch.7z)
+- [PC Archives Patch](https://drive.google.com/file/d/1149vzFtfhAOttE5ttwK8sEaleU2I-Rn8/view?usp=drive_link)
 
 # Recommended:
 ### Download: [Community Cutscene Fixes](https://github.com/Cleoude/SA-Community-Cutscene-Fixes)
