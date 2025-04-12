@@ -56,6 +56,7 @@ cj_office,			cmf_INT
 cj_lighting,		cmf_INT
 skate_shop,			cmf_INT
 trailerkb,			cmf_INT
+tr_kb_bits,			cmf_INT
 cj_exp,				cmf_INT
 ;
 end
