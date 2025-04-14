@@ -16,14 +16,6 @@ jobs:
         shell: cmd
         run: build_all.bat
 
-      - name: Pack IMGs
-        uses: ThirteenAG/zip-release@master
-        with:
-          path: ./*
-          type: 'zip'
-          filename: 'SA.PCArchivesPatch.7z'
-          exclusions: 'extras modloader scripts *.bat *7z *.md'
-
       - name: Pack Release
         uses: ThirteenAG/zip-release@master
         with:
@@ -56,4 +48,4 @@ jobs:
           name: ${{ steps.release_info.outputs.name }}
           body: ${{ steps.release_info.outputs.body }}
           tag: ${{ steps.release_info.outputs.tag_name }}
-          artifacts: SA.CommunityMapFixes.7z,SA.PCArchivesPatch.7z,SA.CommunityMapExtras.7z
+          artifacts: SA.CommunityMapFixes.7z,SA.CommunityMapExtras.7z
