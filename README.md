@@ -97,13 +97,13 @@
 - **4Arty** for fixed models
 - **5d0** for high quality textures, differences between platforms reporting and support
 - **Ash_735** for high quality textures
-- **LividKilla66** for improved models and textures
 - **Craccosan** for fixed models
 - **DimZet13** for high quality textures
 - **Fenton** for improved models and textures
 - **Graven** for high quality textures
 - **Inadequate** for technical information and fixed models
 - **Justin "The Dude"** for corona lights reflections
+- **LividKilla66** for improved models and textures
 - **Matt1010** for high quality textures
 - **Reyks** for improved IDE flags and collisions
 - **ThirteenAG** for github workflow template
