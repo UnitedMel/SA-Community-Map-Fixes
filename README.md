@@ -97,7 +97,7 @@
 - **4Arty** for fixed models
 - **5d0** for high quality textures, differences between platforms reporting and support
 - **Ash_735** for high quality textures
-- **CarlJohnson(Cj)** for improved models and textures
+- **LividKilla66** for improved models and textures
 - **Craccosan** for fixed models
 - **DimZet13** for high quality textures
 - **Fenton** for improved models and textures
