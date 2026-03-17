@@ -12,7 +12,7 @@
 
 # Recommended:
 ### Download: [Community Cutscene Fixes](https://github.com/Cleoude/SA-Community-Cutscene-Fixes)
-> Make sure CMF has a higher priority set in the modloader!
+> CCF should have a higher priority set in the modloader.
 
 # Latest Release:
 ### Download: [Community Map Fixes](https://github.com/UnitedMel/SA-Community-Map-Fixes/releases/download/latest/SA.CommunityMapFixes.7z)
