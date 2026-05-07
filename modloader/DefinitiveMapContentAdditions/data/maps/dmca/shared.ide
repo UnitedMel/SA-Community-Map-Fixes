@@ -45,17 +45,17 @@ icons8,				iconshare
 icons9,				iconshare
 bbpcpx,				iconshare
 ; MAP
-gen_country,		cmf_CS
-gen_LA,				cmf_LA
-gen_SF,				cmf_SF
-gen_vegas,			cmf_VEG
+gen_country,		dmca_CS
+gen_LA,				dmca_LA
+gen_SF,				dmca_SF
+gen_vegas,			dmca_VEG
 ; INTERIOR
-cj_kitchen,			cmf_INT
-cj_office,			cmf_INT
-cj_lighting,		cmf_INT
-skate_shop,			cmf_INT
-trailerkb,			cmf_INT
-tr_kb_bits,			cmf_INT
-cj_exp,				cmf_INT
+cj_kitchen,			dmca_INT
+cj_office,			dmca_INT
+cj_lighting,		dmca_INT
+skate_shop,			dmca_INT
+trailerkb,			dmca_INT
+tr_kb_bits,			dmca_INT
+cj_exp,				dmca_INT
 ;
 end
