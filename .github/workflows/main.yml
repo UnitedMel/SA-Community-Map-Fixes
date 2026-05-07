@@ -48,4 +48,4 @@ jobs:
           name: ${{ steps.release_info.outputs.name }}
           body: ${{ steps.release_info.outputs.body }}
           tag: ${{ steps.release_info.outputs.tag_name }}
-          artifacts: SA.CommunityMapFixes.7z,SA.CommunityMapExtras.7z
+          artifacts: SA.DefinitiveMapContentAdditions.7z,SA.DefinitiveMapContentAdditionsExtras.7z
