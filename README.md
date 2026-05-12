@@ -12,11 +12,11 @@
 - [PC Archives Patch](https://drive.google.com/file/d/1149vzFtfhAOttE5ttwK8sEaleU2I-Rn8/view?usp=drive_link)
 
 # Latest Release:
-### Download: [Definitive Map Content Additions](https://github.com/UnitedMel/SA-Definitive-Map-Content-Additions/releases/tag/latest)
+### Download: [Definitive Map Content Additions](https://github.com/UnitedMel/SA-Definitive-Map-Content-Additions/releases/download/latest/SA.DefinitiveMapContentAdditions.7z)
 > Occupied IDs: 6526-6862 (337); 12004-12092 (88)
 ### Download: [PC Archives Patch](https://drive.google.com/file/d/1149vzFtfhAOttE5ttwK8sEaleU2I-Rn8/view?usp=drive_link)
 > It’s recommended to install Archives Patch directly into the game's root folder. 
-### Download: [Definitive Map Content Extras](https://github.com/UnitedMel/SA-Definitive-Map-Content-Additions/releases/tag/latest)
+### Download: [Definitive Map Content Extras](https://github.com/UnitedMel/SA-Definitive-Map-Content-Additions/releases/download/latest/SA.DefinitiveMapContentAdditionsExtras.7z)
 > Purely optional set of extras to fine-tune your experience. 
 <!---### [Instructions unclear. I'm stuck in the microwave. (Modding Guide)](https://github.com/UnitedMel/SA-Community-Map-Fixes/blob/main/GUIDE.md)--->
 
