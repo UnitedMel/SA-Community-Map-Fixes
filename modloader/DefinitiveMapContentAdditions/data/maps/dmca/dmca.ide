@@ -53,6 +53,8 @@ objs
 6576, telewires13cs, cw_wires2cs_t, 299, 2097156
 6577, telewires14cs, cw_wires2cs_t, 299, 2097156
 6578, telewires15cs, cw_wires2cs_t, 299, 2097156
+# --- #
+3818, TCElawcuntun_a_law2, roads_tunnellahills, 299, 2097156
 end
 tobj
 6527, bowln, neonshare, 225, 4, 20, 6
@@ -66,5 +68,4 @@ tobj
 17540, vegasmotsignCJ_lh, signshare, 60, 132, 20, 7
 1539, lamotsig1_LA_lh, signshare, 60, 132, 20, 7
 3856, lamotsig2_LA_lh, signshare, 60, 132, 20, 7
-#3818, sf_frwaysig, sfroadsign, 150, 0 //RESERVED FOR SOMETHING I DUNNO
 end
