@@ -1,6 +1,7 @@
 # DMCA.IDE
 # This file specify properties of additional objects.
 # 6526-6862 (337)
+# 6526-6584 (used)
 #
 objs
 6526, smb_sculpture, dicke, 80, 128
@@ -55,6 +56,13 @@ objs
 6578, telewires15cs, cw_wires2cs_t, 299, 2097156
 # --- #
 3818, TCElawcuntun_a_law2, roads_tunnellahills, 299, 2097156
+14549, des_savhangr_alpha, des_boneyard, 180, 2097156
+# --- #
+6581, la_fuckcar3, wreckshare, 80, 2097156
+#6582, la_fuckcar4, wreckshare, 80, 2097156
+6583, la_fuckvan, wreckshare, 80, 2097156
+6584, la_fucklorry, wreckshare, 80, 2097156
+6585, la_fuckrod, wreckshare, 80, 2097156
 end
 tobj
 6527, bowln, neonshare, 225, 4, 20, 6
