@@ -4,6 +4,10 @@
 txdp
 ; LIGHTS
 nightlights1_law2,	lightshare
+; LAMPS
+vgnlpost, 			lampshare
+dynsigns,			lampshare
+streetlights, 		lampshare
 ; PROPS
 juice,				vendshare
 cj_commercial,		vendshare
