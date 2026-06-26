@@ -5,8 +5,8 @@
 # Requirements:
 - **Grand Theft Auto: San Andreas v1.0**
 - [Ultimate ASI Loader](https://github.com/ThirteenAG/Ultimate-ASI-Loader/releases/download/Win32-latest/vorbisFile-Win32.zip)
-- [CLEO](https://github.com/cleolibrary/CLEO5/releases/download/v5.0.0-RC5/SA.CLEO_v5.0.0-RC5.zip)
-- [Modloader](https://github.com/thelink2012/modloader/releases/download/v0.3.7/modloader.zip)
+- [CLEO](https://github.com/cleolibrary/CLEO4/releases)
+- [Modloader](https://github.com/thelink2012/modloader/releases)
 - [Open Limit Adjuster](https://github.com/GTAmodding/III.VC.SA.LimitAdjuster/releases)
 - [SkyGfx](https://github.com/aap/skygfx/releases)
 - [PC Archives Patch](https://drive.google.com/file/d/1149vzFtfhAOttE5ttwK8sEaleU2I-Rn8/view?usp=drive_link)
